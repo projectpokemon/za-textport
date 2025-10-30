@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Mégafouet {35}
+- [EVO] Mégafouet {35}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [03] Fouet Lianes {6}
@@ -158,9 +158,10 @@ Type: Plante / Poison
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Mégafouet {35}
+- [EVO] Mégafouet {35}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [03] Fouet Lianes {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: Lance-Soleil
 Level Up Moves:
-- [00] Déflagration {39}
-- [00] Lame d’Air {39}
+- [EVO] Déflagration {39}
+- [EVO] Lame d’Air {39}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [01] Draco-Griffe {10}
@@ -388,10 +389,11 @@ Type: Feu / Dragon
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Lance-Soleil
 Level Up Moves:
-- [00] Déflagration {39}
-- [00] Lame d’Air {39}
+- [EVO] Déflagration {39}
+- [EVO] Lame d’Air {39}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [01] Draco-Griffe {10}
@@ -453,10 +455,11 @@ Type: Feu / Vol
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Lance-Soleil
 Level Up Moves:
-- [00] Déflagration {39}
-- [00] Lame d’Air {39}
+- [EVO] Déflagration {39}
+- [EVO] Lame d’Air {39}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [01] Draco-Griffe {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Hydrocanon {39}
-- [00] Luminocanon {39}
+- [EVO] Hydrocanon {39}
+- [EVO] Luminocanon {39}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [03] Pistolet à O {6}
@@ -691,10 +694,11 @@ Type: Eau
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Hydrocanon {39}
-- [00] Luminocanon {39}
+- [EVO] Hydrocanon {39}
+- [EVO] Luminocanon {39}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [03] Pistolet à O {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: Colère
 Level Up Moves:
-- [00] Dard-Nuée {13}
+- [EVO] Dard-Nuée {13}
 - [01] Dard-Venin {10}
 - [01] Sécrétion {10}
 - [07] Armure {10}
@@ -847,9 +851,10 @@ Type: Insecte / Poison
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Colère
 Level Up Moves:
-- [00] Dard-Nuée {13}
+- [EVO] Dard-Nuée {13}
 - [01] Dard-Venin {10}
 - [01] Sécrétion {10}
 - [07] Armure {10}
@@ -1026,6 +1031,7 @@ Type: Normal / Vol
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Canicule
 Level Up Moves:
 - [01] Charge {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Mâchouille {25}
+- [EVO] Mâchouille {25}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [04] Dard-Venin {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: Câlinerie
 Level Up Moves:
-- [00] Poing Éclair {10}
-- [-02] Ondes Étranges {10}
+- [EVO] Poing Éclair {10}
+- [RELEARN] Ondes Étranges {10}
 - [01] Mimi-Queue {10}
 - [01] Rugissement {10}
 - [01] Éclair {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: Queue de Fer
 Level Up Moves:
-- [00] Psyko {10}
-- [-02] Ondes Étranges {10}
+- [EVO] Psyko {10}
+- [RELEARN] Ondes Étranges {10}
 - [01] Mimi-Queue {10}
 - [01] Rugissement {10}
 - [01] Éclair {10}
@@ -1479,6 +1485,7 @@ Type: Fée / Vol
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Lance-Flammes
 Level Up Moves:
 - [01] Charge {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: Éco-Sphère
 Level Up Moves:
-- [00] Choc Mental {19}
+- [EVO] Choc Mental {19}
 - [01] Rafale Psy {10}
 - [01] Téléport {10}
 - [10] Protection {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [-02] Choc Mental {19}
+- [RELEARN] Choc Mental {19}
 - [01] Rafale Psy {10}
 - [01] Téléport {10}
 - [10] Protection {13}
@@ -1695,9 +1702,10 @@ Type: Psy
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [-02] Choc Mental {19}
+- [RELEARN] Choc Mental {19}
 - [01] Rafale Psy {10}
 - [01] Téléport {10}
 - [10] Protection {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: Éco-Sphère
 Level Up Moves:
-- [-02] Furie-Bond {10}
+- [RELEARN] Furie-Bond {10}
 - [01] Fouet Lianes {10}
 - [01] Croissance {10}
 - [08] Harcèlement {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: Ultralaser
 Level Up Moves:
-- [00] Bombe Beurk {10}
+- [EVO] Bombe Beurk {10}
 - [01] Fouet Lianes {10}
 - [01] Croissance {10}
 - [01] Furie-Bond {10}
@@ -2060,9 +2068,10 @@ Type: Plante / Poison
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Ultralaser
 Level Up Moves:
-- [00] Bombe Beurk {10}
+- [EVO] Bombe Beurk {10}
 - [01] Fouet Lianes {10}
 - [01] Croissance {10}
 - [01] Furie-Bond {10}
@@ -2297,6 +2306,7 @@ Type: Eau / Psy
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Laser Glace
 Level Up Moves:
 - [01] Charge {10}
@@ -2609,6 +2619,7 @@ Type: Spectre / Poison
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
 - [01] Onde Folie {10}
@@ -2783,6 +2794,7 @@ Type: Normal
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Poing Boost
 Level Up Moves:
 - [01] Charge {10}
@@ -2969,6 +2981,7 @@ Type: Eau / Psy
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
 - [01] Charge {10}
@@ -3131,6 +3144,7 @@ Type: Insecte / Vol
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Lame de Roc
 Level Up Moves:
 - [01] Charge {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Morsure {23}
-- [-02] Pistolet à O {10}
-- [-02] Siphon {10}
+- [EVO] Morsure {23}
+- [RELEARN] Pistolet à O {10}
+- [RELEARN] Siphon {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Trempette {10}
@@ -3263,11 +3277,12 @@ Type: Eau / Ténèbres
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Morsure {23}
-- [-02] Pistolet à O {10}
-- [-02] Siphon {10}
+- [EVO] Morsure {23}
+- [RELEARN] Pistolet à O {10}
+- [RELEARN] Siphon {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Trempette {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: Laser Glace
 Level Up Moves:
-- [00] Pistolet à O {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [EVO] Pistolet à O {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [00] Éclair {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
-- [-02] Ondes Étranges {10}
+- [EVO] Éclair {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
+- [RELEARN] Ondes Étranges {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: Queue de Fer
 Level Up Moves:
-- [00] Flammèche {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [EVO] Flammèche {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -3612,6 +3627,7 @@ Type: Roche / Vol
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Telluriforce
 Level Up Moves:
 - [01] Morsure {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: Déflagration
 Level Up Moves:
-- [00] Vent Violent {58}
-- [-02] Poing Feu {10}
-- [-02] Poing Éclair {10}
-- [-02] Cru-Ailes {10}
+- [EVO] Vent Violent {58}
+- [RELEARN] Poing Feu {10}
+- [RELEARN] Poing Éclair {10}
+- [RELEARN] Cru-Ailes {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Lame d’Air {10}
@@ -3856,12 +3872,13 @@ Type: Dragon / Vol
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Déflagration
 Level Up Moves:
-- [00] Vent Violent {58}
-- [-02] Poing Feu {10}
-- [-02] Poing Éclair {10}
-- [-02] Cru-Ailes {10}
+- [EVO] Vent Violent {58}
+- [RELEARN] Poing Feu {10}
+- [RELEARN] Poing Éclair {10}
+- [RELEARN] Cru-Ailes {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Lame d’Air {10}
@@ -3932,6 +3949,7 @@ Type: Psy
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Choc Mental {10}
@@ -4011,6 +4029,7 @@ Type: Psy / Combat
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Abri
 Level Up Moves:
 - [01] Choc Mental {10}
@@ -4090,6 +4109,7 @@ Type: Psy
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Abri
 Level Up Moves:
 - [01] Choc Mental {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: Telluriforce
 Level Up Moves:
-- [00] Giga-Sangsue {19}
+- [EVO] Giga-Sangsue {19}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [06] Feuillage {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Lame Feuille {35}
-- [-02] Giga-Sangsue {19}
+- [EVO] Lame Feuille {35}
+- [RELEARN] Giga-Sangsue {19}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [06] Feuillage {9}
@@ -4332,10 +4352,11 @@ Type: Plante / Fée
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Lame Feuille {35}
-- [-02] Giga-Sangsue {19}
+- [EVO] Lame Feuille {35}
+- [RELEARN] Giga-Sangsue {19}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [06] Feuillage {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: Crocs Givre
 Level Up Moves:
-- [00] Tranche {21}
+- [EVO] Tranche {21}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [06] Pistolet à O {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: Draco-Griffe
 Level Up Moves:
-- [00] Mâchouille {33}
+- [EVO] Mâchouille {33}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Tranche {10}
@@ -4561,9 +4582,10 @@ Type: Eau / Dragon
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Draco-Griffe
 Level Up Moves:
-- [00] Mâchouille {33}
+- [EVO] Mâchouille {33}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Tranche {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: Sabotage
 Level Up Moves:
-- [00] Danse Lames {25}
+- [EVO] Danse Lames {25}
 - [01] Dard-Venin {10}
 - [01] Sécrétion {10}
 - [01] Puissance {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Poing Éclair {33}
-- [-02] Ondes Étranges {10}
+- [EVO] Poing Éclair {33}
+- [RELEARN] Ondes Étranges {10}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [04] Éclair {7}
@@ -4994,10 +5016,11 @@ Type: Électrik / Dragon
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Poing Éclair {33}
-- [-02] Ondes Étranges {10}
+- [EVO] Poing Éclair {33}
+- [RELEARN] Ondes Étranges {10}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [04] Éclair {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Choc Mental {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [EVO] Choc Mental {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: Toxik
 Level Up Moves:
-- [00] Aboiement {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [EVO] Aboiement {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: Laser Glace
 Level Up Moves:
-- [-02] Choc Mental {10}
+- [RELEARN] Choc Mental {10}
 - [01] Charge {10}
 - [01] Malédiction {10}
 - [01] Rayon Gemme {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [-02] Toxik {10}
-- [-02] Choc Mental {10}
+- [RELEARN] Toxik {10}
+- [RELEARN] Choc Mental {10}
 - [01] Charge {10}
 - [01] Malédiction {10}
 - [01] Rayon Gemme {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Queue de Fer {10}
+- [EVO] Queue de Fer {10}
 - [01] Charge {10}
 - [01] Jet-Pierres {10}
 - [01] Armure {10}
@@ -5381,9 +5404,10 @@ Type: Acier / Sol
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Queue de Fer {10}
+- [EVO] Queue de Fer {10}
 - [01] Charge {10}
 - [01] Jet-Pierres {10}
 - [01] Armure {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] Pisto-Poing {10}
+- [EVO] Pisto-Poing {10}
 - [01] Groz’Yeux {10}
 - [01] Vive-Attaque {10}
 - [12] Cru-Ailes {15}
@@ -5496,9 +5520,10 @@ Type: Insecte / Acier
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] Pisto-Poing {10}
+- [EVO] Pisto-Poing {10}
 - [01] Groz’Yeux {10}
 - [01] Vive-Attaque {10}
 - [12] Cru-Ailes {15}
@@ -5611,6 +5636,7 @@ Type: Insecte / Combat
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Lame de Roc
 Level Up Moves:
 - [01] Charge {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: Tomberoche
 Level Up Moves:
-- [-02] Lame d’Air {10}
+- [RELEARN] Lame d’Air {10}
 - [01] Groz’Yeux {10}
 - [01] Picpic {10}
 - [12] Griffe Acier {15}
@@ -5770,9 +5796,10 @@ Type: Acier / Vol
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Tomberoche
 Level Up Moves:
-- [-02] Lame d’Air {10}
+- [RELEARN] Lame d’Air {10}
 - [01] Groz’Yeux {10}
 - [01] Picpic {10}
 - [12] Griffe Acier {15}
@@ -5934,6 +5961,7 @@ Type: Ténèbres / Feu
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Bombe Beurk
 Level Up Moves:
 - [01] Groz’Yeux {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: Tête de Fer
 Level Up Moves:
-- [00] Mur de Fer {10}
+- [EVO] Mur de Fer {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [03] Jet-Pierres {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: Colère
 Level Up Moves:
-- [-02] Mur de Fer {10}
-- [-02] Vibrobscur {10}
+- [RELEARN] Mur de Fer {10}
+- [RELEARN] Vibrobscur {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [03] Jet-Pierres {6}
@@ -6179,10 +6207,11 @@ Type: Roche / Ténèbres
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Colère
 Level Up Moves:
-- [-02] Mur de Fer {10}
-- [-02] Vibrobscur {10}
+- [RELEARN] Mur de Fer {10}
+- [RELEARN] Vibrobscur {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [03] Jet-Pierres {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: Tonnerre
 Level Up Moves:
-- [00] Éclat Magique {33}
+- [EVO] Éclat Magique {33}
 - [01] Rugissement {10}
 - [01] Voix Enjôleuse {10}
 - [06] Choc Mental {9}
@@ -6435,9 +6464,10 @@ Type: Psy / Fée
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Tonnerre
 Level Up Moves:
-- [00] Éclat Magique {33}
+- [EVO] Éclat Magique {33}
 - [01] Rugissement {10}
 - [01] Voix Enjôleuse {10}
 - [06] Choc Mental {9}
@@ -6569,6 +6599,7 @@ Type: Ténèbres / Spectre
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Direct Toxik
 Level Up Moves:
 - [01] Charge {10}
@@ -6705,6 +6736,7 @@ Type: Acier / Fée
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Lame de Roc
 Level Up Moves:
 - [01] Morsure {10}
@@ -6954,6 +6986,7 @@ Type: Acier
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
 - [01] Charge {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [-02] Poing Feu {10}
-- [-02] Poing Glace {10}
-- [-02] Poing Éclair {10}
+- [RELEARN] Poing Feu {10}
+- [RELEARN] Poing Glace {10}
+- [RELEARN] Poing Éclair {10}
 - [01] Choc Mental {10}
 - [01] Rengorgement {10}
 - [09] Détection {12}
@@ -7150,11 +7183,12 @@ Type: Combat / Psy
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [-02] Poing Feu {10}
-- [-02] Poing Glace {10}
-- [-02] Poing Éclair {10}
+- [RELEARN] Poing Feu {10}
+- [RELEARN] Poing Glace {10}
+- [RELEARN] Poing Éclair {10}
 - [01] Choc Mental {10}
 - [01] Rengorgement {10}
 - [09] Détection {12}
@@ -7323,6 +7357,7 @@ Type: Électrik
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Crocs Givre
 Level Up Moves:
 - [01] Charge {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [00] Dard-Venin {10}
+- [EVO] Dard-Venin {10}
 - [01] Vole-Vie {10}
 - [01] Croissance {10}
 - [01] Para-Spore {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: Psykoud’Boul
 Level Up Moves:
-- [00] Tranche {33}
+- [EVO] Tranche {33}
 - [01] Groz’Yeux {10}
 - [01] Tranche-Nuit {10}
 - [01] Aqua-Jet {10}
@@ -7536,9 +7571,10 @@ Type: Eau / Ténèbres
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Psykoud’Boul
 Level Up Moves:
-- [00] Tranche {33}
+- [EVO] Tranche {33}
 - [01] Groz’Yeux {10}
 - [01] Tranche-Nuit {10}
 - [01] Aqua-Jet {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: Lame de Roc
 Level Up Moves:
-- [00] Éboulement {36}
+- [EVO] Éboulement {36}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [05] Flammèche {8}
@@ -7710,9 +7746,10 @@ Type: Feu / Sol
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Lame de Roc
 Level Up Moves:
-- [00] Éboulement {36}
+- [EVO] Éboulement {36}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [05] Flammèche {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Draco-Choc {38}
+- [EVO] Draco-Choc {38}
 - [01] Rugissement {10}
 - [01] Picpic {10}
 - [04] Voix Enjôleuse {7}
@@ -7878,9 +7915,10 @@ Type: Dragon / Fée
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Draco-Choc {38}
+- [EVO] Draco-Choc {38}
 - [01] Rugissement {10}
 - [01] Picpic {10}
 - [04] Voix Enjôleuse {7}
@@ -8044,6 +8082,7 @@ Type: Spectre
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
 - [01] Grincement {10}
@@ -8163,6 +8202,7 @@ Type: Ténèbres
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Psykoud’Boul
 Level Up Moves:
 - [01] Groz’Yeux {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [00] Lyophilisation {45}
+- [EVO] Lyophilisation {45}
 - [01] Coup d’Boule {10}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
@@ -8323,9 +8363,10 @@ Type: Glace
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [00] Lyophilisation {45}
+- [EVO] Lyophilisation {45}
 - [01] Coup d’Boule {10}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: Griffe Ombre
 Level Up Moves:
-- [00] Abri {33}
+- [EVO] Abri {33}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
 - [01] Flammèche {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Vol {53}
+- [EVO] Vol {53}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
 - [01] Flammèche {10}
@@ -8550,9 +8591,10 @@ Type: Dragon / Vol
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Vol {53}
+- [EVO] Vol {53}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
 - [01] Flammèche {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: Poing Glace
 Level Up Moves:
-- [00] Choc Mental {23}
-- [00] Griffe Acier {23}
+- [EVO] Choc Mental {23}
+- [EVO] Griffe Acier {23}
 - [01] Charge {10}
 - [01] Pisto-Poing {10}
 - [06] Psykoud’Boul {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: Poing Boost
 Level Up Moves:
-- [-02] Explosion {10}
-- [-02] Tacle Lourd {10}
+- [RELEARN] Explosion {10}
+- [RELEARN] Tacle Lourd {10}
 - [01] Charge {10}
 - [01] Choc Mental {10}
 - [01] Griffe Acier {10}
@@ -8757,10 +8799,11 @@ Type: Acier / Psy
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Poing Boost
 Level Up Moves:
-- [-02] Explosion {10}
-- [-02] Tacle Lourd {10}
+- [RELEARN] Explosion {10}
+- [RELEARN] Tacle Lourd {10}
 - [01] Charge {10}
 - [01] Choc Mental {10}
 - [01] Griffe Acier {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [-02] Dard-Venin {10}
+- [RELEARN] Dard-Venin {10}
 - [01] Vole-Vie {10}
 - [01] Croissance {10}
 - [01] Para-Spore {10}
@@ -9015,6 +9058,7 @@ Type: Normal / Combat
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Close Combat
 Level Up Moves:
 - [01] Charge {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: Direct Toxik
 Level Up Moves:
-- [00] Mâchouille {51}
+- [EVO] Mâchouille {51}
 - [01] Charge {10}
 - [01] Tourbi-Sable {10}
 - [12] Draco-Souffle {15}
@@ -9243,9 +9287,10 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Direct Toxik
 Level Up Moves:
-- [00] Mâchouille {51}
+- [EVO] Mâchouille {51}
 - [01] Charge {10}
 - [01] Tourbi-Sable {10}
 - [12] Draco-Souffle {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: Poing Glace
 Level Up Moves:
-- [-02] Détection {10}
+- [RELEARN] Détection {10}
 - [01] Vive-Attaque {10}
 - [01] Abri {10}
 - [01] Ténacité {10}
@@ -9428,9 +9473,10 @@ Type: Combat / Acier
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Poing Glace
 Level Up Moves:
-- [-02] Détection {10}
+- [RELEARN] Détection {10}
 - [01] Vive-Attaque {10}
 - [01] Abri {10}
 - [01] Ténacité {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: Telluriforce
 Level Up Moves:
-- [00] Poing Glace {43}
+- [EVO] Poing Glace {43}
 - [01] Groz’Yeux {10}
 - [01] Feuillage {10}
 - [10] Brume {13}
@@ -9692,9 +9738,10 @@ Type: Plante / Glace
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Telluriforce
 Level Up Moves:
-- [00] Poing Glace {43}
+- [EVO] Poing Glace {43}
 - [01] Groz’Yeux {10}
 - [01] Feuillage {10}
 - [10] Brume {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: Aéropique
 Level Up Moves:
-- [00] Tranch’Herbe {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [EVO] Tranch’Herbe {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: Ball’Ombre
 Level Up Moves:
-- [00] Vent Glace {10}
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [EVO] Vent Glace {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: Lame de Roc
 Level Up Moves:
-- [00] Tranche {10}
-- [-02] Psyko {10}
-- [-02] Onde Folie {10}
-- [-02] Charme {10}
-- [-02] Prescience {10}
-- [-02] Feuille Magik {10}
-- [-02] Plénitude {10}
-- [-02] Tranche-Nuit {10}
-- [-02] Vampibaiser {10}
-- [-02] Feu Ensorcelé {10}
+- [EVO] Tranche {10}
+- [RELEARN] Psyko {10}
+- [RELEARN] Onde Folie {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Prescience {10}
+- [RELEARN] Feuille Magik {10}
+- [RELEARN] Plénitude {10}
+- [RELEARN] Tranche-Nuit {10}
+- [RELEARN] Vampibaiser {10}
+- [RELEARN] Feu Ensorcelé {10}
 - [01] Rugissement {10}
 - [01] Rafale Psy {10}
 - [01] Hypnose {10}
@@ -9936,18 +9983,19 @@ Type: Psy / Combat
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Lame de Roc
 Level Up Moves:
-- [00] Tranche {10}
-- [-02] Psyko {10}
-- [-02] Onde Folie {10}
-- [-02] Charme {10}
-- [-02] Prescience {10}
-- [-02] Feuille Magik {10}
-- [-02] Plénitude {10}
-- [-02] Tranche-Nuit {10}
-- [-02] Vampibaiser {10}
-- [-02] Feu Ensorcelé {10}
+- [EVO] Tranche {10}
+- [RELEARN] Psyko {10}
+- [RELEARN] Onde Folie {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Prescience {10}
+- [RELEARN] Feuille Magik {10}
+- [RELEARN] Plénitude {10}
+- [RELEARN] Tranche-Nuit {10}
+- [RELEARN] Vampibaiser {10}
+- [RELEARN] Feu Ensorcelé {10}
 - [01] Rugissement {10}
 - [01] Rafale Psy {10}
 - [01] Hypnose {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: Tonnerre
 Level Up Moves:
-- [00] Vampibaiser {10}
-- [-02] Abri {10}
-- [-02] Mâchouille {10}
-- [-02] Crocs Givre {10}
-- [-02] Chute Glace {10}
+- [EVO] Vampibaiser {10}
+- [RELEARN] Abri {10}
+- [RELEARN] Mâchouille {10}
+- [RELEARN] Crocs Givre {10}
+- [RELEARN] Chute Glace {10}
 - [01] Coup d’Boule {10}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
@@ -10081,13 +10129,14 @@ Type: Glace / Spectre
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Tonnerre
 Level Up Moves:
-- [00] Vampibaiser {10}
-- [-02] Abri {10}
-- [-02] Mâchouille {10}
-- [-02] Crocs Givre {10}
-- [-02] Chute Glace {10}
+- [EVO] Vampibaiser {10}
+- [RELEARN] Abri {10}
+- [RELEARN] Mâchouille {10}
+- [RELEARN] Crocs Givre {10}
+- [RELEARN] Chute Glace {10}
 - [01] Coup d’Boule {10}
 - [01] Groz’Yeux {10}
 - [01] Morsure {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: Lame de Roc
 Level Up Moves:
-- [00] Poing Boost {20}
+- [EVO] Poing Boost {20}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [06] Flammèche {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Tacle Feu {39}
-- [-02] Poing Boost {20}
+- [EVO] Tacle Feu {39}
+- [RELEARN] Poing Boost {20}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [06] Flammèche {9}
@@ -10321,10 +10370,11 @@ Type: Feu / Combat
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Tacle Feu {39}
-- [-02] Poing Boost {20}
+- [EVO] Tacle Feu {39}
+- [RELEARN] Poing Boost {20}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [06] Flammèche {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: Détricanon
 Level Up Moves:
-- [00] Onde Folie {23}
+- [EVO] Onde Folie {23}
 - [01] Charge {10}
 - [03] Groz’Yeux {6}
 - [06] Morsure {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: Exploforce
 Level Up Moves:
-- [-02] Strido-Son {10}
+- [RELEARN] Strido-Son {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Tir de Boue {10}
@@ -10937,9 +10987,10 @@ Type: Sol / Acier
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Exploforce
 Level Up Moves:
-- [-02] Strido-Son {10}
+- [RELEARN] Strido-Son {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Tir de Boue {10}
@@ -11055,6 +11106,7 @@ Type: Normal / Fée
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
 - [01] Charge {10}
@@ -11256,6 +11308,7 @@ Type: Insecte / Poison
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
 - [01] Dard-Venin {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: Lame de Roc
 Level Up Moves:
-- [00] Abattage {10}
+- [EVO] Abattage {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [09] Tourbi-Sable {12}
@@ -11606,6 +11659,7 @@ Type: Ténèbres / Combat
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Direct Toxik
 Level Up Moves:
 - [01] Charge {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: Demi-Tour
 Level Up Moves:
-- [00] Mâchouille {42}
+- [EVO] Mâchouille {42}
 - [01] Coup d’Boule {10}
 - [01] Charge {10}
 - [01] Cage Éclair {10}
@@ -12077,6 +12131,7 @@ Type: Électrik
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Cascade
 Level Up Moves:
 - [01] Coup d’Boule {10}
@@ -12293,6 +12348,7 @@ Type: Spectre / Feu
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Éco-Sphère
 Level Up Moves:
 - [01] Flammèche {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Pico-Défense {39}
+- [EVO] Pico-Défense {39}
 - [01] Fouet Lianes {10}
 - [01] Rugissement {10}
 - [05] Croissance {8}
@@ -12625,9 +12681,10 @@ Type: Plante / Combat
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Séisme
 Level Up Moves:
-- [00] Pico-Défense {39}
+- [EVO] Pico-Défense {39}
 - [01] Fouet Lianes {10}
 - [01] Rugissement {10}
 - [05] Croissance {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Feu Ensorcelé {39}
-- [-02] Ball’Ombre {10}
-- [-02] Prescience {10}
+- [EVO] Feu Ensorcelé {39}
+- [RELEARN] Ball’Ombre {10}
+- [RELEARN] Prescience {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [05] Flammèche {8}
@@ -12853,11 +12910,12 @@ Type: Feu / Psy
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Feu Ensorcelé {39}
-- [-02] Ball’Ombre {10}
-- [-02] Prescience {10}
+- [EVO] Feu Ensorcelé {39}
+- [RELEARN] Ball’Ombre {10}
+- [RELEARN] Prescience {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [05] Flammèche {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Sheauriken {39}
+- [EVO] Sheauriken {39}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [05] Pistolet à O {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Détricanon
 Level Up Moves:
-- [00] Sheauriken {39}
+- [EVO] Sheauriken {39}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [05] Pistolet à O {8}
@@ -13157,9 +13215,10 @@ Type: Eau / Ténèbres
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Sheauriken {39}
+- [EVO] Sheauriken {39}
 - [01] Charge {10}
 - [01] Rugissement {10}
 - [05] Pistolet à O {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: Détricanon
 Level Up Moves:
-- [00] Piétisol {23}
+- [EVO] Piétisol {23}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [07] Tir de Boue {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: Demi-Tour
 Level Up Moves:
-- [00] Cru-Ailes {20}
+- [EVO] Cru-Ailes {20}
 - [01] Rugissement {10}
 - [01] Picpic {10}
 - [08] Vive-Attaque {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: Giga Impact
 Level Up Moves:
-- [00] Rapace {38}
+- [EVO] Rapace {38}
 - [01] Cru-Ailes {10}
 - [01] Rugissement {10}
 - [01] Picpic {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {10}
+- [EVO] Abri {10}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Mur de Fer
 Level Up Moves:
-- [00] Abri {12}
+- [EVO] Abri {12}
 - [01] Charge {10}
 - [01] Poudre Toxik {10}
 - [01] Sécrétion {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Éclat Magique
 Level Up Moves:
-- [00] Tornade {15}
-- [-02] Charge {10}
-- [-02] Sécrétion {10}
-- [-02] Armure {10}
-- [-02] Abri {10}
+- [EVO] Tornade {15}
+- [RELEARN] Charge {10}
+- [RELEARN] Sécrétion {10}
+- [RELEARN] Armure {10}
+- [RELEARN] Abri {10}
 - [01] Poudre Toxik {10}
 - [01] Para-Spore {10}
 - [01] Poudre Dodo {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: Éclair Fou
 Level Up Moves:
-- [00] Surchauffe {38}
-- [-02] Ultralaser {10}
+- [EVO] Surchauffe {38}
+- [RELEARN] Ultralaser {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Flammèche {10}
@@ -15568,10 +15627,11 @@ Type: Feu / Normal
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Éclair Fou
 Level Up Moves:
-- [00] Surchauffe {38}
-- [-02] Ultralaser {10}
+- [EVO] Surchauffe {38}
+- [RELEARN] Ultralaser {10}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Flammèche {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga-Sangsue
 Level Up Moves:
-- [00] Pouvoir Lunaire {22}
+- [EVO] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga-Sangsue
 Level Up Moves:
-- [00] Pouvoir Lunaire {22}
+- [EVO] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga-Sangsue
 Level Up Moves:
-- [00] Pouvoir Lunaire {22}
+- [EVO] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga-Sangsue
 Level Up Moves:
-- [00] Pouvoir Lunaire {22}
+- [EVO] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga-Sangsue
 Level Up Moves:
-- [00] Pouvoir Lunaire {22}
+- [EVO] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Abri
 Level Up Moves:
-- [-02] Pouvoir Lunaire {22}
+- [RELEARN] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16102,9 +16162,10 @@ Type: Fée
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Abri
 Level Up Moves:
-- [-02] Pouvoir Lunaire {22}
+- [RELEARN] Pouvoir Lunaire {22}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psyko
 Level Up Moves:
-- [-02] Voix Enjôleuse {10}
+- [RELEARN] Voix Enjôleuse {10}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psyko
 Level Up Moves:
-- [-02] Voix Enjôleuse {10}
+- [RELEARN] Voix Enjôleuse {10}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psyko
 Level Up Moves:
-- [-02] Voix Enjôleuse {10}
+- [RELEARN] Voix Enjôleuse {10}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psyko
 Level Up Moves:
-- [-02] Voix Enjôleuse {10}
+- [RELEARN] Voix Enjôleuse {10}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psyko
 Level Up Moves:
-- [-02] Voix Enjôleuse {10}
+- [RELEARN] Voix Enjôleuse {10}
 - [01] Fouet Lianes {10}
 - [01] Charge {10}
 - [01] Vent Féérique {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: Câlinerie
 Level Up Moves:
-- [00] Aéropique {35}
+- [EVO] Aéropique {35}
 - [01] Charge {10}
 - [01] Croissance {10}
 - [07] Fouet Lianes {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: Direct Toxik
 Level Up Moves:
-- [00] Tranche-Nuit {35}
+- [EVO] Tranche-Nuit {35}
 - [01] Charge {10}
 - [01] Groz’Yeux {10}
 - [01] Provoc {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] Bouclier Royal {10}
+- [EVO] Bouclier Royal {10}
 - [01] Charge {10}
 - [01] Grincement {10}
 - [04] Ombre Portée {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] Bouclier Royal {10}
+- [EVO] Bouclier Royal {10}
 - [01] Charge {10}
 - [01] Grincement {10}
 - [04] Ombre Portée {7}
@@ -17759,6 +17820,7 @@ Type: Ténèbres / Psy
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Direct Toxik
 Level Up Moves:
 - [01] Charge {10}
@@ -17934,6 +17996,7 @@ Type: Roche / Combat
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Poing Boost
 Level Up Moves:
 - [01] Pistolet à O {10}
@@ -18103,6 +18166,7 @@ Type: Poison / Dragon
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Surf
 Level Up Moves:
 - [01] Charge {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: Psyko
 Level Up Moves:
-- [-02] Bélier {10}
-- [-02] Damoclès {10}
-- [-02] Météores {10}
-- [-02] Charme {10}
-- [-02] Vœu {10}
+- [RELEARN] Bélier {10}
+- [RELEARN] Damoclès {10}
+- [RELEARN] Météores {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Vœu {10}
 - [01] Charge {10}
 - [01] Mimi-Queue {10}
 - [01] Morsure {10}
@@ -18709,6 +18773,7 @@ Type: Combat / Vol
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Direct Toxik
 Level Up Moves:
 - [01] Charge {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: Laser Glace
 Level Up Moves:
-- [00] Mur de Fer {43}
+- [EVO] Mur de Fer {43}
 - [01] Charge {10}
 - [01] Vole-Vie {10}
 - [01] Acidarmure {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: Blizzard
 Level Up Moves:
-- [-02] Abattage {10}
+- [RELEARN] Abattage {10}
 - [01] Charge {10}
 - [01] Vole-Vie {10}
 - [01] Acidarmure {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: Canicule
 Level Up Moves:
-- [00] Draco-Choc {10}
+- [EVO] Draco-Choc {10}
 - [01] Charge {10}
 - [01] Vole-Vie {10}
 - [01] Rayon Lune {10}
@@ -19978,6 +20043,7 @@ Type: Fée
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Charge {10}
@@ -20030,6 +20096,7 @@ Type: Ténèbres / Vol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Tornade {10}
@@ -20082,6 +20149,7 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Morsure {10}
@@ -20139,6 +20207,7 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Morsure {10}
@@ -20196,6 +20265,7 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Morsure {10}
@@ -20253,6 +20323,7 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Morsure {10}
@@ -20310,6 +20381,7 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: Abri
 Level Up Moves:
 - [01] Morsure {10}
@@ -20367,6 +20439,7 @@ Type: Dragon / Sol
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: Abri
 Level Up Moves:
 - [01] Morsure {10}
@@ -20424,6 +20497,7 @@ Type: Roche / Fée
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: Abri
 Level Up Moves:
 - [01] Charge {10}
@@ -20478,6 +20552,7 @@ Type: Roche / Fée
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: Abri
 Level Up Moves:
 - [01] Charge {10}
@@ -20532,6 +20607,7 @@ Type: Psy / Spectre
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Abri
 Level Up Moves:
 - [01] Choc Mental {10}
@@ -20587,6 +20663,7 @@ Type: Psy / Ténèbres
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Abri
 Level Up Moves:
 - [01] Choc Mental {10}
@@ -20642,6 +20719,7 @@ Type: Feu / Eau
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: Abri
 Level Up Moves:
 - [01] Pistolet à O {10}
@@ -20777,6 +20855,7 @@ Type: Normal / Dragon
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Déflagration
 Level Up Moves:
 - [01] Groz’Yeux {10}
@@ -20897,6 +20976,7 @@ Type: Combat
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Direct Toxik
 Level Up Moves:
 - [01] Charge {10}

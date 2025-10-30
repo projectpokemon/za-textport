@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: 地震
 Level Up Moves:
-- [00] 强力鞭打 {35}
+- [EVO] 强力鞭打 {35}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [03] 藤鞭 {6}
@@ -158,9 +158,10 @@ Type: 草 / 毒
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
-- [00] 强力鞭打 {35}
+- [EVO] 强力鞭打 {35}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [03] 藤鞭 {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: 日光束
 Level Up Moves:
-- [00] 大字爆炎 {39}
-- [00] 空气之刃 {39}
+- [EVO] 大字爆炎 {39}
+- [EVO] 空气之刃 {39}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [01] 龙爪 {10}
@@ -388,10 +389,11 @@ Type: 火 / 龙
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 日光束
 Level Up Moves:
-- [00] 大字爆炎 {39}
-- [00] 空气之刃 {39}
+- [EVO] 大字爆炎 {39}
+- [EVO] 空气之刃 {39}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [01] 龙爪 {10}
@@ -453,10 +455,11 @@ Type: 火 / 飞行
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 日光束
 Level Up Moves:
-- [00] 大字爆炎 {39}
-- [00] 空气之刃 {39}
+- [EVO] 大字爆炎 {39}
+- [EVO] 空气之刃 {39}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [01] 龙爪 {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: 暴风雪
 Level Up Moves:
-- [00] 水炮 {39}
-- [00] 加农光炮 {39}
+- [EVO] 水炮 {39}
+- [EVO] 加农光炮 {39}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [03] 水枪 {6}
@@ -691,10 +694,11 @@ Type: 水
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 暴风雪
 Level Up Moves:
-- [00] 水炮 {39}
-- [00] 加农光炮 {39}
+- [EVO] 水炮 {39}
+- [EVO] 加农光炮 {39}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [03] 水枪 {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: 逆鳞
 Level Up Moves:
-- [00] 飞弹针 {13}
+- [EVO] 飞弹针 {13}
 - [01] 毒针 {10}
 - [01] 吐丝 {10}
 - [07] 变硬 {10}
@@ -847,9 +851,10 @@ Type: 虫 / 毒
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 逆鳞
 Level Up Moves:
-- [00] 飞弹针 {13}
+- [EVO] 飞弹针 {13}
 - [01] 毒针 {10}
 - [01] 吐丝 {10}
 - [07] 变硬 {10}
@@ -1026,6 +1031,7 @@ Type: 一般 / 飞行
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 热风
 Level Up Moves:
 - [01] 撞击 {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: 地震
 Level Up Moves:
-- [00] 咬碎 {25}
+- [EVO] 咬碎 {25}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [04] 毒针 {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: 嬉闹
 Level Up Moves:
-- [00] 雷电拳 {10}
-- [-02] 怪异电波 {10}
+- [EVO] 雷电拳 {10}
+- [RELEARN] 怪异电波 {10}
 - [01] 摇尾巴 {10}
 - [01] 叫声 {10}
 - [01] 电击 {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: 铁尾
 Level Up Moves:
-- [00] 精神强念 {10}
-- [-02] 怪异电波 {10}
+- [EVO] 精神强念 {10}
+- [RELEARN] 怪异电波 {10}
 - [01] 摇尾巴 {10}
 - [01] 叫声 {10}
 - [01] 电击 {10}
@@ -1479,6 +1485,7 @@ Type: 妖精 / 飞行
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: 喷射火焰
 Level Up Moves:
 - [01] 撞击 {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: 能量球
 Level Up Moves:
-- [00] 念力 {19}
+- [EVO] 念力 {19}
 - [01] 幻象光线 {10}
 - [01] 瞬间移动 {10}
 - [10] 反射壁 {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [-02] 念力 {19}
+- [RELEARN] 念力 {19}
 - [01] 幻象光线 {10}
 - [01] 瞬间移动 {10}
 - [10] 反射壁 {13}
@@ -1695,9 +1702,10 @@ Type: 超能力
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [-02] 念力 {19}
+- [RELEARN] 念力 {19}
 - [01] 幻象光线 {10}
 - [01] 瞬间移动 {10}
 - [10] 反射壁 {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: 能量球
 Level Up Moves:
-- [-02] 猛扑 {10}
+- [RELEARN] 猛扑 {10}
 - [01] 藤鞭 {10}
 - [01] 生长 {10}
 - [08] 纠缠不休 {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: 破坏光线
 Level Up Moves:
-- [00] 污泥炸弹 {10}
+- [EVO] 污泥炸弹 {10}
 - [01] 藤鞭 {10}
 - [01] 生长 {10}
 - [01] 猛扑 {10}
@@ -2060,9 +2068,10 @@ Type: 草 / 毒
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 破坏光线
 Level Up Moves:
-- [00] 污泥炸弹 {10}
+- [EVO] 污泥炸弹 {10}
 - [01] 藤鞭 {10}
 - [01] 生长 {10}
 - [01] 猛扑 {10}
@@ -2297,6 +2306,7 @@ Type: 水 / 超能力
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: 冰冻光束
 Level Up Moves:
 - [01] 撞击 {10}
@@ -2609,6 +2619,7 @@ Type: 幽灵 / 毒
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
 - [01] 奇异之光 {10}
@@ -2783,6 +2794,7 @@ Type: 一般
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 增强拳
 Level Up Moves:
 - [01] 撞击 {10}
@@ -2969,6 +2981,7 @@ Type: 水 / 超能力
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 暴风雪
 Level Up Moves:
 - [01] 撞击 {10}
@@ -3131,6 +3144,7 @@ Type: 虫 / 飞行
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 尖石攻击
 Level Up Moves:
 - [01] 撞击 {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: 地震
 Level Up Moves:
-- [00] 咬住 {23}
-- [-02] 水枪 {10}
-- [-02] 潮旋 {10}
+- [EVO] 咬住 {23}
+- [RELEARN] 水枪 {10}
+- [RELEARN] 潮旋 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 跃起 {10}
@@ -3263,11 +3277,12 @@ Type: 水 / 恶
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
-- [00] 咬住 {23}
-- [-02] 水枪 {10}
-- [-02] 潮旋 {10}
+- [EVO] 咬住 {23}
+- [RELEARN] 水枪 {10}
+- [RELEARN] 潮旋 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 跃起 {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: 冰冻光束
 Level Up Moves:
-- [00] 水枪 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [EVO] 水枪 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: 暗影球
 Level Up Moves:
-- [00] 电击 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
-- [-02] 怪异电波 {10}
+- [EVO] 电击 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
+- [RELEARN] 怪异电波 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: 铁尾
 Level Up Moves:
-- [00] 火花 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [EVO] 火花 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -3612,6 +3627,7 @@ Type: 岩石 / 飞行
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 大地之力
 Level Up Moves:
 - [01] 咬住 {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: 大字爆炎
 Level Up Moves:
-- [00] 暴风 {58}
-- [-02] 火焰拳 {10}
-- [-02] 雷电拳 {10}
-- [-02] 翅膀攻击 {10}
+- [EVO] 暴风 {58}
+- [RELEARN] 火焰拳 {10}
+- [RELEARN] 雷电拳 {10}
+- [RELEARN] 翅膀攻击 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 空气之刃 {10}
@@ -3856,12 +3872,13 @@ Type: 龙 / 飞行
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 大字爆炎
 Level Up Moves:
-- [00] 暴风 {58}
-- [-02] 火焰拳 {10}
-- [-02] 雷电拳 {10}
-- [-02] 翅膀攻击 {10}
+- [EVO] 暴风 {58}
+- [RELEARN] 火焰拳 {10}
+- [RELEARN] 雷电拳 {10}
+- [RELEARN] 翅膀攻击 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 空气之刃 {10}
@@ -3932,6 +3949,7 @@ Type: 超能力
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 念力 {10}
@@ -4011,6 +4029,7 @@ Type: 超能力 / 格斗
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: 守住
 Level Up Moves:
 - [01] 念力 {10}
@@ -4090,6 +4109,7 @@ Type: 超能力
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: 守住
 Level Up Moves:
 - [01] 念力 {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: 大地之力
 Level Up Moves:
-- [00] 终极吸取 {19}
+- [EVO] 终极吸取 {19}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [06] 树叶 {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 叶刃 {35}
-- [-02] 终极吸取 {19}
+- [EVO] 叶刃 {35}
+- [RELEARN] 终极吸取 {19}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [06] 树叶 {9}
@@ -4332,10 +4352,11 @@ Type: 草 / 妖精
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 叶刃 {35}
-- [-02] 终极吸取 {19}
+- [EVO] 叶刃 {35}
+- [RELEARN] 终极吸取 {19}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [06] 树叶 {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: 冰冻牙
 Level Up Moves:
-- [00] 劈开 {21}
+- [EVO] 劈开 {21}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [06] 水枪 {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: 龙爪
 Level Up Moves:
-- [00] 咬碎 {33}
+- [EVO] 咬碎 {33}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 劈开 {10}
@@ -4561,9 +4582,10 @@ Type: 水 / 龙
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 龙爪
 Level Up Moves:
-- [00] 咬碎 {33}
+- [EVO] 咬碎 {33}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 劈开 {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: 拍落
 Level Up Moves:
-- [00] 剑舞 {25}
+- [EVO] 剑舞 {25}
 - [01] 毒针 {10}
 - [01] 吐丝 {10}
 - [01] 聚气 {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 雷电拳 {33}
-- [-02] 怪异电波 {10}
+- [EVO] 雷电拳 {33}
+- [RELEARN] 怪异电波 {10}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [04] 电击 {7}
@@ -4994,10 +5016,11 @@ Type: 电 / 龙
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 雷电拳 {33}
-- [-02] 怪异电波 {10}
+- [EVO] 雷电拳 {33}
+- [RELEARN] 怪异电波 {10}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [04] 电击 {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 念力 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [EVO] 念力 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: 剧毒
 Level Up Moves:
-- [00] 大声咆哮 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [EVO] 大声咆哮 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: 冰冻光束
 Level Up Moves:
-- [-02] 念力 {10}
+- [RELEARN] 念力 {10}
 - [01] 撞击 {10}
 - [01] 咒术 {10}
 - [01] 力量宝石 {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: 暗影球
 Level Up Moves:
-- [-02] 剧毒 {10}
-- [-02] 念力 {10}
+- [RELEARN] 剧毒 {10}
+- [RELEARN] 念力 {10}
 - [01] 撞击 {10}
 - [01] 咒术 {10}
 - [01] 力量宝石 {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: 地震
 Level Up Moves:
-- [00] 铁尾 {10}
+- [EVO] 铁尾 {10}
 - [01] 撞击 {10}
 - [01] 落石 {10}
 - [01] 变硬 {10}
@@ -5381,9 +5404,10 @@ Type: 钢 / 地面
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
-- [00] 铁尾 {10}
+- [EVO] 铁尾 {10}
 - [01] 撞击 {10}
 - [01] 落石 {10}
 - [01] 变硬 {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: 近身战
 Level Up Moves:
-- [00] 子弹拳 {10}
+- [EVO] 子弹拳 {10}
 - [01] 瞪眼 {10}
 - [01] 电光一闪 {10}
 - [12] 翅膀攻击 {15}
@@ -5496,9 +5520,10 @@ Type: 虫 / 钢
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 近身战
 Level Up Moves:
-- [00] 子弹拳 {10}
+- [EVO] 子弹拳 {10}
 - [01] 瞪眼 {10}
 - [01] 电光一闪 {10}
 - [12] 翅膀攻击 {15}
@@ -5611,6 +5636,7 @@ Type: 虫 / 格斗
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 尖石攻击
 Level Up Moves:
 - [01] 撞击 {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: 岩石封锁
 Level Up Moves:
-- [-02] 空气之刃 {10}
+- [RELEARN] 空气之刃 {10}
 - [01] 瞪眼 {10}
 - [01] 啄 {10}
 - [12] 金属爪 {15}
@@ -5770,9 +5796,10 @@ Type: 钢 / 飞行
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 岩石封锁
 Level Up Moves:
-- [-02] 空气之刃 {10}
+- [RELEARN] 空气之刃 {10}
 - [01] 瞪眼 {10}
 - [01] 啄 {10}
 - [12] 金属爪 {15}
@@ -5934,6 +5961,7 @@ Type: 恶 / 火
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 污泥炸弹
 Level Up Moves:
 - [01] 瞪眼 {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: 铁头
 Level Up Moves:
-- [00] 铁壁 {10}
+- [EVO] 铁壁 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [03] 落石 {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: 逆鳞
 Level Up Moves:
-- [-02] 铁壁 {10}
-- [-02] 恶之波动 {10}
+- [RELEARN] 铁壁 {10}
+- [RELEARN] 恶之波动 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [03] 落石 {6}
@@ -6179,10 +6207,11 @@ Type: 岩石 / 恶
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 逆鳞
 Level Up Moves:
-- [-02] 铁壁 {10}
-- [-02] 恶之波动 {10}
+- [RELEARN] 铁壁 {10}
+- [RELEARN] 恶之波动 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [03] 落石 {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: 十万伏特
 Level Up Moves:
-- [00] 魔法闪耀 {33}
+- [EVO] 魔法闪耀 {33}
 - [01] 叫声 {10}
 - [01] 魅惑之声 {10}
 - [06] 念力 {9}
@@ -6435,9 +6464,10 @@ Type: 超能力 / 妖精
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 十万伏特
 Level Up Moves:
-- [00] 魔法闪耀 {33}
+- [EVO] 魔法闪耀 {33}
 - [01] 叫声 {10}
 - [01] 魅惑之声 {10}
 - [06] 念力 {9}
@@ -6569,6 +6599,7 @@ Type: 恶 / 幽灵
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 毒击
 Level Up Moves:
 - [01] 撞击 {10}
@@ -6705,6 +6736,7 @@ Type: 钢 / 妖精
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 尖石攻击
 Level Up Moves:
 - [01] 咬住 {10}
@@ -6954,6 +6986,7 @@ Type: 钢
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
 - [01] 撞击 {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: 暗影球
 Level Up Moves:
-- [-02] 火焰拳 {10}
-- [-02] 冰冻拳 {10}
-- [-02] 雷电拳 {10}
+- [RELEARN] 火焰拳 {10}
+- [RELEARN] 冰冻拳 {10}
+- [RELEARN] 雷电拳 {10}
 - [01] 念力 {10}
 - [01] 自我激励 {10}
 - [09] 看穿 {12}
@@ -7150,11 +7183,12 @@ Type: 格斗 / 超能力
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 暗影球
 Level Up Moves:
-- [-02] 火焰拳 {10}
-- [-02] 冰冻拳 {10}
-- [-02] 雷电拳 {10}
+- [RELEARN] 火焰拳 {10}
+- [RELEARN] 冰冻拳 {10}
+- [RELEARN] 雷电拳 {10}
 - [01] 念力 {10}
 - [01] 自我激励 {10}
 - [09] 看穿 {12}
@@ -7323,6 +7357,7 @@ Type: 电
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 冰冻牙
 Level Up Moves:
 - [01] 撞击 {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: 暗影球
 Level Up Moves:
-- [00] 毒针 {10}
+- [EVO] 毒针 {10}
 - [01] 吸取 {10}
 - [01] 生长 {10}
 - [01] 麻痹粉 {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: 意念头锤
 Level Up Moves:
-- [00] 劈开 {33}
+- [EVO] 劈开 {33}
 - [01] 瞪眼 {10}
 - [01] 暗袭要害 {10}
 - [01] 水流喷射 {10}
@@ -7536,9 +7571,10 @@ Type: 水 / 恶
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 意念头锤
 Level Up Moves:
-- [00] 劈开 {33}
+- [EVO] 劈开 {33}
 - [01] 瞪眼 {10}
 - [01] 暗袭要害 {10}
 - [01] 水流喷射 {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: 尖石攻击
 Level Up Moves:
-- [00] 岩崩 {36}
+- [EVO] 岩崩 {36}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [05] 火花 {8}
@@ -7710,9 +7746,10 @@ Type: 火 / 地面
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 尖石攻击
 Level Up Moves:
-- [00] 岩崩 {36}
+- [EVO] 岩崩 {36}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [05] 火花 {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 龙之波动 {38}
+- [EVO] 龙之波动 {38}
 - [01] 叫声 {10}
 - [01] 啄 {10}
 - [04] 魅惑之声 {7}
@@ -7878,9 +7915,10 @@ Type: 龙 / 妖精
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 龙之波动 {38}
+- [EVO] 龙之波动 {38}
 - [01] 叫声 {10}
 - [01] 啄 {10}
 - [04] 魅惑之声 {7}
@@ -8044,6 +8082,7 @@ Type: 幽灵
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
 - [01] 刺耳声 {10}
@@ -8163,6 +8202,7 @@ Type: 恶
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 意念头锤
 Level Up Moves:
 - [01] 瞪眼 {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: 暗影球
 Level Up Moves:
-- [00] 冷冻干燥 {45}
+- [EVO] 冷冻干燥 {45}
 - [01] 头锤 {10}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
@@ -8323,9 +8363,10 @@ Type: 冰
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 暗影球
 Level Up Moves:
-- [00] 冷冻干燥 {45}
+- [EVO] 冷冻干燥 {45}
 - [01] 头锤 {10}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: 暗影爪
 Level Up Moves:
-- [00] 守住 {33}
+- [EVO] 守住 {33}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
 - [01] 火花 {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: 地震
 Level Up Moves:
-- [00] 飞翔 {53}
+- [EVO] 飞翔 {53}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
 - [01] 火花 {10}
@@ -8550,9 +8591,10 @@ Type: 龙 / 飞行
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
-- [00] 飞翔 {53}
+- [EVO] 飞翔 {53}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
 - [01] 火花 {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: 冰冻拳
 Level Up Moves:
-- [00] 念力 {23}
-- [00] 金属爪 {23}
+- [EVO] 念力 {23}
+- [EVO] 金属爪 {23}
 - [01] 撞击 {10}
 - [01] 子弹拳 {10}
 - [06] 意念头锤 {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: 增强拳
 Level Up Moves:
-- [-02] 大爆炸 {10}
-- [-02] 重磅冲撞 {10}
+- [RELEARN] 大爆炸 {10}
+- [RELEARN] 重磅冲撞 {10}
 - [01] 撞击 {10}
 - [01] 念力 {10}
 - [01] 金属爪 {10}
@@ -8757,10 +8799,11 @@ Type: 钢 / 超能力
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 增强拳
 Level Up Moves:
-- [-02] 大爆炸 {10}
-- [-02] 重磅冲撞 {10}
+- [RELEARN] 大爆炸 {10}
+- [RELEARN] 重磅冲撞 {10}
 - [01] 撞击 {10}
 - [01] 念力 {10}
 - [01] 金属爪 {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [-02] 毒针 {10}
+- [RELEARN] 毒针 {10}
 - [01] 吸取 {10}
 - [01] 生长 {10}
 - [01] 麻痹粉 {10}
@@ -9015,6 +9058,7 @@ Type: 一般 / 格斗
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 近身战
 Level Up Moves:
 - [01] 撞击 {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: 毒击
 Level Up Moves:
-- [00] 咬碎 {51}
+- [EVO] 咬碎 {51}
 - [01] 撞击 {10}
 - [01] 流沙深渊 {10}
 - [12] 龙息 {15}
@@ -9243,9 +9287,10 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 毒击
 Level Up Moves:
-- [00] 咬碎 {51}
+- [EVO] 咬碎 {51}
 - [01] 撞击 {10}
 - [01] 流沙深渊 {10}
 - [12] 龙息 {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: 冰冻拳
 Level Up Moves:
-- [-02] 看穿 {10}
+- [RELEARN] 看穿 {10}
 - [01] 电光一闪 {10}
 - [01] 守住 {10}
 - [01] 挺住 {10}
@@ -9428,9 +9473,10 @@ Type: 格斗 / 钢
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 冰冻拳
 Level Up Moves:
-- [-02] 看穿 {10}
+- [RELEARN] 看穿 {10}
 - [01] 电光一闪 {10}
 - [01] 守住 {10}
 - [01] 挺住 {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: 大地之力
 Level Up Moves:
-- [00] 冰冻拳 {43}
+- [EVO] 冰冻拳 {43}
 - [01] 瞪眼 {10}
 - [01] 树叶 {10}
 - [10] 白雾 {13}
@@ -9692,9 +9738,10 @@ Type: 草 / 冰
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 大地之力
 Level Up Moves:
-- [00] 冰冻拳 {43}
+- [EVO] 冰冻拳 {43}
 - [01] 瞪眼 {10}
 - [01] 树叶 {10}
 - [10] 白雾 {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: 燕返
 Level Up Moves:
-- [00] 飞叶快刀 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [EVO] 飞叶快刀 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: 暗影球
 Level Up Moves:
-- [00] 冰冻之风 {10}
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [EVO] 冰冻之风 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: 尖石攻击
 Level Up Moves:
-- [00] 劈开 {10}
-- [-02] 精神强念 {10}
-- [-02] 奇异之光 {10}
-- [-02] 撒娇 {10}
-- [-02] 预知未来 {10}
-- [-02] 魔法叶 {10}
-- [-02] 冥想 {10}
-- [-02] 暗袭要害 {10}
-- [-02] 吸取之吻 {10}
-- [-02] 魔法火焰 {10}
+- [EVO] 劈开 {10}
+- [RELEARN] 精神强念 {10}
+- [RELEARN] 奇异之光 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 预知未来 {10}
+- [RELEARN] 魔法叶 {10}
+- [RELEARN] 冥想 {10}
+- [RELEARN] 暗袭要害 {10}
+- [RELEARN] 吸取之吻 {10}
+- [RELEARN] 魔法火焰 {10}
 - [01] 叫声 {10}
 - [01] 幻象光线 {10}
 - [01] 催眠术 {10}
@@ -9936,18 +9983,19 @@ Type: 超能力 / 格斗
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 尖石攻击
 Level Up Moves:
-- [00] 劈开 {10}
-- [-02] 精神强念 {10}
-- [-02] 奇异之光 {10}
-- [-02] 撒娇 {10}
-- [-02] 预知未来 {10}
-- [-02] 魔法叶 {10}
-- [-02] 冥想 {10}
-- [-02] 暗袭要害 {10}
-- [-02] 吸取之吻 {10}
-- [-02] 魔法火焰 {10}
+- [EVO] 劈开 {10}
+- [RELEARN] 精神强念 {10}
+- [RELEARN] 奇异之光 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 预知未来 {10}
+- [RELEARN] 魔法叶 {10}
+- [RELEARN] 冥想 {10}
+- [RELEARN] 暗袭要害 {10}
+- [RELEARN] 吸取之吻 {10}
+- [RELEARN] 魔法火焰 {10}
 - [01] 叫声 {10}
 - [01] 幻象光线 {10}
 - [01] 催眠术 {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: 十万伏特
 Level Up Moves:
-- [00] 吸取之吻 {10}
-- [-02] 守住 {10}
-- [-02] 咬碎 {10}
-- [-02] 冰冻牙 {10}
-- [-02] 冰柱坠击 {10}
+- [EVO] 吸取之吻 {10}
+- [RELEARN] 守住 {10}
+- [RELEARN] 咬碎 {10}
+- [RELEARN] 冰冻牙 {10}
+- [RELEARN] 冰柱坠击 {10}
 - [01] 头锤 {10}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
@@ -10081,13 +10129,14 @@ Type: 冰 / 幽灵
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 十万伏特
 Level Up Moves:
-- [00] 吸取之吻 {10}
-- [-02] 守住 {10}
-- [-02] 咬碎 {10}
-- [-02] 冰冻牙 {10}
-- [-02] 冰柱坠击 {10}
+- [EVO] 吸取之吻 {10}
+- [RELEARN] 守住 {10}
+- [RELEARN] 咬碎 {10}
+- [RELEARN] 冰冻牙 {10}
+- [RELEARN] 冰柱坠击 {10}
 - [01] 头锤 {10}
 - [01] 瞪眼 {10}
 - [01] 咬住 {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: 尖石攻击
 Level Up Moves:
-- [00] 增强拳 {20}
+- [EVO] 增强拳 {20}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [06] 火花 {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: 地震
 Level Up Moves:
-- [00] 高温重压 {39}
-- [-02] 增强拳 {20}
+- [EVO] 高温重压 {39}
+- [RELEARN] 增强拳 {20}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [06] 火花 {9}
@@ -10321,10 +10370,11 @@ Type: 火 / 格斗
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
-- [00] 高温重压 {39}
-- [-02] 增强拳 {20}
+- [EVO] 高温重压 {39}
+- [RELEARN] 增强拳 {20}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [06] 火花 {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: 垃圾射击
 Level Up Moves:
-- [00] 奇异之光 {23}
+- [EVO] 奇异之光 {23}
 - [01] 撞击 {10}
 - [03] 瞪眼 {6}
 - [06] 咬住 {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: 真气弹
 Level Up Moves:
-- [-02] 金属音 {10}
+- [RELEARN] 金属音 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 泥巴射击 {10}
@@ -10937,9 +10987,10 @@ Type: 地面 / 钢
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 真气弹
 Level Up Moves:
-- [-02] 金属音 {10}
+- [RELEARN] 金属音 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 泥巴射击 {10}
@@ -11055,6 +11106,7 @@ Type: 一般 / 妖精
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
 - [01] 撞击 {10}
@@ -11256,6 +11308,7 @@ Type: 虫 / 毒
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
 - [01] 毒针 {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: 尖石攻击
 Level Up Moves:
-- [00] 广域破坏 {10}
+- [EVO] 广域破坏 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [09] 流沙深渊 {12}
@@ -11606,6 +11659,7 @@ Type: 恶 / 格斗
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 毒击
 Level Up Moves:
 - [01] 撞击 {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: 急速折返
 Level Up Moves:
-- [00] 咬碎 {42}
+- [EVO] 咬碎 {42}
 - [01] 头锤 {10}
 - [01] 撞击 {10}
 - [01] 电磁波 {10}
@@ -12077,6 +12131,7 @@ Type: 电
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 攀瀑
 Level Up Moves:
 - [01] 头锤 {10}
@@ -12293,6 +12348,7 @@ Type: 幽灵 / 火
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 能量球
 Level Up Moves:
 - [01] 火花 {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: 地震
 Level Up Moves:
-- [00] 尖刺防守 {39}
+- [EVO] 尖刺防守 {39}
 - [01] 藤鞭 {10}
 - [01] 叫声 {10}
 - [05] 生长 {8}
@@ -12625,9 +12681,10 @@ Type: 草 / 格斗
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 地震
 Level Up Moves:
-- [00] 尖刺防守 {39}
+- [EVO] 尖刺防守 {39}
 - [01] 藤鞭 {10}
 - [01] 叫声 {10}
 - [05] 生长 {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 魔法火焰 {39}
-- [-02] 暗影球 {10}
-- [-02] 预知未来 {10}
+- [EVO] 魔法火焰 {39}
+- [RELEARN] 暗影球 {10}
+- [RELEARN] 预知未来 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [05] 火花 {8}
@@ -12853,11 +12910,12 @@ Type: 火 / 超能力
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 魔法火焰 {39}
-- [-02] 暗影球 {10}
-- [-02] 预知未来 {10}
+- [EVO] 魔法火焰 {39}
+- [RELEARN] 暗影球 {10}
+- [RELEARN] 预知未来 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [05] 火花 {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: 暴风雪
 Level Up Moves:
-- [00] 飞水手里剑 {39}
+- [EVO] 飞水手里剑 {39}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [05] 水枪 {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: 垃圾射击
 Level Up Moves:
-- [00] 飞水手里剑 {39}
+- [EVO] 飞水手里剑 {39}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [05] 水枪 {8}
@@ -13157,9 +13215,10 @@ Type: 水 / 恶
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 暴风雪
 Level Up Moves:
-- [00] 飞水手里剑 {39}
+- [EVO] 飞水手里剑 {39}
 - [01] 撞击 {10}
 - [01] 叫声 {10}
 - [05] 水枪 {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: 垃圾射击
 Level Up Moves:
-- [00] 重踏 {23}
+- [EVO] 重踏 {23}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [07] 泥巴射击 {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: 急速折返
 Level Up Moves:
-- [00] 翅膀攻击 {20}
+- [EVO] 翅膀攻击 {20}
 - [01] 叫声 {10}
 - [01] 啄 {10}
 - [08] 电光一闪 {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: 终极冲击
 Level Up Moves:
-- [00] 勇鸟猛攻 {38}
+- [EVO] 勇鸟猛攻 {38}
 - [01] 翅膀攻击 {10}
 - [01] 叫声 {10}
 - [01] 啄 {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {10}
+- [EVO] 守住 {10}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 铁壁
 Level Up Moves:
-- [00] 守住 {12}
+- [EVO] 守住 {12}
 - [01] 撞击 {10}
 - [01] 毒粉 {10}
 - [01] 吐丝 {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 魔法闪耀
 Level Up Moves:
-- [00] 起风 {15}
-- [-02] 撞击 {10}
-- [-02] 吐丝 {10}
-- [-02] 变硬 {10}
-- [-02] 守住 {10}
+- [EVO] 起风 {15}
+- [RELEARN] 撞击 {10}
+- [RELEARN] 吐丝 {10}
+- [RELEARN] 变硬 {10}
+- [RELEARN] 守住 {10}
 - [01] 毒粉 {10}
 - [01] 麻痹粉 {10}
 - [01] 催眠粉 {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: 疯狂伏特
 Level Up Moves:
-- [00] 过热 {38}
-- [-02] 破坏光线 {10}
+- [EVO] 过热 {38}
+- [RELEARN] 破坏光线 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 火花 {10}
@@ -15568,10 +15627,11 @@ Type: 火 / 一般
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 疯狂伏特
 Level Up Moves:
-- [00] 过热 {38}
-- [-02] 破坏光线 {10}
+- [EVO] 过热 {38}
+- [RELEARN] 破坏光线 {10}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 火花 {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 终极吸取
 Level Up Moves:
-- [00] 月亮之力 {22}
+- [EVO] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 终极吸取
 Level Up Moves:
-- [00] 月亮之力 {22}
+- [EVO] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 终极吸取
 Level Up Moves:
-- [00] 月亮之力 {22}
+- [EVO] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 终极吸取
 Level Up Moves:
-- [00] 月亮之力 {22}
+- [EVO] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 终极吸取
 Level Up Moves:
-- [00] 月亮之力 {22}
+- [EVO] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 守住
 Level Up Moves:
-- [-02] 月亮之力 {22}
+- [RELEARN] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16102,9 +16162,10 @@ Type: 妖精
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 守住
 Level Up Moves:
-- [-02] 月亮之力 {22}
+- [RELEARN] 月亮之力 {22}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 精神强念
 Level Up Moves:
-- [-02] 魅惑之声 {10}
+- [RELEARN] 魅惑之声 {10}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 精神强念
 Level Up Moves:
-- [-02] 魅惑之声 {10}
+- [RELEARN] 魅惑之声 {10}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 精神强念
 Level Up Moves:
-- [-02] 魅惑之声 {10}
+- [RELEARN] 魅惑之声 {10}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 精神强念
 Level Up Moves:
-- [-02] 魅惑之声 {10}
+- [RELEARN] 魅惑之声 {10}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 精神强念
 Level Up Moves:
-- [-02] 魅惑之声 {10}
+- [RELEARN] 魅惑之声 {10}
 - [01] 藤鞭 {10}
 - [01] 撞击 {10}
 - [01] 妖精之风 {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: 嬉闹
 Level Up Moves:
-- [00] 燕返 {35}
+- [EVO] 燕返 {35}
 - [01] 撞击 {10}
 - [01] 生长 {10}
 - [07] 藤鞭 {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: 毒击
 Level Up Moves:
-- [00] 暗袭要害 {35}
+- [EVO] 暗袭要害 {35}
 - [01] 撞击 {10}
 - [01] 瞪眼 {10}
 - [01] 挑衅 {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: 近身战
 Level Up Moves:
-- [00] 王者盾牌 {10}
+- [EVO] 王者盾牌 {10}
 - [01] 撞击 {10}
 - [01] 刺耳声 {10}
 - [04] 影子偷袭 {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: 近身战
 Level Up Moves:
-- [00] 王者盾牌 {10}
+- [EVO] 王者盾牌 {10}
 - [01] 撞击 {10}
 - [01] 刺耳声 {10}
 - [04] 影子偷袭 {7}
@@ -17759,6 +17820,7 @@ Type: 恶 / 超能力
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 毒击
 Level Up Moves:
 - [01] 撞击 {10}
@@ -17934,6 +17996,7 @@ Type: 岩石 / 格斗
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 增强拳
 Level Up Moves:
 - [01] 水枪 {10}
@@ -18103,6 +18166,7 @@ Type: 毒 / 龙
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 冲浪
 Level Up Moves:
 - [01] 撞击 {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: 精神强念
 Level Up Moves:
-- [-02] 猛撞 {10}
-- [-02] 舍身冲撞 {10}
-- [-02] 高速星星 {10}
-- [-02] 撒娇 {10}
-- [-02] 祈愿 {10}
+- [RELEARN] 猛撞 {10}
+- [RELEARN] 舍身冲撞 {10}
+- [RELEARN] 高速星星 {10}
+- [RELEARN] 撒娇 {10}
+- [RELEARN] 祈愿 {10}
 - [01] 撞击 {10}
 - [01] 摇尾巴 {10}
 - [01] 咬住 {10}
@@ -18709,6 +18773,7 @@ Type: 格斗 / 飞行
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 毒击
 Level Up Moves:
 - [01] 撞击 {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: 冰冻光束
 Level Up Moves:
-- [00] 铁壁 {43}
+- [EVO] 铁壁 {43}
 - [01] 撞击 {10}
 - [01] 吸取 {10}
 - [01] 溶化 {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: 暴风雪
 Level Up Moves:
-- [-02] 广域破坏 {10}
+- [RELEARN] 广域破坏 {10}
 - [01] 撞击 {10}
 - [01] 吸取 {10}
 - [01] 溶化 {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: 热风
 Level Up Moves:
-- [00] 龙之波动 {10}
+- [EVO] 龙之波动 {10}
 - [01] 撞击 {10}
 - [01] 吸取 {10}
 - [01] 月光 {10}
@@ -19978,6 +20043,7 @@ Type: 妖精
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 撞击 {10}
@@ -20030,6 +20096,7 @@ Type: 恶 / 飞行
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 起风 {10}
@@ -20082,6 +20149,7 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 咬住 {10}
@@ -20139,6 +20207,7 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 咬住 {10}
@@ -20196,6 +20265,7 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 咬住 {10}
@@ -20253,6 +20323,7 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 咬住 {10}
@@ -20310,6 +20381,7 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: 守住
 Level Up Moves:
 - [01] 咬住 {10}
@@ -20367,6 +20439,7 @@ Type: 龙 / 地面
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: 守住
 Level Up Moves:
 - [01] 咬住 {10}
@@ -20424,6 +20497,7 @@ Type: 岩石 / 妖精
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: 守住
 Level Up Moves:
 - [01] 撞击 {10}
@@ -20478,6 +20552,7 @@ Type: 岩石 / 妖精
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: 守住
 Level Up Moves:
 - [01] 撞击 {10}
@@ -20532,6 +20607,7 @@ Type: 超能力 / 幽灵
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: 守住
 Level Up Moves:
 - [01] 念力 {10}
@@ -20587,6 +20663,7 @@ Type: 超能力 / 恶
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: 守住
 Level Up Moves:
 - [01] 念力 {10}
@@ -20642,6 +20719,7 @@ Type: 火 / 水
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: 守住
 Level Up Moves:
 - [01] 水枪 {10}
@@ -20777,6 +20855,7 @@ Type: 一般 / 龙
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 大字爆炎
 Level Up Moves:
 - [01] 瞪眼 {10}
@@ -20897,6 +20976,7 @@ Type: 格斗
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 毒击
 Level Up Moves:
 - [01] 撞击 {10}

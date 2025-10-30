@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Power Whip {35}
+- [EVO] Power Whip {35}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [03] Vine Whip {6}
@@ -158,9 +158,10 @@ Type: Grass / Poison
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Power Whip {35}
+- [EVO] Power Whip {35}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [03] Vine Whip {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: Solar Beam
 Level Up Moves:
-- [00] Fire Blast {39}
-- [00] Air Slash {39}
+- [EVO] Fire Blast {39}
+- [EVO] Air Slash {39}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [01] Dragon Claw {10}
@@ -388,10 +389,11 @@ Type: Fire / Dragon
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Solar Beam
 Level Up Moves:
-- [00] Fire Blast {39}
-- [00] Air Slash {39}
+- [EVO] Fire Blast {39}
+- [EVO] Air Slash {39}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [01] Dragon Claw {10}
@@ -453,10 +455,11 @@ Type: Fire / Flying
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Solar Beam
 Level Up Moves:
-- [00] Fire Blast {39}
-- [00] Air Slash {39}
+- [EVO] Fire Blast {39}
+- [EVO] Air Slash {39}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [01] Dragon Claw {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Hydro Pump {39}
-- [00] Flash Cannon {39}
+- [EVO] Hydro Pump {39}
+- [EVO] Flash Cannon {39}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [03] Water Gun {6}
@@ -691,10 +694,11 @@ Type: Water
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Hydro Pump {39}
-- [00] Flash Cannon {39}
+- [EVO] Hydro Pump {39}
+- [EVO] Flash Cannon {39}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [03] Water Gun {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: Outrage
 Level Up Moves:
-- [00] Pin Missile {13}
+- [EVO] Pin Missile {13}
 - [01] Poison Sting {10}
 - [01] String Shot {10}
 - [07] Harden {10}
@@ -847,9 +851,10 @@ Type: Bug / Poison
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Outrage
 Level Up Moves:
-- [00] Pin Missile {13}
+- [EVO] Pin Missile {13}
 - [01] Poison Sting {10}
 - [01] String Shot {10}
 - [07] Harden {10}
@@ -1026,6 +1031,7 @@ Type: Normal / Flying
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Heat Wave
 Level Up Moves:
 - [01] Tackle {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Crunch {25}
+- [EVO] Crunch {25}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [04] Poison Sting {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: Play Rough
 Level Up Moves:
-- [00] Thunder Punch {10}
-- [-02] Eerie Impulse {10}
+- [EVO] Thunder Punch {10}
+- [RELEARN] Eerie Impulse {10}
 - [01] Tail Whip {10}
 - [01] Growl {10}
 - [01] Thunder Shock {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: Iron Tail
 Level Up Moves:
-- [00] Psychic {10}
-- [-02] Eerie Impulse {10}
+- [EVO] Psychic {10}
+- [RELEARN] Eerie Impulse {10}
 - [01] Tail Whip {10}
 - [01] Growl {10}
 - [01] Thunder Shock {10}
@@ -1479,6 +1485,7 @@ Type: Fairy / Flying
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Flamethrower
 Level Up Moves:
 - [01] Tackle {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: Energy Ball
 Level Up Moves:
-- [00] Confusion {19}
+- [EVO] Confusion {19}
 - [01] Psybeam {10}
 - [01] Teleport {10}
 - [10] Reflect {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [-02] Confusion {19}
+- [RELEARN] Confusion {19}
 - [01] Psybeam {10}
 - [01] Teleport {10}
 - [10] Reflect {13}
@@ -1695,9 +1702,10 @@ Type: Psychic
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [-02] Confusion {19}
+- [RELEARN] Confusion {19}
 - [01] Psybeam {10}
 - [01] Teleport {10}
 - [10] Reflect {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: Energy Ball
 Level Up Moves:
-- [-02] Lunge {10}
+- [RELEARN] Lunge {10}
 - [01] Vine Whip {10}
 - [01] Growth {10}
 - [08] Infestation {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: Hyper Beam
 Level Up Moves:
-- [00] Sludge Bomb {10}
+- [EVO] Sludge Bomb {10}
 - [01] Vine Whip {10}
 - [01] Growth {10}
 - [01] Lunge {10}
@@ -2060,9 +2068,10 @@ Type: Grass / Poison
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Hyper Beam
 Level Up Moves:
-- [00] Sludge Bomb {10}
+- [EVO] Sludge Bomb {10}
 - [01] Vine Whip {10}
 - [01] Growth {10}
 - [01] Lunge {10}
@@ -2297,6 +2306,7 @@ Type: Water / Psychic
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Ice Beam
 Level Up Moves:
 - [01] Tackle {10}
@@ -2609,6 +2619,7 @@ Type: Ghost / Poison
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
 - [01] Confuse Ray {10}
@@ -2783,6 +2794,7 @@ Type: Normal
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Power-Up Punch
 Level Up Moves:
 - [01] Tackle {10}
@@ -2969,6 +2981,7 @@ Type: Water / Psychic
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
 - [01] Tackle {10}
@@ -3131,6 +3144,7 @@ Type: Bug / Flying
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Stone Edge
 Level Up Moves:
 - [01] Tackle {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Bite {23}
-- [-02] Water Gun {10}
-- [-02] Whirlpool {10}
+- [EVO] Bite {23}
+- [RELEARN] Water Gun {10}
+- [RELEARN] Whirlpool {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Splash {10}
@@ -3263,11 +3277,12 @@ Type: Water / Dark
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Bite {23}
-- [-02] Water Gun {10}
-- [-02] Whirlpool {10}
+- [EVO] Bite {23}
+- [RELEARN] Water Gun {10}
+- [RELEARN] Whirlpool {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Splash {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: Ice Beam
 Level Up Moves:
-- [00] Water Gun {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [EVO] Water Gun {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [00] Thunder Shock {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
-- [-02] Eerie Impulse {10}
+- [EVO] Thunder Shock {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
+- [RELEARN] Eerie Impulse {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: Iron Tail
 Level Up Moves:
-- [00] Ember {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [EVO] Ember {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -3612,6 +3627,7 @@ Type: Rock / Flying
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Earth Power
 Level Up Moves:
 - [01] Bite {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: Fire Blast
 Level Up Moves:
-- [00] Hurricane {58}
-- [-02] Fire Punch {10}
-- [-02] Thunder Punch {10}
-- [-02] Wing Attack {10}
+- [EVO] Hurricane {58}
+- [RELEARN] Fire Punch {10}
+- [RELEARN] Thunder Punch {10}
+- [RELEARN] Wing Attack {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Air Slash {10}
@@ -3856,12 +3872,13 @@ Type: Dragon / Flying
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Fire Blast
 Level Up Moves:
-- [00] Hurricane {58}
-- [-02] Fire Punch {10}
-- [-02] Thunder Punch {10}
-- [-02] Wing Attack {10}
+- [EVO] Hurricane {58}
+- [RELEARN] Fire Punch {10}
+- [RELEARN] Thunder Punch {10}
+- [RELEARN] Wing Attack {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Air Slash {10}
@@ -3932,6 +3949,7 @@ Type: Psychic
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Confusion {10}
@@ -4011,6 +4029,7 @@ Type: Psychic / Fighting
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protect
 Level Up Moves:
 - [01] Confusion {10}
@@ -4090,6 +4109,7 @@ Type: Psychic
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protect
 Level Up Moves:
 - [01] Confusion {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: Earth Power
 Level Up Moves:
-- [00] Giga Drain {19}
+- [EVO] Giga Drain {19}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [06] Leafage {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Leaf Blade {35}
-- [-02] Giga Drain {19}
+- [EVO] Leaf Blade {35}
+- [RELEARN] Giga Drain {19}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [06] Leafage {9}
@@ -4332,10 +4352,11 @@ Type: Grass / Fairy
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Leaf Blade {35}
-- [-02] Giga Drain {19}
+- [EVO] Leaf Blade {35}
+- [RELEARN] Giga Drain {19}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [06] Leafage {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: Ice Fang
 Level Up Moves:
-- [00] Slash {21}
+- [EVO] Slash {21}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [06] Water Gun {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: Dragon Claw
 Level Up Moves:
-- [00] Crunch {33}
+- [EVO] Crunch {33}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Slash {10}
@@ -4561,9 +4582,10 @@ Type: Water / Dragon
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Dragon Claw
 Level Up Moves:
-- [00] Crunch {33}
+- [EVO] Crunch {33}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Slash {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: Knock Off
 Level Up Moves:
-- [00] Swords Dance {25}
+- [EVO] Swords Dance {25}
 - [01] Poison Sting {10}
 - [01] String Shot {10}
 - [01] Focus Energy {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Thunder Punch {33}
-- [-02] Eerie Impulse {10}
+- [EVO] Thunder Punch {33}
+- [RELEARN] Eerie Impulse {10}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [04] Thunder Shock {7}
@@ -4994,10 +5016,11 @@ Type: Electric / Dragon
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Thunder Punch {33}
-- [-02] Eerie Impulse {10}
+- [EVO] Thunder Punch {33}
+- [RELEARN] Eerie Impulse {10}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [04] Thunder Shock {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Confusion {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [EVO] Confusion {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: Toxic
 Level Up Moves:
-- [00] Snarl {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [EVO] Snarl {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: Ice Beam
 Level Up Moves:
-- [-02] Confusion {10}
+- [RELEARN] Confusion {10}
 - [01] Tackle {10}
 - [01] Curse {10}
 - [01] Power Gem {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [-02] Toxic {10}
-- [-02] Confusion {10}
+- [RELEARN] Toxic {10}
+- [RELEARN] Confusion {10}
 - [01] Tackle {10}
 - [01] Curse {10}
 - [01] Power Gem {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Iron Tail {10}
+- [EVO] Iron Tail {10}
 - [01] Tackle {10}
 - [01] Rock Throw {10}
 - [01] Harden {10}
@@ -5381,9 +5404,10 @@ Type: Steel / Ground
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Iron Tail {10}
+- [EVO] Iron Tail {10}
 - [01] Tackle {10}
 - [01] Rock Throw {10}
 - [01] Harden {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] Bullet Punch {10}
+- [EVO] Bullet Punch {10}
 - [01] Leer {10}
 - [01] Quick Attack {10}
 - [12] Wing Attack {15}
@@ -5496,9 +5520,10 @@ Type: Bug / Steel
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] Bullet Punch {10}
+- [EVO] Bullet Punch {10}
 - [01] Leer {10}
 - [01] Quick Attack {10}
 - [12] Wing Attack {15}
@@ -5611,6 +5636,7 @@ Type: Bug / Fighting
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Stone Edge
 Level Up Moves:
 - [01] Tackle {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: Rock Tomb
 Level Up Moves:
-- [-02] Air Slash {10}
+- [RELEARN] Air Slash {10}
 - [01] Leer {10}
 - [01] Peck {10}
 - [12] Metal Claw {15}
@@ -5770,9 +5796,10 @@ Type: Steel / Flying
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Rock Tomb
 Level Up Moves:
-- [-02] Air Slash {10}
+- [RELEARN] Air Slash {10}
 - [01] Leer {10}
 - [01] Peck {10}
 - [12] Metal Claw {15}
@@ -5934,6 +5961,7 @@ Type: Dark / Fire
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Sludge Bomb
 Level Up Moves:
 - [01] Leer {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: Iron Head
 Level Up Moves:
-- [00] Iron Defense {10}
+- [EVO] Iron Defense {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [03] Rock Throw {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: Outrage
 Level Up Moves:
-- [-02] Iron Defense {10}
-- [-02] Dark Pulse {10}
+- [RELEARN] Iron Defense {10}
+- [RELEARN] Dark Pulse {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [03] Rock Throw {6}
@@ -6179,10 +6207,11 @@ Type: Rock / Dark
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Outrage
 Level Up Moves:
-- [-02] Iron Defense {10}
-- [-02] Dark Pulse {10}
+- [RELEARN] Iron Defense {10}
+- [RELEARN] Dark Pulse {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [03] Rock Throw {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: Thunderbolt
 Level Up Moves:
-- [00] Dazzling Gleam {33}
+- [EVO] Dazzling Gleam {33}
 - [01] Growl {10}
 - [01] Disarming Voice {10}
 - [06] Confusion {9}
@@ -6435,9 +6464,10 @@ Type: Psychic / Fairy
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Thunderbolt
 Level Up Moves:
-- [00] Dazzling Gleam {33}
+- [EVO] Dazzling Gleam {33}
 - [01] Growl {10}
 - [01] Disarming Voice {10}
 - [06] Confusion {9}
@@ -6569,6 +6599,7 @@ Type: Dark / Ghost
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Poison Jab
 Level Up Moves:
 - [01] Tackle {10}
@@ -6705,6 +6736,7 @@ Type: Steel / Fairy
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Stone Edge
 Level Up Moves:
 - [01] Bite {10}
@@ -6954,6 +6986,7 @@ Type: Steel
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
 - [01] Tackle {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [-02] Fire Punch {10}
-- [-02] Ice Punch {10}
-- [-02] Thunder Punch {10}
+- [RELEARN] Fire Punch {10}
+- [RELEARN] Ice Punch {10}
+- [RELEARN] Thunder Punch {10}
 - [01] Confusion {10}
 - [01] Work Up {10}
 - [09] Detect {12}
@@ -7150,11 +7183,12 @@ Type: Fighting / Psychic
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [-02] Fire Punch {10}
-- [-02] Ice Punch {10}
-- [-02] Thunder Punch {10}
+- [RELEARN] Fire Punch {10}
+- [RELEARN] Ice Punch {10}
+- [RELEARN] Thunder Punch {10}
 - [01] Confusion {10}
 - [01] Work Up {10}
 - [09] Detect {12}
@@ -7323,6 +7357,7 @@ Type: Electric
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Ice Fang
 Level Up Moves:
 - [01] Tackle {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [00] Poison Sting {10}
+- [EVO] Poison Sting {10}
 - [01] Absorb {10}
 - [01] Growth {10}
 - [01] Stun Spore {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: Zen Headbutt
 Level Up Moves:
-- [00] Slash {33}
+- [EVO] Slash {33}
 - [01] Leer {10}
 - [01] Night Slash {10}
 - [01] Aqua Jet {10}
@@ -7536,9 +7571,10 @@ Type: Water / Dark
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Zen Headbutt
 Level Up Moves:
-- [00] Slash {33}
+- [EVO] Slash {33}
 - [01] Leer {10}
 - [01] Night Slash {10}
 - [01] Aqua Jet {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: Stone Edge
 Level Up Moves:
-- [00] Rock Slide {36}
+- [EVO] Rock Slide {36}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [05] Ember {8}
@@ -7710,9 +7746,10 @@ Type: Fire / Ground
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Stone Edge
 Level Up Moves:
-- [00] Rock Slide {36}
+- [EVO] Rock Slide {36}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [05] Ember {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Dragon Pulse {38}
+- [EVO] Dragon Pulse {38}
 - [01] Growl {10}
 - [01] Peck {10}
 - [04] Disarming Voice {7}
@@ -7878,9 +7915,10 @@ Type: Dragon / Fairy
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Dragon Pulse {38}
+- [EVO] Dragon Pulse {38}
 - [01] Growl {10}
 - [01] Peck {10}
 - [04] Disarming Voice {7}
@@ -8044,6 +8082,7 @@ Type: Ghost
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
 - [01] Screech {10}
@@ -8163,6 +8202,7 @@ Type: Dark
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Zen Headbutt
 Level Up Moves:
 - [01] Leer {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [00] Freeze-Dry {45}
+- [EVO] Freeze-Dry {45}
 - [01] Headbutt {10}
 - [01] Leer {10}
 - [01] Bite {10}
@@ -8323,9 +8363,10 @@ Type: Ice
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [00] Freeze-Dry {45}
+- [EVO] Freeze-Dry {45}
 - [01] Headbutt {10}
 - [01] Leer {10}
 - [01] Bite {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: Shadow Claw
 Level Up Moves:
-- [00] Protect {33}
+- [EVO] Protect {33}
 - [01] Leer {10}
 - [01] Bite {10}
 - [01] Ember {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Fly {53}
+- [EVO] Fly {53}
 - [01] Leer {10}
 - [01] Bite {10}
 - [01] Ember {10}
@@ -8550,9 +8591,10 @@ Type: Dragon / Flying
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Fly {53}
+- [EVO] Fly {53}
 - [01] Leer {10}
 - [01] Bite {10}
 - [01] Ember {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: Ice Punch
 Level Up Moves:
-- [00] Confusion {23}
-- [00] Metal Claw {23}
+- [EVO] Confusion {23}
+- [EVO] Metal Claw {23}
 - [01] Tackle {10}
 - [01] Bullet Punch {10}
 - [06] Zen Headbutt {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: Power-Up Punch
 Level Up Moves:
-- [-02] Explosion {10}
-- [-02] Heavy Slam {10}
+- [RELEARN] Explosion {10}
+- [RELEARN] Heavy Slam {10}
 - [01] Tackle {10}
 - [01] Confusion {10}
 - [01] Metal Claw {10}
@@ -8757,10 +8799,11 @@ Type: Steel / Psychic
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Power-Up Punch
 Level Up Moves:
-- [-02] Explosion {10}
-- [-02] Heavy Slam {10}
+- [RELEARN] Explosion {10}
+- [RELEARN] Heavy Slam {10}
 - [01] Tackle {10}
 - [01] Confusion {10}
 - [01] Metal Claw {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [-02] Poison Sting {10}
+- [RELEARN] Poison Sting {10}
 - [01] Absorb {10}
 - [01] Growth {10}
 - [01] Stun Spore {10}
@@ -9015,6 +9058,7 @@ Type: Normal / Fighting
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Close Combat
 Level Up Moves:
 - [01] Tackle {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: Poison Jab
 Level Up Moves:
-- [00] Crunch {51}
+- [EVO] Crunch {51}
 - [01] Tackle {10}
 - [01] Sand Tomb {10}
 - [12] Dragon Breath {15}
@@ -9243,9 +9287,10 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Poison Jab
 Level Up Moves:
-- [00] Crunch {51}
+- [EVO] Crunch {51}
 - [01] Tackle {10}
 - [01] Sand Tomb {10}
 - [12] Dragon Breath {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: Ice Punch
 Level Up Moves:
-- [-02] Detect {10}
+- [RELEARN] Detect {10}
 - [01] Quick Attack {10}
 - [01] Protect {10}
 - [01] Endure {10}
@@ -9428,9 +9473,10 @@ Type: Fighting / Steel
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Ice Punch
 Level Up Moves:
-- [-02] Detect {10}
+- [RELEARN] Detect {10}
 - [01] Quick Attack {10}
 - [01] Protect {10}
 - [01] Endure {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: Earth Power
 Level Up Moves:
-- [00] Ice Punch {43}
+- [EVO] Ice Punch {43}
 - [01] Leer {10}
 - [01] Leafage {10}
 - [10] Mist {13}
@@ -9692,9 +9738,10 @@ Type: Grass / Ice
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Earth Power
 Level Up Moves:
-- [00] Ice Punch {43}
+- [EVO] Ice Punch {43}
 - [01] Leer {10}
 - [01] Leafage {10}
 - [10] Mist {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: Aerial Ace
 Level Up Moves:
-- [00] Razor Leaf {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [EVO] Razor Leaf {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: Shadow Ball
 Level Up Moves:
-- [00] Icy Wind {10}
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [EVO] Icy Wind {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: Stone Edge
 Level Up Moves:
-- [00] Slash {10}
-- [-02] Psychic {10}
-- [-02] Confuse Ray {10}
-- [-02] Charm {10}
-- [-02] Future Sight {10}
-- [-02] Magical Leaf {10}
-- [-02] Calm Mind {10}
-- [-02] Night Slash {10}
-- [-02] Draining Kiss {10}
-- [-02] Mystical Fire {10}
+- [EVO] Slash {10}
+- [RELEARN] Psychic {10}
+- [RELEARN] Confuse Ray {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Future Sight {10}
+- [RELEARN] Magical Leaf {10}
+- [RELEARN] Calm Mind {10}
+- [RELEARN] Night Slash {10}
+- [RELEARN] Draining Kiss {10}
+- [RELEARN] Mystical Fire {10}
 - [01] Growl {10}
 - [01] Psybeam {10}
 - [01] Hypnosis {10}
@@ -9936,18 +9983,19 @@ Type: Psychic / Fighting
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Stone Edge
 Level Up Moves:
-- [00] Slash {10}
-- [-02] Psychic {10}
-- [-02] Confuse Ray {10}
-- [-02] Charm {10}
-- [-02] Future Sight {10}
-- [-02] Magical Leaf {10}
-- [-02] Calm Mind {10}
-- [-02] Night Slash {10}
-- [-02] Draining Kiss {10}
-- [-02] Mystical Fire {10}
+- [EVO] Slash {10}
+- [RELEARN] Psychic {10}
+- [RELEARN] Confuse Ray {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Future Sight {10}
+- [RELEARN] Magical Leaf {10}
+- [RELEARN] Calm Mind {10}
+- [RELEARN] Night Slash {10}
+- [RELEARN] Draining Kiss {10}
+- [RELEARN] Mystical Fire {10}
 - [01] Growl {10}
 - [01] Psybeam {10}
 - [01] Hypnosis {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: Thunderbolt
 Level Up Moves:
-- [00] Draining Kiss {10}
-- [-02] Protect {10}
-- [-02] Crunch {10}
-- [-02] Ice Fang {10}
-- [-02] Icicle Crash {10}
+- [EVO] Draining Kiss {10}
+- [RELEARN] Protect {10}
+- [RELEARN] Crunch {10}
+- [RELEARN] Ice Fang {10}
+- [RELEARN] Icicle Crash {10}
 - [01] Headbutt {10}
 - [01] Leer {10}
 - [01] Bite {10}
@@ -10081,13 +10129,14 @@ Type: Ice / Ghost
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Thunderbolt
 Level Up Moves:
-- [00] Draining Kiss {10}
-- [-02] Protect {10}
-- [-02] Crunch {10}
-- [-02] Ice Fang {10}
-- [-02] Icicle Crash {10}
+- [EVO] Draining Kiss {10}
+- [RELEARN] Protect {10}
+- [RELEARN] Crunch {10}
+- [RELEARN] Ice Fang {10}
+- [RELEARN] Icicle Crash {10}
 - [01] Headbutt {10}
 - [01] Leer {10}
 - [01] Bite {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: Stone Edge
 Level Up Moves:
-- [00] Power-Up Punch {20}
+- [EVO] Power-Up Punch {20}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [06] Ember {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Heat Crash {39}
-- [-02] Power-Up Punch {20}
+- [EVO] Heat Crash {39}
+- [RELEARN] Power-Up Punch {20}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [06] Ember {9}
@@ -10321,10 +10370,11 @@ Type: Fire / Fighting
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Heat Crash {39}
-- [-02] Power-Up Punch {20}
+- [EVO] Heat Crash {39}
+- [RELEARN] Power-Up Punch {20}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [06] Ember {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: Gunk Shot
 Level Up Moves:
-- [00] Confuse Ray {23}
+- [EVO] Confuse Ray {23}
 - [01] Tackle {10}
 - [03] Leer {6}
 - [06] Bite {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: Focus Blast
 Level Up Moves:
-- [-02] Metal Sound {10}
+- [RELEARN] Metal Sound {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Mud Shot {10}
@@ -10937,9 +10987,10 @@ Type: Ground / Steel
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Focus Blast
 Level Up Moves:
-- [-02] Metal Sound {10}
+- [RELEARN] Metal Sound {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Mud Shot {10}
@@ -11055,6 +11106,7 @@ Type: Normal / Fairy
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
 - [01] Tackle {10}
@@ -11256,6 +11308,7 @@ Type: Bug / Poison
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
 - [01] Poison Sting {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: Stone Edge
 Level Up Moves:
-- [00] Breaking Swipe {10}
+- [EVO] Breaking Swipe {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [09] Sand Tomb {12}
@@ -11606,6 +11659,7 @@ Type: Dark / Fighting
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Poison Jab
 Level Up Moves:
 - [01] Tackle {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: U-turn
 Level Up Moves:
-- [00] Crunch {42}
+- [EVO] Crunch {42}
 - [01] Headbutt {10}
 - [01] Tackle {10}
 - [01] Thunder Wave {10}
@@ -12077,6 +12131,7 @@ Type: Electric
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Waterfall
 Level Up Moves:
 - [01] Headbutt {10}
@@ -12293,6 +12348,7 @@ Type: Ghost / Fire
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Energy Ball
 Level Up Moves:
 - [01] Ember {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Spiky Shield {39}
+- [EVO] Spiky Shield {39}
 - [01] Vine Whip {10}
 - [01] Growl {10}
 - [05] Growth {8}
@@ -12625,9 +12681,10 @@ Type: Grass / Fighting
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Earthquake
 Level Up Moves:
-- [00] Spiky Shield {39}
+- [EVO] Spiky Shield {39}
 - [01] Vine Whip {10}
 - [01] Growl {10}
 - [05] Growth {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Mystical Fire {39}
-- [-02] Shadow Ball {10}
-- [-02] Future Sight {10}
+- [EVO] Mystical Fire {39}
+- [RELEARN] Shadow Ball {10}
+- [RELEARN] Future Sight {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [05] Ember {8}
@@ -12853,11 +12910,12 @@ Type: Fire / Psychic
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Mystical Fire {39}
-- [-02] Shadow Ball {10}
-- [-02] Future Sight {10}
+- [EVO] Mystical Fire {39}
+- [RELEARN] Shadow Ball {10}
+- [RELEARN] Future Sight {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [05] Ember {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Water Shuriken {39}
+- [EVO] Water Shuriken {39}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [05] Water Gun {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Gunk Shot
 Level Up Moves:
-- [00] Water Shuriken {39}
+- [EVO] Water Shuriken {39}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [05] Water Gun {8}
@@ -13157,9 +13215,10 @@ Type: Water / Dark
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Water Shuriken {39}
+- [EVO] Water Shuriken {39}
 - [01] Tackle {10}
 - [01] Growl {10}
 - [05] Water Gun {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: Gunk Shot
 Level Up Moves:
-- [00] Bulldoze {23}
+- [EVO] Bulldoze {23}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [07] Mud Shot {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: U-turn
 Level Up Moves:
-- [00] Wing Attack {20}
+- [EVO] Wing Attack {20}
 - [01] Growl {10}
 - [01] Peck {10}
 - [08] Quick Attack {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: Giga Impact
 Level Up Moves:
-- [00] Brave Bird {38}
+- [EVO] Brave Bird {38}
 - [01] Wing Attack {10}
 - [01] Growl {10}
 - [01] Peck {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {10}
+- [EVO] Protect {10}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Iron Defense
 Level Up Moves:
-- [00] Protect {12}
+- [EVO] Protect {12}
 - [01] Tackle {10}
 - [01] Poison Powder {10}
 - [01] String Shot {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Dazzling Gleam
 Level Up Moves:
-- [00] Gust {15}
-- [-02] Tackle {10}
-- [-02] String Shot {10}
-- [-02] Harden {10}
-- [-02] Protect {10}
+- [EVO] Gust {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] String Shot {10}
+- [RELEARN] Harden {10}
+- [RELEARN] Protect {10}
 - [01] Poison Powder {10}
 - [01] Stun Spore {10}
 - [01] Sleep Powder {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: Wild Charge
 Level Up Moves:
-- [00] Overheat {38}
-- [-02] Hyper Beam {10}
+- [EVO] Overheat {38}
+- [RELEARN] Hyper Beam {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Ember {10}
@@ -15568,10 +15627,11 @@ Type: Fire / Normal
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Wild Charge
 Level Up Moves:
-- [00] Overheat {38}
-- [-02] Hyper Beam {10}
+- [EVO] Overheat {38}
+- [RELEARN] Hyper Beam {10}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Ember {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga Drain
 Level Up Moves:
-- [00] Moonblast {22}
+- [EVO] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga Drain
 Level Up Moves:
-- [00] Moonblast {22}
+- [EVO] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga Drain
 Level Up Moves:
-- [00] Moonblast {22}
+- [EVO] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga Drain
 Level Up Moves:
-- [00] Moonblast {22}
+- [EVO] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Giga Drain
 Level Up Moves:
-- [00] Moonblast {22}
+- [EVO] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Protect
 Level Up Moves:
-- [-02] Moonblast {22}
+- [RELEARN] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16102,9 +16162,10 @@ Type: Fairy
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Protect
 Level Up Moves:
-- [-02] Moonblast {22}
+- [RELEARN] Moonblast {22}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychic
 Level Up Moves:
-- [-02] Disarming Voice {10}
+- [RELEARN] Disarming Voice {10}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychic
 Level Up Moves:
-- [-02] Disarming Voice {10}
+- [RELEARN] Disarming Voice {10}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychic
 Level Up Moves:
-- [-02] Disarming Voice {10}
+- [RELEARN] Disarming Voice {10}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychic
 Level Up Moves:
-- [-02] Disarming Voice {10}
+- [RELEARN] Disarming Voice {10}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychic
 Level Up Moves:
-- [-02] Disarming Voice {10}
+- [RELEARN] Disarming Voice {10}
 - [01] Vine Whip {10}
 - [01] Tackle {10}
 - [01] Fairy Wind {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: Play Rough
 Level Up Moves:
-- [00] Aerial Ace {35}
+- [EVO] Aerial Ace {35}
 - [01] Tackle {10}
 - [01] Growth {10}
 - [07] Vine Whip {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: Poison Jab
 Level Up Moves:
-- [00] Night Slash {35}
+- [EVO] Night Slash {35}
 - [01] Tackle {10}
 - [01] Leer {10}
 - [01] Taunt {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] King’s Shield {10}
+- [EVO] King’s Shield {10}
 - [01] Tackle {10}
 - [01] Screech {10}
 - [04] Shadow Sneak {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Close Combat
 Level Up Moves:
-- [00] King’s Shield {10}
+- [EVO] King’s Shield {10}
 - [01] Tackle {10}
 - [01] Screech {10}
 - [04] Shadow Sneak {7}
@@ -17759,6 +17820,7 @@ Type: Dark / Psychic
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Poison Jab
 Level Up Moves:
 - [01] Tackle {10}
@@ -17934,6 +17996,7 @@ Type: Rock / Fighting
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Power-Up Punch
 Level Up Moves:
 - [01] Water Gun {10}
@@ -18103,6 +18166,7 @@ Type: Poison / Dragon
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Surf
 Level Up Moves:
 - [01] Tackle {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: Psychic
 Level Up Moves:
-- [-02] Take Down {10}
-- [-02] Double-Edge {10}
-- [-02] Swift {10}
-- [-02] Charm {10}
-- [-02] Wish {10}
+- [RELEARN] Take Down {10}
+- [RELEARN] Double-Edge {10}
+- [RELEARN] Swift {10}
+- [RELEARN] Charm {10}
+- [RELEARN] Wish {10}
 - [01] Tackle {10}
 - [01] Tail Whip {10}
 - [01] Bite {10}
@@ -18709,6 +18773,7 @@ Type: Fighting / Flying
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Poison Jab
 Level Up Moves:
 - [01] Tackle {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: Ice Beam
 Level Up Moves:
-- [00] Iron Defense {43}
+- [EVO] Iron Defense {43}
 - [01] Tackle {10}
 - [01] Absorb {10}
 - [01] Acid Armor {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: Blizzard
 Level Up Moves:
-- [-02] Breaking Swipe {10}
+- [RELEARN] Breaking Swipe {10}
 - [01] Tackle {10}
 - [01] Absorb {10}
 - [01] Acid Armor {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: Heat Wave
 Level Up Moves:
-- [00] Dragon Pulse {10}
+- [EVO] Dragon Pulse {10}
 - [01] Tackle {10}
 - [01] Absorb {10}
 - [01] Moonlight {10}
@@ -19978,6 +20043,7 @@ Type: Fairy
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Tackle {10}
@@ -20030,6 +20096,7 @@ Type: Dark / Flying
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Gust {10}
@@ -20082,6 +20149,7 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Bite {10}
@@ -20139,6 +20207,7 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Bite {10}
@@ -20196,6 +20265,7 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Bite {10}
@@ -20253,6 +20323,7 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Bite {10}
@@ -20310,6 +20381,7 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protect
 Level Up Moves:
 - [01] Bite {10}
@@ -20367,6 +20439,7 @@ Type: Dragon / Ground
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protect
 Level Up Moves:
 - [01] Bite {10}
@@ -20424,6 +20497,7 @@ Type: Rock / Fairy
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: Protect
 Level Up Moves:
 - [01] Tackle {10}
@@ -20478,6 +20552,7 @@ Type: Rock / Fairy
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: Protect
 Level Up Moves:
 - [01] Tackle {10}
@@ -20532,6 +20607,7 @@ Type: Psychic / Ghost
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Protect
 Level Up Moves:
 - [01] Confusion {10}
@@ -20587,6 +20663,7 @@ Type: Psychic / Dark
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Protect
 Level Up Moves:
 - [01] Confusion {10}
@@ -20642,6 +20719,7 @@ Type: Fire / Water
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: Protect
 Level Up Moves:
 - [01] Water Gun {10}
@@ -20777,6 +20855,7 @@ Type: Normal / Dragon
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Fire Blast
 Level Up Moves:
 - [01] Leer {10}
@@ -20897,6 +20976,7 @@ Type: Fighting
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Poison Jab
 Level Up Moves:
 - [01] Tackle {10}

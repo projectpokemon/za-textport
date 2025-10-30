@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Vigorcolpo {35}
+- [EVO] Vigorcolpo {35}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [03] Frustata {6}
@@ -158,9 +158,10 @@ Type: Erba / Veleno
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Vigorcolpo {35}
+- [EVO] Vigorcolpo {35}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [03] Frustata {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: Solarraggio
 Level Up Moves:
-- [00] Fuocobomba {39}
-- [00] Eterelama {39}
+- [EVO] Fuocobomba {39}
+- [EVO] Eterelama {39}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [01] Dragartigli {10}
@@ -388,10 +389,11 @@ Type: Fuoco / Drago
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Solarraggio
 Level Up Moves:
-- [00] Fuocobomba {39}
-- [00] Eterelama {39}
+- [EVO] Fuocobomba {39}
+- [EVO] Eterelama {39}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [01] Dragartigli {10}
@@ -453,10 +455,11 @@ Type: Fuoco / Volante
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Solarraggio
 Level Up Moves:
-- [00] Fuocobomba {39}
-- [00] Eterelama {39}
+- [EVO] Fuocobomba {39}
+- [EVO] Eterelama {39}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [01] Dragartigli {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: Bora
 Level Up Moves:
-- [00] Idropompa {39}
-- [00] Cannonflash {39}
+- [EVO] Idropompa {39}
+- [EVO] Cannonflash {39}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [03] Pistolacqua {6}
@@ -691,10 +694,11 @@ Type: Acqua
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Bora
 Level Up Moves:
-- [00] Idropompa {39}
-- [00] Cannonflash {39}
+- [EVO] Idropompa {39}
+- [EVO] Cannonflash {39}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [03] Pistolacqua {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: Oltraggio
 Level Up Moves:
-- [00] Missilspillo {13}
+- [EVO] Missilspillo {13}
 - [01] Velenospina {10}
 - [01] Millebave {10}
 - [07] Rafforzatore {10}
@@ -847,9 +851,10 @@ Type: Coleottero / Veleno
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Oltraggio
 Level Up Moves:
-- [00] Missilspillo {13}
+- [EVO] Missilspillo {13}
 - [01] Velenospina {10}
 - [01] Millebave {10}
 - [07] Rafforzatore {10}
@@ -1026,6 +1031,7 @@ Type: Normale / Volante
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Ondacalda
 Level Up Moves:
 - [01] Azione {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Sgranocchio {25}
+- [EVO] Sgranocchio {25}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [04] Velenospina {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: Carineria
 Level Up Moves:
-- [00] Tuonopugno {10}
-- [-02] Elettromistero {10}
+- [EVO] Tuonopugno {10}
+- [RELEARN] Elettromistero {10}
 - [01] Colpocoda {10}
 - [01] Ruggito {10}
 - [01] Tuonoshock {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: Codacciaio
 Level Up Moves:
-- [00] Psichico {10}
-- [-02] Elettromistero {10}
+- [EVO] Psichico {10}
+- [RELEARN] Elettromistero {10}
 - [01] Colpocoda {10}
 - [01] Ruggito {10}
 - [01] Tuonoshock {10}
@@ -1479,6 +1485,7 @@ Type: Folletto / Volante
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Lanciafiamme
 Level Up Moves:
 - [01] Azione {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: Energipalla
 Level Up Moves:
-- [00] Confusione {19}
+- [EVO] Confusione {19}
 - [01] Psicoraggio {10}
 - [01] Teletrasporto {10}
 - [10] Riflesso {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: Magibrillio
 Level Up Moves:
-- [-02] Confusione {19}
+- [RELEARN] Confusione {19}
 - [01] Psicoraggio {10}
 - [01] Teletrasporto {10}
 - [10] Riflesso {13}
@@ -1695,9 +1702,10 @@ Type: Psico
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
-- [-02] Confusione {19}
+- [RELEARN] Confusione {19}
 - [01] Psicoraggio {10}
 - [01] Teletrasporto {10}
 - [10] Riflesso {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: Energipalla
 Level Up Moves:
-- [-02] Assalto {10}
+- [RELEARN] Assalto {10}
 - [01] Frustata {10}
 - [01] Crescita {10}
 - [08] Assillo {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: Iper Raggio
 Level Up Moves:
-- [00] Fangobomba {10}
+- [EVO] Fangobomba {10}
 - [01] Frustata {10}
 - [01] Crescita {10}
 - [01] Assalto {10}
@@ -2060,9 +2068,10 @@ Type: Erba / Veleno
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Iper Raggio
 Level Up Moves:
-- [00] Fangobomba {10}
+- [EVO] Fangobomba {10}
 - [01] Frustata {10}
 - [01] Crescita {10}
 - [01] Assalto {10}
@@ -2297,6 +2306,7 @@ Type: Acqua / Psico
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Geloraggio
 Level Up Moves:
 - [01] Azione {10}
@@ -2609,6 +2619,7 @@ Type: Spettro / Veleno
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
 - [01] Stordiraggio {10}
@@ -2783,6 +2794,7 @@ Type: Normale
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Crescipugno
 Level Up Moves:
 - [01] Azione {10}
@@ -2969,6 +2981,7 @@ Type: Acqua / Psico
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Bora
 Level Up Moves:
 - [01] Azione {10}
@@ -3131,6 +3144,7 @@ Type: Coleottero / Volante
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Pietrataglio
 Level Up Moves:
 - [01] Azione {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Morso {23}
-- [-02] Pistolacqua {10}
-- [-02] Mulinello {10}
+- [EVO] Morso {23}
+- [RELEARN] Pistolacqua {10}
+- [RELEARN] Mulinello {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Splash {10}
@@ -3263,11 +3277,12 @@ Type: Acqua / Buio
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Morso {23}
-- [-02] Pistolacqua {10}
-- [-02] Mulinello {10}
+- [EVO] Morso {23}
+- [RELEARN] Pistolacqua {10}
+- [RELEARN] Mulinello {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Splash {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: Geloraggio
 Level Up Moves:
-- [00] Pistolacqua {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [EVO] Pistolacqua {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [00] Tuonoshock {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
-- [-02] Elettromistero {10}
+- [EVO] Tuonoshock {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
+- [RELEARN] Elettromistero {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: Codacciaio
 Level Up Moves:
-- [00] Braciere {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [EVO] Braciere {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -3612,6 +3627,7 @@ Type: Roccia / Volante
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Geoforza
 Level Up Moves:
 - [01] Morso {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: Fuocobomba
 Level Up Moves:
-- [00] Tifone {58}
-- [-02] Fuocopugno {10}
-- [-02] Tuonopugno {10}
-- [-02] Attacco d’Ala {10}
+- [EVO] Tifone {58}
+- [RELEARN] Fuocopugno {10}
+- [RELEARN] Tuonopugno {10}
+- [RELEARN] Attacco d’Ala {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Eterelama {10}
@@ -3856,12 +3872,13 @@ Type: Drago / Volante
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Fuocobomba
 Level Up Moves:
-- [00] Tifone {58}
-- [-02] Fuocopugno {10}
-- [-02] Tuonopugno {10}
-- [-02] Attacco d’Ala {10}
+- [EVO] Tifone {58}
+- [RELEARN] Fuocopugno {10}
+- [RELEARN] Tuonopugno {10}
+- [RELEARN] Attacco d’Ala {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Eterelama {10}
@@ -3932,6 +3949,7 @@ Type: Psico
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Confusione {10}
@@ -4011,6 +4029,7 @@ Type: Psico / Lotta
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Confusione {10}
@@ -4090,6 +4109,7 @@ Type: Psico
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Confusione {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: Geoforza
 Level Up Moves:
-- [00] Gigassorbimento {19}
+- [EVO] Gigassorbimento {19}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [06] Fogliame {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Fendifoglia {35}
-- [-02] Gigassorbimento {19}
+- [EVO] Fendifoglia {35}
+- [RELEARN] Gigassorbimento {19}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [06] Fogliame {9}
@@ -4332,10 +4352,11 @@ Type: Erba / Folletto
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Fendifoglia {35}
-- [-02] Gigassorbimento {19}
+- [EVO] Fendifoglia {35}
+- [RELEARN] Gigassorbimento {19}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [06] Fogliame {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: Gelodenti
 Level Up Moves:
-- [00] Lacerazione {21}
+- [EVO] Lacerazione {21}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [06] Pistolacqua {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: Dragartigli
 Level Up Moves:
-- [00] Sgranocchio {33}
+- [EVO] Sgranocchio {33}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Lacerazione {10}
@@ -4561,9 +4582,10 @@ Type: Acqua / Drago
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Dragartigli
 Level Up Moves:
-- [00] Sgranocchio {33}
+- [EVO] Sgranocchio {33}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Lacerazione {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: Privazione
 Level Up Moves:
-- [00] Danzaspada {25}
+- [EVO] Danzaspada {25}
 - [01] Velenospina {10}
 - [01] Millebave {10}
 - [01] Focalenergia {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Tuonopugno {33}
-- [-02] Elettromistero {10}
+- [EVO] Tuonopugno {33}
+- [RELEARN] Elettromistero {10}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [04] Tuonoshock {7}
@@ -4994,10 +5016,11 @@ Type: Elettro / Drago
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Tuonopugno {33}
-- [-02] Elettromistero {10}
+- [EVO] Tuonopugno {33}
+- [RELEARN] Elettromistero {10}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [04] Tuonoshock {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Confusione {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [EVO] Confusione {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: Tossina
 Level Up Moves:
-- [00] Urlorabbia {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [EVO] Urlorabbia {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: Geloraggio
 Level Up Moves:
-- [-02] Confusione {10}
+- [RELEARN] Confusione {10}
 - [01] Azione {10}
 - [01] Maledizione {10}
 - [01] Gemmoforza {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [-02] Tossina {10}
-- [-02] Confusione {10}
+- [RELEARN] Tossina {10}
+- [RELEARN] Confusione {10}
 - [01] Azione {10}
 - [01] Maledizione {10}
 - [01] Gemmoforza {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Codacciaio {10}
+- [EVO] Codacciaio {10}
 - [01] Azione {10}
 - [01] Sassata {10}
 - [01] Rafforzatore {10}
@@ -5381,9 +5404,10 @@ Type: Acciaio / Terra
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Codacciaio {10}
+- [EVO] Codacciaio {10}
 - [01] Azione {10}
 - [01] Sassata {10}
 - [01] Rafforzatore {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: Zuffa
 Level Up Moves:
-- [00] Pugnoscarica {10}
+- [EVO] Pugnoscarica {10}
 - [01] Fulmisguardo {10}
 - [01] Attacco Rapido {10}
 - [12] Attacco d’Ala {15}
@@ -5496,9 +5520,10 @@ Type: Coleottero / Acciaio
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Zuffa
 Level Up Moves:
-- [00] Pugnoscarica {10}
+- [EVO] Pugnoscarica {10}
 - [01] Fulmisguardo {10}
 - [01] Attacco Rapido {10}
 - [12] Attacco d’Ala {15}
@@ -5611,6 +5636,7 @@ Type: Coleottero / Lotta
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Pietrataglio
 Level Up Moves:
 - [01] Azione {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: Rocciotomba
 Level Up Moves:
-- [-02] Eterelama {10}
+- [RELEARN] Eterelama {10}
 - [01] Fulmisguardo {10}
 - [01] Beccata {10}
 - [12] Ferrartigli {15}
@@ -5770,9 +5796,10 @@ Type: Acciaio / Volante
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Rocciotomba
 Level Up Moves:
-- [-02] Eterelama {10}
+- [RELEARN] Eterelama {10}
 - [01] Fulmisguardo {10}
 - [01] Beccata {10}
 - [12] Ferrartigli {15}
@@ -5934,6 +5961,7 @@ Type: Buio / Fuoco
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Fangobomba
 Level Up Moves:
 - [01] Fulmisguardo {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: Metaltestata
 Level Up Moves:
-- [00] Ferroscudo {10}
+- [EVO] Ferroscudo {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [03] Sassata {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: Oltraggio
 Level Up Moves:
-- [-02] Ferroscudo {10}
-- [-02] Neropulsar {10}
+- [RELEARN] Ferroscudo {10}
+- [RELEARN] Neropulsar {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [03] Sassata {6}
@@ -6179,10 +6207,11 @@ Type: Roccia / Buio
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Oltraggio
 Level Up Moves:
-- [-02] Ferroscudo {10}
-- [-02] Neropulsar {10}
+- [RELEARN] Ferroscudo {10}
+- [RELEARN] Neropulsar {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [03] Sassata {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: Fulmine
 Level Up Moves:
-- [00] Magibrillio {33}
+- [EVO] Magibrillio {33}
 - [01] Ruggito {10}
 - [01] Incantavoce {10}
 - [06] Confusione {9}
@@ -6435,9 +6464,10 @@ Type: Psico / Folletto
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Fulmine
 Level Up Moves:
-- [00] Magibrillio {33}
+- [EVO] Magibrillio {33}
 - [01] Ruggito {10}
 - [01] Incantavoce {10}
 - [06] Confusione {9}
@@ -6569,6 +6599,7 @@ Type: Buio / Spettro
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Velenpuntura
 Level Up Moves:
 - [01] Azione {10}
@@ -6705,6 +6736,7 @@ Type: Acciaio / Folletto
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Pietrataglio
 Level Up Moves:
 - [01] Morso {10}
@@ -6954,6 +6986,7 @@ Type: Acciaio
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
 - [01] Azione {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [-02] Fuocopugno {10}
-- [-02] Gelopugno {10}
-- [-02] Tuonopugno {10}
+- [RELEARN] Fuocopugno {10}
+- [RELEARN] Gelopugno {10}
+- [RELEARN] Tuonopugno {10}
 - [01] Confusione {10}
 - [01] Cuordileone {10}
 - [09] Individua {12}
@@ -7150,11 +7183,12 @@ Type: Lotta / Psico
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [-02] Fuocopugno {10}
-- [-02] Gelopugno {10}
-- [-02] Tuonopugno {10}
+- [RELEARN] Fuocopugno {10}
+- [RELEARN] Gelopugno {10}
+- [RELEARN] Tuonopugno {10}
 - [01] Confusione {10}
 - [01] Cuordileone {10}
 - [09] Individua {12}
@@ -7323,6 +7357,7 @@ Type: Elettro
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Gelodenti
 Level Up Moves:
 - [01] Azione {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [00] Velenospina {10}
+- [EVO] Velenospina {10}
 - [01] Assorbimento {10}
 - [01] Crescita {10}
 - [01] Paralizzante {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: Cozzata Zen
 Level Up Moves:
-- [00] Lacerazione {33}
+- [EVO] Lacerazione {33}
 - [01] Fulmisguardo {10}
 - [01] Nottesferza {10}
 - [01] Acquagetto {10}
@@ -7536,9 +7571,10 @@ Type: Acqua / Buio
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Cozzata Zen
 Level Up Moves:
-- [00] Lacerazione {33}
+- [EVO] Lacerazione {33}
 - [01] Fulmisguardo {10}
 - [01] Nottesferza {10}
 - [01] Acquagetto {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: Pietrataglio
 Level Up Moves:
-- [00] Frana {36}
+- [EVO] Frana {36}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [05] Braciere {8}
@@ -7710,9 +7746,10 @@ Type: Fuoco / Terra
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Pietrataglio
 Level Up Moves:
-- [00] Frana {36}
+- [EVO] Frana {36}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [05] Braciere {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Dragopulsar {38}
+- [EVO] Dragopulsar {38}
 - [01] Ruggito {10}
 - [01] Beccata {10}
 - [04] Incantavoce {7}
@@ -7878,9 +7915,10 @@ Type: Drago / Folletto
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Dragopulsar {38}
+- [EVO] Dragopulsar {38}
 - [01] Ruggito {10}
 - [01] Beccata {10}
 - [04] Incantavoce {7}
@@ -8044,6 +8082,7 @@ Type: Spettro
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
 - [01] Stridio {10}
@@ -8163,6 +8202,7 @@ Type: Buio
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Cozzata Zen
 Level Up Moves:
 - [01] Fulmisguardo {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [00] Liofilizzazione {45}
+- [EVO] Liofilizzazione {45}
 - [01] Bottintesta {10}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
@@ -8323,9 +8363,10 @@ Type: Ghiaccio
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [00] Liofilizzazione {45}
+- [EVO] Liofilizzazione {45}
 - [01] Bottintesta {10}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: Ombrartigli
 Level Up Moves:
-- [00] Protezione {33}
+- [EVO] Protezione {33}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
 - [01] Braciere {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Volo {53}
+- [EVO] Volo {53}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
 - [01] Braciere {10}
@@ -8550,9 +8591,10 @@ Type: Drago / Volante
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Volo {53}
+- [EVO] Volo {53}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
 - [01] Braciere {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: Gelopugno
 Level Up Moves:
-- [00] Confusione {23}
-- [00] Ferrartigli {23}
+- [EVO] Confusione {23}
+- [EVO] Ferrartigli {23}
 - [01] Azione {10}
 - [01] Pugnoscarica {10}
 - [06] Cozzata Zen {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: Crescipugno
 Level Up Moves:
-- [-02] Esplosione {10}
-- [-02] Pesobomba {10}
+- [RELEARN] Esplosione {10}
+- [RELEARN] Pesobomba {10}
 - [01] Azione {10}
 - [01] Confusione {10}
 - [01] Ferrartigli {10}
@@ -8757,10 +8799,11 @@ Type: Acciaio / Psico
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Crescipugno
 Level Up Moves:
-- [-02] Esplosione {10}
-- [-02] Pesobomba {10}
+- [RELEARN] Esplosione {10}
+- [RELEARN] Pesobomba {10}
 - [01] Azione {10}
 - [01] Confusione {10}
 - [01] Ferrartigli {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: Magibrillio
 Level Up Moves:
-- [-02] Velenospina {10}
+- [RELEARN] Velenospina {10}
 - [01] Assorbimento {10}
 - [01] Crescita {10}
 - [01] Paralizzante {10}
@@ -9015,6 +9058,7 @@ Type: Normale / Lotta
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Zuffa
 Level Up Moves:
 - [01] Azione {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: Velenpuntura
 Level Up Moves:
-- [00] Sgranocchio {51}
+- [EVO] Sgranocchio {51}
 - [01] Azione {10}
 - [01] Sabbiotomba {10}
 - [12] Dragospiro {15}
@@ -9243,9 +9287,10 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Velenpuntura
 Level Up Moves:
-- [00] Sgranocchio {51}
+- [EVO] Sgranocchio {51}
 - [01] Azione {10}
 - [01] Sabbiotomba {10}
 - [12] Dragospiro {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: Gelopugno
 Level Up Moves:
-- [-02] Individua {10}
+- [RELEARN] Individua {10}
 - [01] Attacco Rapido {10}
 - [01] Protezione {10}
 - [01] Resistenza {10}
@@ -9428,9 +9473,10 @@ Type: Lotta / Acciaio
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Gelopugno
 Level Up Moves:
-- [-02] Individua {10}
+- [RELEARN] Individua {10}
 - [01] Attacco Rapido {10}
 - [01] Protezione {10}
 - [01] Resistenza {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: Geoforza
 Level Up Moves:
-- [00] Gelopugno {43}
+- [EVO] Gelopugno {43}
 - [01] Fulmisguardo {10}
 - [01] Fogliame {10}
 - [10] Nebbia {13}
@@ -9692,9 +9738,10 @@ Type: Erba / Ghiaccio
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Geoforza
 Level Up Moves:
-- [00] Gelopugno {43}
+- [EVO] Gelopugno {43}
 - [01] Fulmisguardo {10}
 - [01] Fogliame {10}
 - [10] Nebbia {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: Aeroassalto
 Level Up Moves:
-- [00] Foglielama {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [EVO] Foglielama {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: Palla Ombra
 Level Up Moves:
-- [00] Ventogelato {10}
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [EVO] Ventogelato {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: Pietrataglio
 Level Up Moves:
-- [00] Lacerazione {10}
-- [-02] Psichico {10}
-- [-02] Stordiraggio {10}
-- [-02] Fascino {10}
-- [-02] Divinazione {10}
-- [-02] Fogliamagica {10}
-- [-02] Calmamente {10}
-- [-02] Nottesferza {10}
-- [-02] Assorbibacio {10}
-- [-02] Magifiamma {10}
+- [EVO] Lacerazione {10}
+- [RELEARN] Psichico {10}
+- [RELEARN] Stordiraggio {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Divinazione {10}
+- [RELEARN] Fogliamagica {10}
+- [RELEARN] Calmamente {10}
+- [RELEARN] Nottesferza {10}
+- [RELEARN] Assorbibacio {10}
+- [RELEARN] Magifiamma {10}
 - [01] Ruggito {10}
 - [01] Psicoraggio {10}
 - [01] Ipnosi {10}
@@ -9936,18 +9983,19 @@ Type: Psico / Lotta
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Pietrataglio
 Level Up Moves:
-- [00] Lacerazione {10}
-- [-02] Psichico {10}
-- [-02] Stordiraggio {10}
-- [-02] Fascino {10}
-- [-02] Divinazione {10}
-- [-02] Fogliamagica {10}
-- [-02] Calmamente {10}
-- [-02] Nottesferza {10}
-- [-02] Assorbibacio {10}
-- [-02] Magifiamma {10}
+- [EVO] Lacerazione {10}
+- [RELEARN] Psichico {10}
+- [RELEARN] Stordiraggio {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Divinazione {10}
+- [RELEARN] Fogliamagica {10}
+- [RELEARN] Calmamente {10}
+- [RELEARN] Nottesferza {10}
+- [RELEARN] Assorbibacio {10}
+- [RELEARN] Magifiamma {10}
 - [01] Ruggito {10}
 - [01] Psicoraggio {10}
 - [01] Ipnosi {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: Fulmine
 Level Up Moves:
-- [00] Assorbibacio {10}
-- [-02] Protezione {10}
-- [-02] Sgranocchio {10}
-- [-02] Gelodenti {10}
-- [-02] Scagliagelo {10}
+- [EVO] Assorbibacio {10}
+- [RELEARN] Protezione {10}
+- [RELEARN] Sgranocchio {10}
+- [RELEARN] Gelodenti {10}
+- [RELEARN] Scagliagelo {10}
 - [01] Bottintesta {10}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
@@ -10081,13 +10129,14 @@ Type: Ghiaccio / Spettro
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Fulmine
 Level Up Moves:
-- [00] Assorbibacio {10}
-- [-02] Protezione {10}
-- [-02] Sgranocchio {10}
-- [-02] Gelodenti {10}
-- [-02] Scagliagelo {10}
+- [EVO] Assorbibacio {10}
+- [RELEARN] Protezione {10}
+- [RELEARN] Sgranocchio {10}
+- [RELEARN] Gelodenti {10}
+- [RELEARN] Scagliagelo {10}
 - [01] Bottintesta {10}
 - [01] Fulmisguardo {10}
 - [01] Morso {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: Pietrataglio
 Level Up Moves:
-- [00] Crescipugno {20}
+- [EVO] Crescipugno {20}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [06] Braciere {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Marchiafuoco {39}
-- [-02] Crescipugno {20}
+- [EVO] Marchiafuoco {39}
+- [RELEARN] Crescipugno {20}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [06] Braciere {9}
@@ -10321,10 +10370,11 @@ Type: Fuoco / Lotta
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Marchiafuoco {39}
-- [-02] Crescipugno {20}
+- [EVO] Marchiafuoco {39}
+- [RELEARN] Crescipugno {20}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [06] Braciere {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: Sporcolancio
 Level Up Moves:
-- [00] Stordiraggio {23}
+- [EVO] Stordiraggio {23}
 - [01] Azione {10}
 - [03] Fulmisguardo {6}
 - [06] Morso {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: Focalcolpo
 Level Up Moves:
-- [-02] Ferrostrido {10}
+- [RELEARN] Ferrostrido {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Colpodifango {10}
@@ -10937,9 +10987,10 @@ Type: Terra / Acciaio
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Focalcolpo
 Level Up Moves:
-- [-02] Ferrostrido {10}
+- [RELEARN] Ferrostrido {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Colpodifango {10}
@@ -11055,6 +11106,7 @@ Type: Normale / Folletto
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
 - [01] Azione {10}
@@ -11256,6 +11308,7 @@ Type: Coleottero / Veleno
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
 - [01] Velenospina {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: Pietrataglio
 Level Up Moves:
-- [00] Vastoimpatto {10}
+- [EVO] Vastoimpatto {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [09] Sabbiotomba {12}
@@ -11606,6 +11659,7 @@ Type: Buio / Lotta
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Velenpuntura
 Level Up Moves:
 - [01] Azione {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: Retromarcia
 Level Up Moves:
-- [00] Sgranocchio {42}
+- [EVO] Sgranocchio {42}
 - [01] Bottintesta {10}
 - [01] Azione {10}
 - [01] Tuononda {10}
@@ -12077,6 +12131,7 @@ Type: Elettro
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Cascata
 Level Up Moves:
 - [01] Bottintesta {10}
@@ -12293,6 +12348,7 @@ Type: Spettro / Fuoco
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Energipalla
 Level Up Moves:
 - [01] Braciere {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Agodifesa {39}
+- [EVO] Agodifesa {39}
 - [01] Frustata {10}
 - [01] Ruggito {10}
 - [05] Crescita {8}
@@ -12625,9 +12681,10 @@ Type: Erba / Lotta
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Agodifesa {39}
+- [EVO] Agodifesa {39}
 - [01] Frustata {10}
 - [01] Ruggito {10}
 - [05] Crescita {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Magifiamma {39}
-- [-02] Palla Ombra {10}
-- [-02] Divinazione {10}
+- [EVO] Magifiamma {39}
+- [RELEARN] Palla Ombra {10}
+- [RELEARN] Divinazione {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [05] Braciere {8}
@@ -12853,11 +12910,12 @@ Type: Fuoco / Psico
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Magifiamma {39}
-- [-02] Palla Ombra {10}
-- [-02] Divinazione {10}
+- [EVO] Magifiamma {39}
+- [RELEARN] Palla Ombra {10}
+- [RELEARN] Divinazione {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [05] Braciere {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Bora
 Level Up Moves:
-- [00] Acqualame {39}
+- [EVO] Acqualame {39}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [05] Pistolacqua {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Sporcolancio
 Level Up Moves:
-- [00] Acqualame {39}
+- [EVO] Acqualame {39}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [05] Pistolacqua {8}
@@ -13157,9 +13215,10 @@ Type: Acqua / Buio
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Bora
 Level Up Moves:
-- [00] Acqualame {39}
+- [EVO] Acqualame {39}
 - [01] Azione {10}
 - [01] Ruggito {10}
 - [05] Pistolacqua {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: Sporcolancio
 Level Up Moves:
-- [00] Battiterra {23}
+- [EVO] Battiterra {23}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [07] Colpodifango {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: Retromarcia
 Level Up Moves:
-- [00] Attacco d’Ala {20}
+- [EVO] Attacco d’Ala {20}
 - [01] Ruggito {10}
 - [01] Beccata {10}
 - [08] Attacco Rapido {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: Gigaimpatto
 Level Up Moves:
-- [00] Baldeali {38}
+- [EVO] Baldeali {38}
 - [01] Attacco d’Ala {10}
 - [01] Ruggito {10}
 - [01] Beccata {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {10}
+- [EVO] Protezione {10}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Ferroscudo
 Level Up Moves:
-- [00] Protezione {12}
+- [EVO] Protezione {12}
 - [01] Azione {10}
 - [01] Velenpolvere {10}
 - [01] Millebave {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Magibrillio
 Level Up Moves:
-- [00] Raffica {15}
-- [-02] Azione {10}
-- [-02] Millebave {10}
-- [-02] Rafforzatore {10}
-- [-02] Protezione {10}
+- [EVO] Raffica {15}
+- [RELEARN] Azione {10}
+- [RELEARN] Millebave {10}
+- [RELEARN] Rafforzatore {10}
+- [RELEARN] Protezione {10}
 - [01] Velenpolvere {10}
 - [01] Paralizzante {10}
 - [01] Sonnifero {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: Sprizzalampo
 Level Up Moves:
-- [00] Vampata {38}
-- [-02] Iper Raggio {10}
+- [EVO] Vampata {38}
+- [RELEARN] Iper Raggio {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Braciere {10}
@@ -15568,10 +15627,11 @@ Type: Fuoco / Normale
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Sprizzalampo
 Level Up Moves:
-- [00] Vampata {38}
-- [-02] Iper Raggio {10}
+- [EVO] Vampata {38}
+- [RELEARN] Iper Raggio {10}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Braciere {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigassorbimento
 Level Up Moves:
-- [00] Forza Lunare {22}
+- [EVO] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigassorbimento
 Level Up Moves:
-- [00] Forza Lunare {22}
+- [EVO] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigassorbimento
 Level Up Moves:
-- [00] Forza Lunare {22}
+- [EVO] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigassorbimento
 Level Up Moves:
-- [00] Forza Lunare {22}
+- [EVO] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigassorbimento
 Level Up Moves:
-- [00] Forza Lunare {22}
+- [EVO] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Protezione
 Level Up Moves:
-- [-02] Forza Lunare {22}
+- [RELEARN] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16102,9 +16162,10 @@ Type: Folletto
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Protezione
 Level Up Moves:
-- [-02] Forza Lunare {22}
+- [RELEARN] Forza Lunare {22}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psichico
 Level Up Moves:
-- [-02] Incantavoce {10}
+- [RELEARN] Incantavoce {10}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psichico
 Level Up Moves:
-- [-02] Incantavoce {10}
+- [RELEARN] Incantavoce {10}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psichico
 Level Up Moves:
-- [-02] Incantavoce {10}
+- [RELEARN] Incantavoce {10}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psichico
 Level Up Moves:
-- [-02] Incantavoce {10}
+- [RELEARN] Incantavoce {10}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psichico
 Level Up Moves:
-- [-02] Incantavoce {10}
+- [RELEARN] Incantavoce {10}
 - [01] Frustata {10}
 - [01] Azione {10}
 - [01] Vento di Fata {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: Carineria
 Level Up Moves:
-- [00] Aeroassalto {35}
+- [EVO] Aeroassalto {35}
 - [01] Azione {10}
 - [01] Crescita {10}
 - [07] Frustata {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: Velenpuntura
 Level Up Moves:
-- [00] Nottesferza {35}
+- [EVO] Nottesferza {35}
 - [01] Azione {10}
 - [01] Fulmisguardo {10}
 - [01] Provocazione {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Zuffa
 Level Up Moves:
-- [00] Scudo Reale {10}
+- [EVO] Scudo Reale {10}
 - [01] Azione {10}
 - [01] Stridio {10}
 - [04] Furtivombra {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Zuffa
 Level Up Moves:
-- [00] Scudo Reale {10}
+- [EVO] Scudo Reale {10}
 - [01] Azione {10}
 - [01] Stridio {10}
 - [04] Furtivombra {7}
@@ -17759,6 +17820,7 @@ Type: Buio / Psico
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Velenpuntura
 Level Up Moves:
 - [01] Azione {10}
@@ -17934,6 +17996,7 @@ Type: Roccia / Lotta
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Crescipugno
 Level Up Moves:
 - [01] Pistolacqua {10}
@@ -18103,6 +18166,7 @@ Type: Veleno / Drago
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Surf
 Level Up Moves:
 - [01] Azione {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: Psichico
 Level Up Moves:
-- [-02] Riduttore {10}
-- [-02] Sdoppiatore {10}
-- [-02] Comete {10}
-- [-02] Fascino {10}
-- [-02] Desiderio {10}
+- [RELEARN] Riduttore {10}
+- [RELEARN] Sdoppiatore {10}
+- [RELEARN] Comete {10}
+- [RELEARN] Fascino {10}
+- [RELEARN] Desiderio {10}
 - [01] Azione {10}
 - [01] Colpocoda {10}
 - [01] Morso {10}
@@ -18709,6 +18773,7 @@ Type: Lotta / Volante
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Velenpuntura
 Level Up Moves:
 - [01] Azione {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: Geloraggio
 Level Up Moves:
-- [00] Ferroscudo {43}
+- [EVO] Ferroscudo {43}
 - [01] Azione {10}
 - [01] Assorbimento {10}
 - [01] Scudo Acido {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: Bora
 Level Up Moves:
-- [-02] Vastoimpatto {10}
+- [RELEARN] Vastoimpatto {10}
 - [01] Azione {10}
 - [01] Assorbimento {10}
 - [01] Scudo Acido {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: Ondacalda
 Level Up Moves:
-- [00] Dragopulsar {10}
+- [EVO] Dragopulsar {10}
 - [01] Azione {10}
 - [01] Assorbimento {10}
 - [01] Lucelunare {10}
@@ -19978,6 +20043,7 @@ Type: Folletto
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Azione {10}
@@ -20030,6 +20096,7 @@ Type: Buio / Volante
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Raffica {10}
@@ -20082,6 +20149,7 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Morso {10}
@@ -20139,6 +20207,7 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Morso {10}
@@ -20196,6 +20265,7 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Morso {10}
@@ -20253,6 +20323,7 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Morso {10}
@@ -20310,6 +20381,7 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Morso {10}
@@ -20367,6 +20439,7 @@ Type: Drago / Terra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Morso {10}
@@ -20424,6 +20497,7 @@ Type: Roccia / Folletto
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Azione {10}
@@ -20478,6 +20552,7 @@ Type: Roccia / Folletto
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Azione {10}
@@ -20532,6 +20607,7 @@ Type: Psico / Spettro
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Confusione {10}
@@ -20587,6 +20663,7 @@ Type: Psico / Buio
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Confusione {10}
@@ -20642,6 +20719,7 @@ Type: Fuoco / Acqua
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: Protezione
 Level Up Moves:
 - [01] Pistolacqua {10}
@@ -20777,6 +20855,7 @@ Type: Normale / Drago
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Fuocobomba
 Level Up Moves:
 - [01] Fulmisguardo {10}
@@ -20897,6 +20976,7 @@ Type: Lotta
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Velenpuntura
 Level Up Moves:
 - [01] Azione {10}

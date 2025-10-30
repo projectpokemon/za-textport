@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: 지진
 Level Up Moves:
-- [00] 파워휩 {35}
+- [EVO] 파워휩 {35}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [03] 덩굴채찍 {6}
@@ -158,9 +158,10 @@ Type: 풀 / 독
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
-- [00] 파워휩 {35}
+- [EVO] 파워휩 {35}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [03] 덩굴채찍 {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: 솔라빔
 Level Up Moves:
-- [00] 불대문자 {39}
-- [00] 에어슬래시 {39}
+- [EVO] 불대문자 {39}
+- [EVO] 에어슬래시 {39}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [01] 드래곤클로 {10}
@@ -388,10 +389,11 @@ Type: 불꽃 / 드래곤
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 솔라빔
 Level Up Moves:
-- [00] 불대문자 {39}
-- [00] 에어슬래시 {39}
+- [EVO] 불대문자 {39}
+- [EVO] 에어슬래시 {39}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [01] 드래곤클로 {10}
@@ -453,10 +455,11 @@ Type: 불꽃 / 비행
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 솔라빔
 Level Up Moves:
-- [00] 불대문자 {39}
-- [00] 에어슬래시 {39}
+- [EVO] 불대문자 {39}
+- [EVO] 에어슬래시 {39}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [01] 드래곤클로 {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: 눈보라
 Level Up Moves:
-- [00] 하이드로펌프 {39}
-- [00] 러스터캐논 {39}
+- [EVO] 하이드로펌프 {39}
+- [EVO] 러스터캐논 {39}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [03] 물대포 {6}
@@ -691,10 +694,11 @@ Type: 물
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 눈보라
 Level Up Moves:
-- [00] 하이드로펌프 {39}
-- [00] 러스터캐논 {39}
+- [EVO] 하이드로펌프 {39}
+- [EVO] 러스터캐논 {39}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [03] 물대포 {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: 역린
 Level Up Moves:
-- [00] 바늘미사일 {13}
+- [EVO] 바늘미사일 {13}
 - [01] 독침 {10}
 - [01] 실뿜기 {10}
 - [07] 단단해지기 {10}
@@ -847,9 +851,10 @@ Type: 벌레 / 독
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 역린
 Level Up Moves:
-- [00] 바늘미사일 {13}
+- [EVO] 바늘미사일 {13}
 - [01] 독침 {10}
 - [01] 실뿜기 {10}
 - [07] 단단해지기 {10}
@@ -1026,6 +1031,7 @@ Type: 노말 / 비행
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 열풍
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: 지진
 Level Up Moves:
-- [00] 깨물어부수기 {25}
+- [EVO] 깨물어부수기 {25}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [04] 독침 {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: 치근거리기
 Level Up Moves:
-- [00] 번개펀치 {10}
-- [-02] 괴전파 {10}
+- [EVO] 번개펀치 {10}
+- [RELEARN] 괴전파 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 울음소리 {10}
 - [01] 전기쇼크 {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: 아이언테일
 Level Up Moves:
-- [00] 사이코키네시스 {10}
-- [-02] 괴전파 {10}
+- [EVO] 사이코키네시스 {10}
+- [RELEARN] 괴전파 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 울음소리 {10}
 - [01] 전기쇼크 {10}
@@ -1479,6 +1485,7 @@ Type: 페어리 / 비행
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: 화염방사
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: 에너지볼
 Level Up Moves:
-- [00] 염동력 {19}
+- [EVO] 염동력 {19}
 - [01] 환상빔 {10}
 - [01] 순간이동 {10}
 - [10] 리플렉터 {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [-02] 염동력 {19}
+- [RELEARN] 염동력 {19}
 - [01] 환상빔 {10}
 - [01] 순간이동 {10}
 - [10] 리플렉터 {13}
@@ -1695,9 +1702,10 @@ Type: 에스퍼
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [-02] 염동력 {19}
+- [RELEARN] 염동력 {19}
 - [01] 환상빔 {10}
 - [01] 순간이동 {10}
 - [10] 리플렉터 {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: 에너지볼
 Level Up Moves:
-- [-02] 덤벼들기 {10}
+- [RELEARN] 덤벼들기 {10}
 - [01] 덩굴채찍 {10}
 - [01] 성장 {10}
 - [08] 엉겨붙기 {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: 파괴광선
 Level Up Moves:
-- [00] 오물폭탄 {10}
+- [EVO] 오물폭탄 {10}
 - [01] 덩굴채찍 {10}
 - [01] 성장 {10}
 - [01] 덤벼들기 {10}
@@ -2060,9 +2068,10 @@ Type: 풀 / 독
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 파괴광선
 Level Up Moves:
-- [00] 오물폭탄 {10}
+- [EVO] 오물폭탄 {10}
 - [01] 덩굴채찍 {10}
 - [01] 성장 {10}
 - [01] 덤벼들기 {10}
@@ -2297,6 +2306,7 @@ Type: 물 / 에스퍼
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: 냉동빔
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -2609,6 +2619,7 @@ Type: 고스트 / 독
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
 - [01] 이상한빛 {10}
@@ -2783,6 +2794,7 @@ Type: 노말
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 그로우펀치
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -2969,6 +2981,7 @@ Type: 물 / 에스퍼
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 눈보라
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -3131,6 +3144,7 @@ Type: 벌레 / 비행
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 스톤에지
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: 지진
 Level Up Moves:
-- [00] 물기 {23}
-- [-02] 물대포 {10}
-- [-02] 바다회오리 {10}
+- [EVO] 물기 {23}
+- [RELEARN] 물대포 {10}
+- [RELEARN] 바다회오리 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 튀어오르기 {10}
@@ -3263,11 +3277,12 @@ Type: 물 / 악
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
-- [00] 물기 {23}
-- [-02] 물대포 {10}
-- [-02] 바다회오리 {10}
+- [EVO] 물기 {23}
+- [RELEARN] 물대포 {10}
+- [RELEARN] 바다회오리 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 튀어오르기 {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: 냉동빔
 Level Up Moves:
-- [00] 물대포 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [EVO] 물대포 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: 섀도볼
 Level Up Moves:
-- [00] 전기쇼크 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
-- [-02] 괴전파 {10}
+- [EVO] 전기쇼크 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
+- [RELEARN] 괴전파 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: 아이언테일
 Level Up Moves:
-- [00] 불꽃세례 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [EVO] 불꽃세례 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -3612,6 +3627,7 @@ Type: 바위 / 비행
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 대지의힘
 Level Up Moves:
 - [01] 물기 {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: 불대문자
 Level Up Moves:
-- [00] 폭풍 {58}
-- [-02] 불꽃펀치 {10}
-- [-02] 번개펀치 {10}
-- [-02] 날개치기 {10}
+- [EVO] 폭풍 {58}
+- [RELEARN] 불꽃펀치 {10}
+- [RELEARN] 번개펀치 {10}
+- [RELEARN] 날개치기 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 에어슬래시 {10}
@@ -3856,12 +3872,13 @@ Type: 드래곤 / 비행
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 불대문자
 Level Up Moves:
-- [00] 폭풍 {58}
-- [-02] 불꽃펀치 {10}
-- [-02] 번개펀치 {10}
-- [-02] 날개치기 {10}
+- [EVO] 폭풍 {58}
+- [RELEARN] 불꽃펀치 {10}
+- [RELEARN] 번개펀치 {10}
+- [RELEARN] 날개치기 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 에어슬래시 {10}
@@ -3932,6 +3949,7 @@ Type: 에스퍼
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 염동력 {10}
@@ -4011,6 +4029,7 @@ Type: 에스퍼 / 격투
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: 방어
 Level Up Moves:
 - [01] 염동력 {10}
@@ -4090,6 +4109,7 @@ Type: 에스퍼
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: 방어
 Level Up Moves:
 - [01] 염동력 {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: 대지의힘
 Level Up Moves:
-- [00] 기가드레인 {19}
+- [EVO] 기가드레인 {19}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [06] 나뭇잎 {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 리프블레이드 {35}
-- [-02] 기가드레인 {19}
+- [EVO] 리프블레이드 {35}
+- [RELEARN] 기가드레인 {19}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [06] 나뭇잎 {9}
@@ -4332,10 +4352,11 @@ Type: 풀 / 페어리
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 리프블레이드 {35}
-- [-02] 기가드레인 {19}
+- [EVO] 리프블레이드 {35}
+- [RELEARN] 기가드레인 {19}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [06] 나뭇잎 {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: 얼음엄니
 Level Up Moves:
-- [00] 베어가르기 {21}
+- [EVO] 베어가르기 {21}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [06] 물대포 {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: 드래곤클로
 Level Up Moves:
-- [00] 깨물어부수기 {33}
+- [EVO] 깨물어부수기 {33}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 베어가르기 {10}
@@ -4561,9 +4582,10 @@ Type: 물 / 드래곤
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 드래곤클로
 Level Up Moves:
-- [00] 깨물어부수기 {33}
+- [EVO] 깨물어부수기 {33}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 베어가르기 {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: 탁쳐서떨구기
 Level Up Moves:
-- [00] 칼춤 {25}
+- [EVO] 칼춤 {25}
 - [01] 독침 {10}
 - [01] 실뿜기 {10}
 - [01] 기충전 {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 번개펀치 {33}
-- [-02] 괴전파 {10}
+- [EVO] 번개펀치 {33}
+- [RELEARN] 괴전파 {10}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [04] 전기쇼크 {7}
@@ -4994,10 +5016,11 @@ Type: 전기 / 드래곤
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 번개펀치 {33}
-- [-02] 괴전파 {10}
+- [EVO] 번개펀치 {33}
+- [RELEARN] 괴전파 {10}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [04] 전기쇼크 {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 염동력 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [EVO] 염동력 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: 맹독
 Level Up Moves:
-- [00] 바크아웃 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [EVO] 바크아웃 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: 냉동빔
 Level Up Moves:
-- [-02] 염동력 {10}
+- [RELEARN] 염동력 {10}
 - [01] 몸통박치기 {10}
 - [01] 저주 {10}
 - [01] 파워젬 {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: 섀도볼
 Level Up Moves:
-- [-02] 맹독 {10}
-- [-02] 염동력 {10}
+- [RELEARN] 맹독 {10}
+- [RELEARN] 염동력 {10}
 - [01] 몸통박치기 {10}
 - [01] 저주 {10}
 - [01] 파워젬 {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: 지진
 Level Up Moves:
-- [00] 아이언테일 {10}
+- [EVO] 아이언테일 {10}
 - [01] 몸통박치기 {10}
 - [01] 돌떨구기 {10}
 - [01] 단단해지기 {10}
@@ -5381,9 +5404,10 @@ Type: 강철 / 땅
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
-- [00] 아이언테일 {10}
+- [EVO] 아이언테일 {10}
 - [01] 몸통박치기 {10}
 - [01] 돌떨구기 {10}
 - [01] 단단해지기 {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: 인파이트
 Level Up Moves:
-- [00] 불릿펀치 {10}
+- [EVO] 불릿펀치 {10}
 - [01] 째려보기 {10}
 - [01] 전광석화 {10}
 - [12] 날개치기 {15}
@@ -5496,9 +5520,10 @@ Type: 벌레 / 강철
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 인파이트
 Level Up Moves:
-- [00] 불릿펀치 {10}
+- [EVO] 불릿펀치 {10}
 - [01] 째려보기 {10}
 - [01] 전광석화 {10}
 - [12] 날개치기 {15}
@@ -5611,6 +5636,7 @@ Type: 벌레 / 격투
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 스톤에지
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: 암석봉인
 Level Up Moves:
-- [-02] 에어슬래시 {10}
+- [RELEARN] 에어슬래시 {10}
 - [01] 째려보기 {10}
 - [01] 쪼기 {10}
 - [12] 메탈클로 {15}
@@ -5770,9 +5796,10 @@ Type: 강철 / 비행
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 암석봉인
 Level Up Moves:
-- [-02] 에어슬래시 {10}
+- [RELEARN] 에어슬래시 {10}
 - [01] 째려보기 {10}
 - [01] 쪼기 {10}
 - [12] 메탈클로 {15}
@@ -5934,6 +5961,7 @@ Type: 악 / 불꽃
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 오물폭탄
 Level Up Moves:
 - [01] 째려보기 {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: 아이언헤드
 Level Up Moves:
-- [00] 철벽 {10}
+- [EVO] 철벽 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [03] 돌떨구기 {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: 역린
 Level Up Moves:
-- [-02] 철벽 {10}
-- [-02] 악의파동 {10}
+- [RELEARN] 철벽 {10}
+- [RELEARN] 악의파동 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [03] 돌떨구기 {6}
@@ -6179,10 +6207,11 @@ Type: 바위 / 악
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 역린
 Level Up Moves:
-- [-02] 철벽 {10}
-- [-02] 악의파동 {10}
+- [RELEARN] 철벽 {10}
+- [RELEARN] 악의파동 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [03] 돌떨구기 {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: 10만볼트
 Level Up Moves:
-- [00] 매지컬샤인 {33}
+- [EVO] 매지컬샤인 {33}
 - [01] 울음소리 {10}
 - [01] 차밍보이스 {10}
 - [06] 염동력 {9}
@@ -6435,9 +6464,10 @@ Type: 에스퍼 / 페어리
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 10만볼트
 Level Up Moves:
-- [00] 매지컬샤인 {33}
+- [EVO] 매지컬샤인 {33}
 - [01] 울음소리 {10}
 - [01] 차밍보이스 {10}
 - [06] 염동력 {9}
@@ -6569,6 +6599,7 @@ Type: 악 / 고스트
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: 독찌르기
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -6705,6 +6736,7 @@ Type: 강철 / 페어리
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 스톤에지
 Level Up Moves:
 - [01] 물기 {10}
@@ -6954,6 +6986,7 @@ Type: 강철
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: 섀도볼
 Level Up Moves:
-- [-02] 불꽃펀치 {10}
-- [-02] 냉동펀치 {10}
-- [-02] 번개펀치 {10}
+- [RELEARN] 불꽃펀치 {10}
+- [RELEARN] 냉동펀치 {10}
+- [RELEARN] 번개펀치 {10}
 - [01] 염동력 {10}
 - [01] 분발 {10}
 - [09] 판별 {12}
@@ -7150,11 +7183,12 @@ Type: 격투 / 에스퍼
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 섀도볼
 Level Up Moves:
-- [-02] 불꽃펀치 {10}
-- [-02] 냉동펀치 {10}
-- [-02] 번개펀치 {10}
+- [RELEARN] 불꽃펀치 {10}
+- [RELEARN] 냉동펀치 {10}
+- [RELEARN] 번개펀치 {10}
 - [01] 염동력 {10}
 - [01] 분발 {10}
 - [09] 판별 {12}
@@ -7323,6 +7357,7 @@ Type: 전기
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 얼음엄니
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: 섀도볼
 Level Up Moves:
-- [00] 독침 {10}
+- [EVO] 독침 {10}
 - [01] 흡수 {10}
 - [01] 성장 {10}
 - [01] 저리가루 {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: 사념의박치기
 Level Up Moves:
-- [00] 베어가르기 {33}
+- [EVO] 베어가르기 {33}
 - [01] 째려보기 {10}
 - [01] 깜짝베기 {10}
 - [01] 아쿠아제트 {10}
@@ -7536,9 +7571,10 @@ Type: 물 / 악
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 사념의박치기
 Level Up Moves:
-- [00] 베어가르기 {33}
+- [EVO] 베어가르기 {33}
 - [01] 째려보기 {10}
 - [01] 깜짝베기 {10}
 - [01] 아쿠아제트 {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: 스톤에지
 Level Up Moves:
-- [00] 스톤샤워 {36}
+- [EVO] 스톤샤워 {36}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [05] 불꽃세례 {8}
@@ -7710,9 +7746,10 @@ Type: 불꽃 / 땅
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 스톤에지
 Level Up Moves:
-- [00] 스톤샤워 {36}
+- [EVO] 스톤샤워 {36}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [05] 불꽃세례 {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 용의파동 {38}
+- [EVO] 용의파동 {38}
 - [01] 울음소리 {10}
 - [01] 쪼기 {10}
 - [04] 차밍보이스 {7}
@@ -7878,9 +7915,10 @@ Type: 드래곤 / 페어리
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 용의파동 {38}
+- [EVO] 용의파동 {38}
 - [01] 울음소리 {10}
 - [01] 쪼기 {10}
 - [04] 차밍보이스 {7}
@@ -8044,6 +8082,7 @@ Type: 고스트
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
 - [01] 싫은소리 {10}
@@ -8163,6 +8202,7 @@ Type: 악
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 사념의박치기
 Level Up Moves:
 - [01] 째려보기 {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: 섀도볼
 Level Up Moves:
-- [00] 프리즈드라이 {45}
+- [EVO] 프리즈드라이 {45}
 - [01] 박치기 {10}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
@@ -8323,9 +8363,10 @@ Type: 얼음
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 섀도볼
 Level Up Moves:
-- [00] 프리즈드라이 {45}
+- [EVO] 프리즈드라이 {45}
 - [01] 박치기 {10}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: 섀도클로
 Level Up Moves:
-- [00] 방어 {33}
+- [EVO] 방어 {33}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
 - [01] 불꽃세례 {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: 지진
 Level Up Moves:
-- [00] 공중날기 {53}
+- [EVO] 공중날기 {53}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
 - [01] 불꽃세례 {10}
@@ -8550,9 +8591,10 @@ Type: 드래곤 / 비행
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
-- [00] 공중날기 {53}
+- [EVO] 공중날기 {53}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
 - [01] 불꽃세례 {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: 냉동펀치
 Level Up Moves:
-- [00] 염동력 {23}
-- [00] 메탈클로 {23}
+- [EVO] 염동력 {23}
+- [EVO] 메탈클로 {23}
 - [01] 몸통박치기 {10}
 - [01] 불릿펀치 {10}
 - [06] 사념의박치기 {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: 그로우펀치
 Level Up Moves:
-- [-02] 대폭발 {10}
-- [-02] 헤비봄버 {10}
+- [RELEARN] 대폭발 {10}
+- [RELEARN] 헤비봄버 {10}
 - [01] 몸통박치기 {10}
 - [01] 염동력 {10}
 - [01] 메탈클로 {10}
@@ -8757,10 +8799,11 @@ Type: 강철 / 에스퍼
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 그로우펀치
 Level Up Moves:
-- [-02] 대폭발 {10}
-- [-02] 헤비봄버 {10}
+- [RELEARN] 대폭발 {10}
+- [RELEARN] 헤비봄버 {10}
 - [01] 몸통박치기 {10}
 - [01] 염동력 {10}
 - [01] 메탈클로 {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [-02] 독침 {10}
+- [RELEARN] 독침 {10}
 - [01] 흡수 {10}
 - [01] 성장 {10}
 - [01] 저리가루 {10}
@@ -9015,6 +9058,7 @@ Type: 노말 / 격투
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 인파이트
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: 독찌르기
 Level Up Moves:
-- [00] 깨물어부수기 {51}
+- [EVO] 깨물어부수기 {51}
 - [01] 몸통박치기 {10}
 - [01] 모래지옥 {10}
 - [12] 용의숨결 {15}
@@ -9243,9 +9287,10 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 독찌르기
 Level Up Moves:
-- [00] 깨물어부수기 {51}
+- [EVO] 깨물어부수기 {51}
 - [01] 몸통박치기 {10}
 - [01] 모래지옥 {10}
 - [12] 용의숨결 {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: 냉동펀치
 Level Up Moves:
-- [-02] 판별 {10}
+- [RELEARN] 판별 {10}
 - [01] 전광석화 {10}
 - [01] 방어 {10}
 - [01] 버티기 {10}
@@ -9428,9 +9473,10 @@ Type: 격투 / 강철
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 냉동펀치
 Level Up Moves:
-- [-02] 판별 {10}
+- [RELEARN] 판별 {10}
 - [01] 전광석화 {10}
 - [01] 방어 {10}
 - [01] 버티기 {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: 대지의힘
 Level Up Moves:
-- [00] 냉동펀치 {43}
+- [EVO] 냉동펀치 {43}
 - [01] 째려보기 {10}
 - [01] 나뭇잎 {10}
 - [10] 흰안개 {13}
@@ -9692,9 +9738,10 @@ Type: 풀 / 얼음
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 대지의힘
 Level Up Moves:
-- [00] 냉동펀치 {43}
+- [EVO] 냉동펀치 {43}
 - [01] 째려보기 {10}
 - [01] 나뭇잎 {10}
 - [10] 흰안개 {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: 제비반환
 Level Up Moves:
-- [00] 잎날가르기 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [EVO] 잎날가르기 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: 섀도볼
 Level Up Moves:
-- [00] 얼어붙은바람 {10}
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [EVO] 얼어붙은바람 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: 스톤에지
 Level Up Moves:
-- [00] 베어가르기 {10}
-- [-02] 사이코키네시스 {10}
-- [-02] 이상한빛 {10}
-- [-02] 애교부리기 {10}
-- [-02] 미래예지 {10}
-- [-02] 매지컬리프 {10}
-- [-02] 명상 {10}
-- [-02] 깜짝베기 {10}
-- [-02] 드레인키스 {10}
-- [-02] 매지컬플레임 {10}
+- [EVO] 베어가르기 {10}
+- [RELEARN] 사이코키네시스 {10}
+- [RELEARN] 이상한빛 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 미래예지 {10}
+- [RELEARN] 매지컬리프 {10}
+- [RELEARN] 명상 {10}
+- [RELEARN] 깜짝베기 {10}
+- [RELEARN] 드레인키스 {10}
+- [RELEARN] 매지컬플레임 {10}
 - [01] 울음소리 {10}
 - [01] 환상빔 {10}
 - [01] 최면술 {10}
@@ -9936,18 +9983,19 @@ Type: 에스퍼 / 격투
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 스톤에지
 Level Up Moves:
-- [00] 베어가르기 {10}
-- [-02] 사이코키네시스 {10}
-- [-02] 이상한빛 {10}
-- [-02] 애교부리기 {10}
-- [-02] 미래예지 {10}
-- [-02] 매지컬리프 {10}
-- [-02] 명상 {10}
-- [-02] 깜짝베기 {10}
-- [-02] 드레인키스 {10}
-- [-02] 매지컬플레임 {10}
+- [EVO] 베어가르기 {10}
+- [RELEARN] 사이코키네시스 {10}
+- [RELEARN] 이상한빛 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 미래예지 {10}
+- [RELEARN] 매지컬리프 {10}
+- [RELEARN] 명상 {10}
+- [RELEARN] 깜짝베기 {10}
+- [RELEARN] 드레인키스 {10}
+- [RELEARN] 매지컬플레임 {10}
 - [01] 울음소리 {10}
 - [01] 환상빔 {10}
 - [01] 최면술 {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: 10만볼트
 Level Up Moves:
-- [00] 드레인키스 {10}
-- [-02] 방어 {10}
-- [-02] 깨물어부수기 {10}
-- [-02] 얼음엄니 {10}
-- [-02] 고드름떨구기 {10}
+- [EVO] 드레인키스 {10}
+- [RELEARN] 방어 {10}
+- [RELEARN] 깨물어부수기 {10}
+- [RELEARN] 얼음엄니 {10}
+- [RELEARN] 고드름떨구기 {10}
 - [01] 박치기 {10}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
@@ -10081,13 +10129,14 @@ Type: 얼음 / 고스트
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 10만볼트
 Level Up Moves:
-- [00] 드레인키스 {10}
-- [-02] 방어 {10}
-- [-02] 깨물어부수기 {10}
-- [-02] 얼음엄니 {10}
-- [-02] 고드름떨구기 {10}
+- [EVO] 드레인키스 {10}
+- [RELEARN] 방어 {10}
+- [RELEARN] 깨물어부수기 {10}
+- [RELEARN] 얼음엄니 {10}
+- [RELEARN] 고드름떨구기 {10}
 - [01] 박치기 {10}
 - [01] 째려보기 {10}
 - [01] 물기 {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: 스톤에지
 Level Up Moves:
-- [00] 그로우펀치 {20}
+- [EVO] 그로우펀치 {20}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [06] 불꽃세례 {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: 지진
 Level Up Moves:
-- [00] 히트스탬프 {39}
-- [-02] 그로우펀치 {20}
+- [EVO] 히트스탬프 {39}
+- [RELEARN] 그로우펀치 {20}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [06] 불꽃세례 {9}
@@ -10321,10 +10370,11 @@ Type: 불꽃 / 격투
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
-- [00] 히트스탬프 {39}
-- [-02] 그로우펀치 {20}
+- [EVO] 히트스탬프 {39}
+- [RELEARN] 그로우펀치 {20}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [06] 불꽃세례 {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: 더스트슈트
 Level Up Moves:
-- [00] 이상한빛 {23}
+- [EVO] 이상한빛 {23}
 - [01] 몸통박치기 {10}
 - [03] 째려보기 {6}
 - [06] 물기 {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: 기합구슬
 Level Up Moves:
-- [-02] 금속음 {10}
+- [RELEARN] 금속음 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 머드샷 {10}
@@ -10937,9 +10987,10 @@ Type: 땅 / 강철
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: 기합구슬
 Level Up Moves:
-- [-02] 금속음 {10}
+- [RELEARN] 금속음 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 머드샷 {10}
@@ -11055,6 +11106,7 @@ Type: 노말 / 페어리
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -11256,6 +11308,7 @@ Type: 벌레 / 독
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
 - [01] 독침 {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: 스톤에지
 Level Up Moves:
-- [00] 와이드브레이커 {10}
+- [EVO] 와이드브레이커 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [09] 모래지옥 {12}
@@ -11606,6 +11659,7 @@ Type: 악 / 격투
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 독찌르기
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: 유턴
 Level Up Moves:
-- [00] 깨물어부수기 {42}
+- [EVO] 깨물어부수기 {42}
 - [01] 박치기 {10}
 - [01] 몸통박치기 {10}
 - [01] 전기자석파 {10}
@@ -12077,6 +12131,7 @@ Type: 전기
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 폭포오르기
 Level Up Moves:
 - [01] 박치기 {10}
@@ -12293,6 +12348,7 @@ Type: 고스트 / 불꽃
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: 에너지볼
 Level Up Moves:
 - [01] 불꽃세례 {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: 지진
 Level Up Moves:
-- [00] 니들가드 {39}
+- [EVO] 니들가드 {39}
 - [01] 덩굴채찍 {10}
 - [01] 울음소리 {10}
 - [05] 성장 {8}
@@ -12625,9 +12681,10 @@ Type: 풀 / 격투
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 지진
 Level Up Moves:
-- [00] 니들가드 {39}
+- [EVO] 니들가드 {39}
 - [01] 덩굴채찍 {10}
 - [01] 울음소리 {10}
 - [05] 성장 {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 매지컬플레임 {39}
-- [-02] 섀도볼 {10}
-- [-02] 미래예지 {10}
+- [EVO] 매지컬플레임 {39}
+- [RELEARN] 섀도볼 {10}
+- [RELEARN] 미래예지 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [05] 불꽃세례 {8}
@@ -12853,11 +12910,12 @@ Type: 불꽃 / 에스퍼
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 매지컬플레임 {39}
-- [-02] 섀도볼 {10}
-- [-02] 미래예지 {10}
+- [EVO] 매지컬플레임 {39}
+- [RELEARN] 섀도볼 {10}
+- [RELEARN] 미래예지 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [05] 불꽃세례 {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: 눈보라
 Level Up Moves:
-- [00] 물수리검 {39}
+- [EVO] 물수리검 {39}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [05] 물대포 {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: 더스트슈트
 Level Up Moves:
-- [00] 물수리검 {39}
+- [EVO] 물수리검 {39}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [05] 물대포 {8}
@@ -13157,9 +13215,10 @@ Type: 물 / 악
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 눈보라
 Level Up Moves:
-- [00] 물수리검 {39}
+- [EVO] 물수리검 {39}
 - [01] 몸통박치기 {10}
 - [01] 울음소리 {10}
 - [05] 물대포 {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: 더스트슈트
 Level Up Moves:
-- [00] 땅고르기 {23}
+- [EVO] 땅고르기 {23}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [07] 머드샷 {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: 유턴
 Level Up Moves:
-- [00] 날개치기 {20}
+- [EVO] 날개치기 {20}
 - [01] 울음소리 {10}
 - [01] 쪼기 {10}
 - [08] 전광석화 {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: 기가임팩트
 Level Up Moves:
-- [00] 브레이브버드 {38}
+- [EVO] 브레이브버드 {38}
 - [01] 날개치기 {10}
 - [01] 울음소리 {10}
 - [01] 쪼기 {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {10}
+- [EVO] 방어 {10}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: 철벽
 Level Up Moves:
-- [00] 방어 {12}
+- [EVO] 방어 {12}
 - [01] 몸통박치기 {10}
 - [01] 독가루 {10}
 - [01] 실뿜기 {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: 매지컬샤인
 Level Up Moves:
-- [00] 바람일으키기 {15}
-- [-02] 몸통박치기 {10}
-- [-02] 실뿜기 {10}
-- [-02] 단단해지기 {10}
-- [-02] 방어 {10}
+- [EVO] 바람일으키기 {15}
+- [RELEARN] 몸통박치기 {10}
+- [RELEARN] 실뿜기 {10}
+- [RELEARN] 단단해지기 {10}
+- [RELEARN] 방어 {10}
 - [01] 독가루 {10}
 - [01] 저리가루 {10}
 - [01] 수면가루 {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: 와일드볼트
 Level Up Moves:
-- [00] 오버히트 {38}
-- [-02] 파괴광선 {10}
+- [EVO] 오버히트 {38}
+- [RELEARN] 파괴광선 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 불꽃세례 {10}
@@ -15568,10 +15627,11 @@ Type: 불꽃 / 노말
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 와일드볼트
 Level Up Moves:
-- [00] 오버히트 {38}
-- [-02] 파괴광선 {10}
+- [EVO] 오버히트 {38}
+- [RELEARN] 파괴광선 {10}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 불꽃세례 {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 기가드레인
 Level Up Moves:
-- [00] 문포스 {22}
+- [EVO] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 기가드레인
 Level Up Moves:
-- [00] 문포스 {22}
+- [EVO] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 기가드레인
 Level Up Moves:
-- [00] 문포스 {22}
+- [EVO] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 기가드레인
 Level Up Moves:
-- [00] 문포스 {22}
+- [EVO] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 기가드레인
 Level Up Moves:
-- [00] 문포스 {22}
+- [EVO] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: 방어
 Level Up Moves:
-- [-02] 문포스 {22}
+- [RELEARN] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16102,9 +16162,10 @@ Type: 페어리
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 방어
 Level Up Moves:
-- [-02] 문포스 {22}
+- [RELEARN] 문포스 {22}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 사이코키네시스
 Level Up Moves:
-- [-02] 차밍보이스 {10}
+- [RELEARN] 차밍보이스 {10}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 사이코키네시스
 Level Up Moves:
-- [-02] 차밍보이스 {10}
+- [RELEARN] 차밍보이스 {10}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 사이코키네시스
 Level Up Moves:
-- [-02] 차밍보이스 {10}
+- [RELEARN] 차밍보이스 {10}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 사이코키네시스
 Level Up Moves:
-- [-02] 차밍보이스 {10}
+- [RELEARN] 차밍보이스 {10}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: 사이코키네시스
 Level Up Moves:
-- [-02] 차밍보이스 {10}
+- [RELEARN] 차밍보이스 {10}
 - [01] 덩굴채찍 {10}
 - [01] 몸통박치기 {10}
 - [01] 요정의바람 {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: 치근거리기
 Level Up Moves:
-- [00] 제비반환 {35}
+- [EVO] 제비반환 {35}
 - [01] 몸통박치기 {10}
 - [01] 성장 {10}
 - [07] 덩굴채찍 {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: 독찌르기
 Level Up Moves:
-- [00] 깜짝베기 {35}
+- [EVO] 깜짝베기 {35}
 - [01] 몸통박치기 {10}
 - [01] 째려보기 {10}
 - [01] 도발 {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: 인파이트
 Level Up Moves:
-- [00] 킹실드 {10}
+- [EVO] 킹실드 {10}
 - [01] 몸통박치기 {10}
 - [01] 싫은소리 {10}
 - [04] 야습 {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: 인파이트
 Level Up Moves:
-- [00] 킹실드 {10}
+- [EVO] 킹실드 {10}
 - [01] 몸통박치기 {10}
 - [01] 싫은소리 {10}
 - [04] 야습 {7}
@@ -17759,6 +17820,7 @@ Type: 악 / 에스퍼
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: 독찌르기
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -17934,6 +17996,7 @@ Type: 바위 / 격투
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 그로우펀치
 Level Up Moves:
 - [01] 물대포 {10}
@@ -18103,6 +18166,7 @@ Type: 독 / 드래곤
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: 파도타기
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: 사이코키네시스
 Level Up Moves:
-- [-02] 돌진 {10}
-- [-02] 이판사판태클 {10}
-- [-02] 스피드스타 {10}
-- [-02] 애교부리기 {10}
-- [-02] 희망사항 {10}
+- [RELEARN] 돌진 {10}
+- [RELEARN] 이판사판태클 {10}
+- [RELEARN] 스피드스타 {10}
+- [RELEARN] 애교부리기 {10}
+- [RELEARN] 희망사항 {10}
 - [01] 몸통박치기 {10}
 - [01] 꼬리흔들기 {10}
 - [01] 물기 {10}
@@ -18709,6 +18773,7 @@ Type: 격투 / 비행
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: 독찌르기
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: 냉동빔
 Level Up Moves:
-- [00] 철벽 {43}
+- [EVO] 철벽 {43}
 - [01] 몸통박치기 {10}
 - [01] 흡수 {10}
 - [01] 녹기 {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: 눈보라
 Level Up Moves:
-- [-02] 와이드브레이커 {10}
+- [RELEARN] 와이드브레이커 {10}
 - [01] 몸통박치기 {10}
 - [01] 흡수 {10}
 - [01] 녹기 {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: 열풍
 Level Up Moves:
-- [00] 용의파동 {10}
+- [EVO] 용의파동 {10}
 - [01] 몸통박치기 {10}
 - [01] 흡수 {10}
 - [01] 달빛 {10}
@@ -19978,6 +20043,7 @@ Type: 페어리
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -20030,6 +20096,7 @@ Type: 악 / 비행
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 바람일으키기 {10}
@@ -20082,6 +20149,7 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물기 {10}
@@ -20139,6 +20207,7 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물기 {10}
@@ -20196,6 +20265,7 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물기 {10}
@@ -20253,6 +20323,7 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물기 {10}
@@ -20310,6 +20381,7 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물기 {10}
@@ -20367,6 +20439,7 @@ Type: 드래곤 / 땅
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물기 {10}
@@ -20424,6 +20497,7 @@ Type: 바위 / 페어리
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: 방어
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -20478,6 +20552,7 @@ Type: 바위 / 페어리
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: 방어
 Level Up Moves:
 - [01] 몸통박치기 {10}
@@ -20532,6 +20607,7 @@ Type: 에스퍼 / 고스트
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: 방어
 Level Up Moves:
 - [01] 염동력 {10}
@@ -20587,6 +20663,7 @@ Type: 에스퍼 / 악
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: 방어
 Level Up Moves:
 - [01] 염동력 {10}
@@ -20642,6 +20719,7 @@ Type: 불꽃 / 물
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: 방어
 Level Up Moves:
 - [01] 물대포 {10}
@@ -20777,6 +20855,7 @@ Type: 노말 / 드래곤
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: 불대문자
 Level Up Moves:
 - [01] 째려보기 {10}
@@ -20897,6 +20976,7 @@ Type: 격투
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: 독찌르기
 Level Up Moves:
 - [01] 몸통박치기 {10}

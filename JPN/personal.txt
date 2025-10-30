@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: じしん
 Level Up Moves:
-- [00] パワーウィップ {35}
+- [EVO] パワーウィップ {35}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [03] つるのムチ {6}
@@ -158,9 +158,10 @@ Type: くさ / どく
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
-- [00] パワーウィップ {35}
+- [EVO] パワーウィップ {35}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [03] つるのムチ {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: ソーラービーム
 Level Up Moves:
-- [00] だいもんじ {39}
-- [00] エアスラッシュ {39}
+- [EVO] だいもんじ {39}
+- [EVO] エアスラッシュ {39}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [01] ドラゴンクロー {10}
@@ -388,10 +389,11 @@ Type: ほのお / ドラゴン
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: ソーラービーム
 Level Up Moves:
-- [00] だいもんじ {39}
-- [00] エアスラッシュ {39}
+- [EVO] だいもんじ {39}
+- [EVO] エアスラッシュ {39}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [01] ドラゴンクロー {10}
@@ -453,10 +455,11 @@ Type: ほのお / ひこう
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: ソーラービーム
 Level Up Moves:
-- [00] だいもんじ {39}
-- [00] エアスラッシュ {39}
+- [EVO] だいもんじ {39}
+- [EVO] エアスラッシュ {39}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [01] ドラゴンクロー {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: ふぶき
 Level Up Moves:
-- [00] ハイドロポンプ {39}
-- [00] ラスターカノン {39}
+- [EVO] ハイドロポンプ {39}
+- [EVO] ラスターカノン {39}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [03] みずでっぽう {6}
@@ -691,10 +694,11 @@ Type: みず
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: ふぶき
 Level Up Moves:
-- [00] ハイドロポンプ {39}
-- [00] ラスターカノン {39}
+- [EVO] ハイドロポンプ {39}
+- [EVO] ラスターカノン {39}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [03] みずでっぽう {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: げきりん
 Level Up Moves:
-- [00] ミサイルばり {13}
+- [EVO] ミサイルばり {13}
 - [01] どくばり {10}
 - [01] いとをはく {10}
 - [07] かたくなる {10}
@@ -847,9 +851,10 @@ Type: むし / どく
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: げきりん
 Level Up Moves:
-- [00] ミサイルばり {13}
+- [EVO] ミサイルばり {13}
 - [01] どくばり {10}
 - [01] いとをはく {10}
 - [07] かたくなる {10}
@@ -1026,6 +1031,7 @@ Type: ノーマル / ひこう
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: ねっぷう
 Level Up Moves:
 - [01] たいあたり {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: じしん
 Level Up Moves:
-- [00] かみくだく {25}
+- [EVO] かみくだく {25}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [04] どくばり {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: じゃれつく
 Level Up Moves:
-- [00] かみなりパンチ {10}
-- [-02] かいでんぱ {10}
+- [EVO] かみなりパンチ {10}
+- [RELEARN] かいでんぱ {10}
 - [01] しっぽをふる {10}
 - [01] なきごえ {10}
 - [01] でんきショック {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: アイアンテール
 Level Up Moves:
-- [00] サイコキネシス {10}
-- [-02] かいでんぱ {10}
+- [EVO] サイコキネシス {10}
+- [RELEARN] かいでんぱ {10}
 - [01] しっぽをふる {10}
 - [01] なきごえ {10}
 - [01] でんきショック {10}
@@ -1479,6 +1485,7 @@ Type: フェアリー / ひこう
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: かえんほうしゃ
 Level Up Moves:
 - [01] たいあたり {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: エナジーボール
 Level Up Moves:
-- [00] ねんりき {19}
+- [EVO] ねんりき {19}
 - [01] サイケこうせん {10}
 - [01] テレポート {10}
 - [10] リフレクター {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [-02] ねんりき {19}
+- [RELEARN] ねんりき {19}
 - [01] サイケこうせん {10}
 - [01] テレポート {10}
 - [10] リフレクター {13}
@@ -1695,9 +1702,10 @@ Type: エスパー
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [-02] ねんりき {19}
+- [RELEARN] ねんりき {19}
 - [01] サイケこうせん {10}
 - [01] テレポート {10}
 - [10] リフレクター {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: エナジーボール
 Level Up Moves:
-- [-02] とびかかる {10}
+- [RELEARN] とびかかる {10}
 - [01] つるのムチ {10}
 - [01] せいちょう {10}
 - [08] まとわりつく {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: はかいこうせん
 Level Up Moves:
-- [00] ヘドロばくだん {10}
+- [EVO] ヘドロばくだん {10}
 - [01] つるのムチ {10}
 - [01] せいちょう {10}
 - [01] とびかかる {10}
@@ -2060,9 +2068,10 @@ Type: くさ / どく
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: はかいこうせん
 Level Up Moves:
-- [00] ヘドロばくだん {10}
+- [EVO] ヘドロばくだん {10}
 - [01] つるのムチ {10}
 - [01] せいちょう {10}
 - [01] とびかかる {10}
@@ -2297,6 +2306,7 @@ Type: みず / エスパー
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: れいとうビーム
 Level Up Moves:
 - [01] たいあたり {10}
@@ -2609,6 +2619,7 @@ Type: ゴースト / どく
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
 - [01] あやしいひかり {10}
@@ -2783,6 +2794,7 @@ Type: ノーマル
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: グロウパンチ
 Level Up Moves:
 - [01] たいあたり {10}
@@ -2969,6 +2981,7 @@ Type: みず / エスパー
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: ふぶき
 Level Up Moves:
 - [01] たいあたり {10}
@@ -3131,6 +3144,7 @@ Type: むし / ひこう
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: ストーンエッジ
 Level Up Moves:
 - [01] たいあたり {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: じしん
 Level Up Moves:
-- [00] かみつく {23}
-- [-02] みずでっぽう {10}
-- [-02] うずしお {10}
+- [EVO] かみつく {23}
+- [RELEARN] みずでっぽう {10}
+- [RELEARN] うずしお {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] はねる {10}
@@ -3263,11 +3277,12 @@ Type: みず / あく
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
-- [00] かみつく {23}
-- [-02] みずでっぽう {10}
-- [-02] うずしお {10}
+- [EVO] かみつく {23}
+- [RELEARN] みずでっぽう {10}
+- [RELEARN] うずしお {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] はねる {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: れいとうビーム
 Level Up Moves:
-- [00] みずでっぽう {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [EVO] みずでっぽう {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: シャドーボール
 Level Up Moves:
-- [00] でんきショック {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
-- [-02] かいでんぱ {10}
+- [EVO] でんきショック {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
+- [RELEARN] かいでんぱ {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: アイアンテール
 Level Up Moves:
-- [00] ひのこ {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [EVO] ひのこ {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -3612,6 +3627,7 @@ Type: いわ / ひこう
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: だいちのちから
 Level Up Moves:
 - [01] かみつく {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: だいもんじ
 Level Up Moves:
-- [00] ぼうふう {58}
-- [-02] ほのおのパンチ {10}
-- [-02] かみなりパンチ {10}
-- [-02] つばさでうつ {10}
+- [EVO] ぼうふう {58}
+- [RELEARN] ほのおのパンチ {10}
+- [RELEARN] かみなりパンチ {10}
+- [RELEARN] つばさでうつ {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] エアスラッシュ {10}
@@ -3856,12 +3872,13 @@ Type: ドラゴン / ひこう
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: だいもんじ
 Level Up Moves:
-- [00] ぼうふう {58}
-- [-02] ほのおのパンチ {10}
-- [-02] かみなりパンチ {10}
-- [-02] つばさでうつ {10}
+- [EVO] ぼうふう {58}
+- [RELEARN] ほのおのパンチ {10}
+- [RELEARN] かみなりパンチ {10}
+- [RELEARN] つばさでうつ {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] エアスラッシュ {10}
@@ -3932,6 +3949,7 @@ Type: エスパー
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] ねんりき {10}
@@ -4011,6 +4029,7 @@ Type: エスパー / かくとう
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: まもる
 Level Up Moves:
 - [01] ねんりき {10}
@@ -4090,6 +4109,7 @@ Type: エスパー
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: まもる
 Level Up Moves:
 - [01] ねんりき {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: だいちのちから
 Level Up Moves:
-- [00] ギガドレイン {19}
+- [EVO] ギガドレイン {19}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [06] このは {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] リーフブレード {35}
-- [-02] ギガドレイン {19}
+- [EVO] リーフブレード {35}
+- [RELEARN] ギガドレイン {19}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [06] このは {9}
@@ -4332,10 +4352,11 @@ Type: くさ / フェアリー
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] リーフブレード {35}
-- [-02] ギガドレイン {19}
+- [EVO] リーフブレード {35}
+- [RELEARN] ギガドレイン {19}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [06] このは {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: こおりのキバ
 Level Up Moves:
-- [00] きりさく {21}
+- [EVO] きりさく {21}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [06] みずでっぽう {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: ドラゴンクロー
 Level Up Moves:
-- [00] かみくだく {33}
+- [EVO] かみくだく {33}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] きりさく {10}
@@ -4561,9 +4582,10 @@ Type: みず / ドラゴン
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: ドラゴンクロー
 Level Up Moves:
-- [00] かみくだく {33}
+- [EVO] かみくだく {33}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] きりさく {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: はたきおとす
 Level Up Moves:
-- [00] つるぎのまい {25}
+- [EVO] つるぎのまい {25}
 - [01] どくばり {10}
 - [01] いとをはく {10}
 - [01] きあいだめ {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かみなりパンチ {33}
-- [-02] かいでんぱ {10}
+- [EVO] かみなりパンチ {33}
+- [RELEARN] かいでんぱ {10}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [04] でんきショック {7}
@@ -4994,10 +5016,11 @@ Type: でんき / ドラゴン
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かみなりパンチ {33}
-- [-02] かいでんぱ {10}
+- [EVO] かみなりパンチ {33}
+- [RELEARN] かいでんぱ {10}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [04] でんきショック {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] ねんりき {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [EVO] ねんりき {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: どくどく
 Level Up Moves:
-- [00] バークアウト {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [EVO] バークアウト {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: れいとうビーム
 Level Up Moves:
-- [-02] ねんりき {10}
+- [RELEARN] ねんりき {10}
 - [01] たいあたり {10}
 - [01] のろい {10}
 - [01] パワージェム {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: シャドーボール
 Level Up Moves:
-- [-02] どくどく {10}
-- [-02] ねんりき {10}
+- [RELEARN] どくどく {10}
+- [RELEARN] ねんりき {10}
 - [01] たいあたり {10}
 - [01] のろい {10}
 - [01] パワージェム {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: じしん
 Level Up Moves:
-- [00] アイアンテール {10}
+- [EVO] アイアンテール {10}
 - [01] たいあたり {10}
 - [01] いわおとし {10}
 - [01] かたくなる {10}
@@ -5381,9 +5404,10 @@ Type: はがね / じめん
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
-- [00] アイアンテール {10}
+- [EVO] アイアンテール {10}
 - [01] たいあたり {10}
 - [01] いわおとし {10}
 - [01] かたくなる {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: インファイト
 Level Up Moves:
-- [00] バレットパンチ {10}
+- [EVO] バレットパンチ {10}
 - [01] にらみつける {10}
 - [01] でんこうせっか {10}
 - [12] つばさでうつ {15}
@@ -5496,9 +5520,10 @@ Type: むし / はがね
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: インファイト
 Level Up Moves:
-- [00] バレットパンチ {10}
+- [EVO] バレットパンチ {10}
 - [01] にらみつける {10}
 - [01] でんこうせっか {10}
 - [12] つばさでうつ {15}
@@ -5611,6 +5636,7 @@ Type: むし / かくとう
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: ストーンエッジ
 Level Up Moves:
 - [01] たいあたり {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: がんせきふうじ
 Level Up Moves:
-- [-02] エアスラッシュ {10}
+- [RELEARN] エアスラッシュ {10}
 - [01] にらみつける {10}
 - [01] つつく {10}
 - [12] メタルクロー {15}
@@ -5770,9 +5796,10 @@ Type: はがね / ひこう
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: がんせきふうじ
 Level Up Moves:
-- [-02] エアスラッシュ {10}
+- [RELEARN] エアスラッシュ {10}
 - [01] にらみつける {10}
 - [01] つつく {10}
 - [12] メタルクロー {15}
@@ -5934,6 +5961,7 @@ Type: あく / ほのお
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: ヘドロばくだん
 Level Up Moves:
 - [01] にらみつける {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: アイアンヘッド
 Level Up Moves:
-- [00] てっぺき {10}
+- [EVO] てっぺき {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [03] いわおとし {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: げきりん
 Level Up Moves:
-- [-02] てっぺき {10}
-- [-02] あくのはどう {10}
+- [RELEARN] てっぺき {10}
+- [RELEARN] あくのはどう {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [03] いわおとし {6}
@@ -6179,10 +6207,11 @@ Type: いわ / あく
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: げきりん
 Level Up Moves:
-- [-02] てっぺき {10}
-- [-02] あくのはどう {10}
+- [RELEARN] てっぺき {10}
+- [RELEARN] あくのはどう {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [03] いわおとし {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: １０まんボルト
 Level Up Moves:
-- [00] マジカルシャイン {33}
+- [EVO] マジカルシャイン {33}
 - [01] なきごえ {10}
 - [01] チャームボイス {10}
 - [06] ねんりき {9}
@@ -6435,9 +6464,10 @@ Type: エスパー / フェアリー
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: １０まんボルト
 Level Up Moves:
-- [00] マジカルシャイン {33}
+- [EVO] マジカルシャイン {33}
 - [01] なきごえ {10}
 - [01] チャームボイス {10}
 - [06] ねんりき {9}
@@ -6569,6 +6599,7 @@ Type: あく / ゴースト
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: どくづき
 Level Up Moves:
 - [01] たいあたり {10}
@@ -6705,6 +6736,7 @@ Type: はがね / フェアリー
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: ストーンエッジ
 Level Up Moves:
 - [01] かみつく {10}
@@ -6954,6 +6986,7 @@ Type: はがね
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
 - [01] たいあたり {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: シャドーボール
 Level Up Moves:
-- [-02] ほのおのパンチ {10}
-- [-02] れいとうパンチ {10}
-- [-02] かみなりパンチ {10}
+- [RELEARN] ほのおのパンチ {10}
+- [RELEARN] れいとうパンチ {10}
+- [RELEARN] かみなりパンチ {10}
 - [01] ねんりき {10}
 - [01] ふるいたてる {10}
 - [09] みきり {12}
@@ -7150,11 +7183,12 @@ Type: かくとう / エスパー
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: シャドーボール
 Level Up Moves:
-- [-02] ほのおのパンチ {10}
-- [-02] れいとうパンチ {10}
-- [-02] かみなりパンチ {10}
+- [RELEARN] ほのおのパンチ {10}
+- [RELEARN] れいとうパンチ {10}
+- [RELEARN] かみなりパンチ {10}
 - [01] ねんりき {10}
 - [01] ふるいたてる {10}
 - [09] みきり {12}
@@ -7323,6 +7357,7 @@ Type: でんき
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: こおりのキバ
 Level Up Moves:
 - [01] たいあたり {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: シャドーボール
 Level Up Moves:
-- [00] どくばり {10}
+- [EVO] どくばり {10}
 - [01] すいとる {10}
 - [01] せいちょう {10}
 - [01] しびれごな {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: しねんのずつき
 Level Up Moves:
-- [00] きりさく {33}
+- [EVO] きりさく {33}
 - [01] にらみつける {10}
 - [01] つじぎり {10}
 - [01] アクアジェット {10}
@@ -7536,9 +7571,10 @@ Type: みず / あく
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: しねんのずつき
 Level Up Moves:
-- [00] きりさく {33}
+- [EVO] きりさく {33}
 - [01] にらみつける {10}
 - [01] つじぎり {10}
 - [01] アクアジェット {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: ストーンエッジ
 Level Up Moves:
-- [00] いわなだれ {36}
+- [EVO] いわなだれ {36}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [05] ひのこ {8}
@@ -7710,9 +7746,10 @@ Type: ほのお / じめん
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: ストーンエッジ
 Level Up Moves:
-- [00] いわなだれ {36}
+- [EVO] いわなだれ {36}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [05] ひのこ {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] りゅうのはどう {38}
+- [EVO] りゅうのはどう {38}
 - [01] なきごえ {10}
 - [01] つつく {10}
 - [04] チャームボイス {7}
@@ -7878,9 +7915,10 @@ Type: ドラゴン / フェアリー
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] りゅうのはどう {38}
+- [EVO] りゅうのはどう {38}
 - [01] なきごえ {10}
 - [01] つつく {10}
 - [04] チャームボイス {7}
@@ -8044,6 +8082,7 @@ Type: ゴースト
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
 - [01] いやなおと {10}
@@ -8163,6 +8202,7 @@ Type: あく
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: しねんのずつき
 Level Up Moves:
 - [01] にらみつける {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: シャドーボール
 Level Up Moves:
-- [00] フリーズドライ {45}
+- [EVO] フリーズドライ {45}
 - [01] ずつき {10}
 - [01] にらみつける {10}
 - [01] かみつく {10}
@@ -8323,9 +8363,10 @@ Type: こおり
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: シャドーボール
 Level Up Moves:
-- [00] フリーズドライ {45}
+- [EVO] フリーズドライ {45}
 - [01] ずつき {10}
 - [01] にらみつける {10}
 - [01] かみつく {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: シャドークロー
 Level Up Moves:
-- [00] まもる {33}
+- [EVO] まもる {33}
 - [01] にらみつける {10}
 - [01] かみつく {10}
 - [01] ひのこ {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: じしん
 Level Up Moves:
-- [00] そらをとぶ {53}
+- [EVO] そらをとぶ {53}
 - [01] にらみつける {10}
 - [01] かみつく {10}
 - [01] ひのこ {10}
@@ -8550,9 +8591,10 @@ Type: ドラゴン / ひこう
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
-- [00] そらをとぶ {53}
+- [EVO] そらをとぶ {53}
 - [01] にらみつける {10}
 - [01] かみつく {10}
 - [01] ひのこ {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: れいとうパンチ
 Level Up Moves:
-- [00] ねんりき {23}
-- [00] メタルクロー {23}
+- [EVO] ねんりき {23}
+- [EVO] メタルクロー {23}
 - [01] たいあたり {10}
 - [01] バレットパンチ {10}
 - [06] しねんのずつき {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: グロウパンチ
 Level Up Moves:
-- [-02] だいばくはつ {10}
-- [-02] ヘビーボンバー {10}
+- [RELEARN] だいばくはつ {10}
+- [RELEARN] ヘビーボンバー {10}
 - [01] たいあたり {10}
 - [01] ねんりき {10}
 - [01] メタルクロー {10}
@@ -8757,10 +8799,11 @@ Type: はがね / エスパー
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: グロウパンチ
 Level Up Moves:
-- [-02] だいばくはつ {10}
-- [-02] ヘビーボンバー {10}
+- [RELEARN] だいばくはつ {10}
+- [RELEARN] ヘビーボンバー {10}
 - [01] たいあたり {10}
 - [01] ねんりき {10}
 - [01] メタルクロー {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [-02] どくばり {10}
+- [RELEARN] どくばり {10}
 - [01] すいとる {10}
 - [01] せいちょう {10}
 - [01] しびれごな {10}
@@ -9015,6 +9058,7 @@ Type: ノーマル / かくとう
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: インファイト
 Level Up Moves:
 - [01] たいあたり {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: どくづき
 Level Up Moves:
-- [00] かみくだく {51}
+- [EVO] かみくだく {51}
 - [01] たいあたり {10}
 - [01] すなじごく {10}
 - [12] りゅうのいぶき {15}
@@ -9243,9 +9287,10 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: どくづき
 Level Up Moves:
-- [00] かみくだく {51}
+- [EVO] かみくだく {51}
 - [01] たいあたり {10}
 - [01] すなじごく {10}
 - [12] りゅうのいぶき {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: れいとうパンチ
 Level Up Moves:
-- [-02] みきり {10}
+- [RELEARN] みきり {10}
 - [01] でんこうせっか {10}
 - [01] まもる {10}
 - [01] こらえる {10}
@@ -9428,9 +9473,10 @@ Type: かくとう / はがね
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: れいとうパンチ
 Level Up Moves:
-- [-02] みきり {10}
+- [RELEARN] みきり {10}
 - [01] でんこうせっか {10}
 - [01] まもる {10}
 - [01] こらえる {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: だいちのちから
 Level Up Moves:
-- [00] れいとうパンチ {43}
+- [EVO] れいとうパンチ {43}
 - [01] にらみつける {10}
 - [01] このは {10}
 - [10] しろいきり {13}
@@ -9692,9 +9738,10 @@ Type: くさ / こおり
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: だいちのちから
 Level Up Moves:
-- [00] れいとうパンチ {43}
+- [EVO] れいとうパンチ {43}
 - [01] にらみつける {10}
 - [01] このは {10}
 - [10] しろいきり {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: つばめがえし
 Level Up Moves:
-- [00] はっぱカッター {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [EVO] はっぱカッター {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: シャドーボール
 Level Up Moves:
-- [00] こごえるかぜ {10}
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [EVO] こごえるかぜ {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: ストーンエッジ
 Level Up Moves:
-- [00] きりさく {10}
-- [-02] サイコキネシス {10}
-- [-02] あやしいひかり {10}
-- [-02] あまえる {10}
-- [-02] みらいよち {10}
-- [-02] マジカルリーフ {10}
-- [-02] めいそう {10}
-- [-02] つじぎり {10}
-- [-02] ドレインキッス {10}
-- [-02] マジカルフレイム {10}
+- [EVO] きりさく {10}
+- [RELEARN] サイコキネシス {10}
+- [RELEARN] あやしいひかり {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] みらいよち {10}
+- [RELEARN] マジカルリーフ {10}
+- [RELEARN] めいそう {10}
+- [RELEARN] つじぎり {10}
+- [RELEARN] ドレインキッス {10}
+- [RELEARN] マジカルフレイム {10}
 - [01] なきごえ {10}
 - [01] サイケこうせん {10}
 - [01] さいみんじゅつ {10}
@@ -9936,18 +9983,19 @@ Type: エスパー / かくとう
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: ストーンエッジ
 Level Up Moves:
-- [00] きりさく {10}
-- [-02] サイコキネシス {10}
-- [-02] あやしいひかり {10}
-- [-02] あまえる {10}
-- [-02] みらいよち {10}
-- [-02] マジカルリーフ {10}
-- [-02] めいそう {10}
-- [-02] つじぎり {10}
-- [-02] ドレインキッス {10}
-- [-02] マジカルフレイム {10}
+- [EVO] きりさく {10}
+- [RELEARN] サイコキネシス {10}
+- [RELEARN] あやしいひかり {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] みらいよち {10}
+- [RELEARN] マジカルリーフ {10}
+- [RELEARN] めいそう {10}
+- [RELEARN] つじぎり {10}
+- [RELEARN] ドレインキッス {10}
+- [RELEARN] マジカルフレイム {10}
 - [01] なきごえ {10}
 - [01] サイケこうせん {10}
 - [01] さいみんじゅつ {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: １０まんボルト
 Level Up Moves:
-- [00] ドレインキッス {10}
-- [-02] まもる {10}
-- [-02] かみくだく {10}
-- [-02] こおりのキバ {10}
-- [-02] つららおとし {10}
+- [EVO] ドレインキッス {10}
+- [RELEARN] まもる {10}
+- [RELEARN] かみくだく {10}
+- [RELEARN] こおりのキバ {10}
+- [RELEARN] つららおとし {10}
 - [01] ずつき {10}
 - [01] にらみつける {10}
 - [01] かみつく {10}
@@ -10081,13 +10129,14 @@ Type: こおり / ゴースト
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: １０まんボルト
 Level Up Moves:
-- [00] ドレインキッス {10}
-- [-02] まもる {10}
-- [-02] かみくだく {10}
-- [-02] こおりのキバ {10}
-- [-02] つららおとし {10}
+- [EVO] ドレインキッス {10}
+- [RELEARN] まもる {10}
+- [RELEARN] かみくだく {10}
+- [RELEARN] こおりのキバ {10}
+- [RELEARN] つららおとし {10}
 - [01] ずつき {10}
 - [01] にらみつける {10}
 - [01] かみつく {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: ストーンエッジ
 Level Up Moves:
-- [00] グロウパンチ {20}
+- [EVO] グロウパンチ {20}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [06] ひのこ {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: じしん
 Level Up Moves:
-- [00] ヒートスタンプ {39}
-- [-02] グロウパンチ {20}
+- [EVO] ヒートスタンプ {39}
+- [RELEARN] グロウパンチ {20}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [06] ひのこ {9}
@@ -10321,10 +10370,11 @@ Type: ほのお / かくとう
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
-- [00] ヒートスタンプ {39}
-- [-02] グロウパンチ {20}
+- [EVO] ヒートスタンプ {39}
+- [RELEARN] グロウパンチ {20}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [06] ひのこ {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: ダストシュート
 Level Up Moves:
-- [00] あやしいひかり {23}
+- [EVO] あやしいひかり {23}
 - [01] たいあたり {10}
 - [03] にらみつける {6}
 - [06] かみつく {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: きあいだま
 Level Up Moves:
-- [-02] きんぞくおん {10}
+- [RELEARN] きんぞくおん {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] マッドショット {10}
@@ -10937,9 +10987,10 @@ Type: じめん / はがね
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: きあいだま
 Level Up Moves:
-- [-02] きんぞくおん {10}
+- [RELEARN] きんぞくおん {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] マッドショット {10}
@@ -11055,6 +11106,7 @@ Type: ノーマル / フェアリー
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
 - [01] たいあたり {10}
@@ -11256,6 +11308,7 @@ Type: むし / どく
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
 - [01] どくばり {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: ストーンエッジ
 Level Up Moves:
-- [00] ワイドブレイカー {10}
+- [EVO] ワイドブレイカー {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [09] すなじごく {12}
@@ -11606,6 +11659,7 @@ Type: あく / かくとう
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: どくづき
 Level Up Moves:
 - [01] たいあたり {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: とんぼがえり
 Level Up Moves:
-- [00] かみくだく {42}
+- [EVO] かみくだく {42}
 - [01] ずつき {10}
 - [01] たいあたり {10}
 - [01] でんじは {10}
@@ -12077,6 +12131,7 @@ Type: でんき
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: たきのぼり
 Level Up Moves:
 - [01] ずつき {10}
@@ -12293,6 +12348,7 @@ Type: ゴースト / ほのお
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: エナジーボール
 Level Up Moves:
 - [01] ひのこ {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: じしん
 Level Up Moves:
-- [00] ニードルガード {39}
+- [EVO] ニードルガード {39}
 - [01] つるのムチ {10}
 - [01] なきごえ {10}
 - [05] せいちょう {8}
@@ -12625,9 +12681,10 @@ Type: くさ / かくとう
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: じしん
 Level Up Moves:
-- [00] ニードルガード {39}
+- [EVO] ニードルガード {39}
 - [01] つるのムチ {10}
 - [01] なきごえ {10}
 - [05] せいちょう {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] マジカルフレイム {39}
-- [-02] シャドーボール {10}
-- [-02] みらいよち {10}
+- [EVO] マジカルフレイム {39}
+- [RELEARN] シャドーボール {10}
+- [RELEARN] みらいよち {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [05] ひのこ {8}
@@ -12853,11 +12910,12 @@ Type: ほのお / エスパー
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] マジカルフレイム {39}
-- [-02] シャドーボール {10}
-- [-02] みらいよち {10}
+- [EVO] マジカルフレイム {39}
+- [RELEARN] シャドーボール {10}
+- [RELEARN] みらいよち {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [05] ひのこ {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: ふぶき
 Level Up Moves:
-- [00] みずしゅりけん {39}
+- [EVO] みずしゅりけん {39}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [05] みずでっぽう {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: ダストシュート
 Level Up Moves:
-- [00] みずしゅりけん {39}
+- [EVO] みずしゅりけん {39}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [05] みずでっぽう {8}
@@ -13157,9 +13215,10 @@ Type: みず / あく
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: ふぶき
 Level Up Moves:
-- [00] みずしゅりけん {39}
+- [EVO] みずしゅりけん {39}
 - [01] たいあたり {10}
 - [01] なきごえ {10}
 - [05] みずでっぽう {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: ダストシュート
 Level Up Moves:
-- [00] じならし {23}
+- [EVO] じならし {23}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [07] マッドショット {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: とんぼがえり
 Level Up Moves:
-- [00] つばさでうつ {20}
+- [EVO] つばさでうつ {20}
 - [01] なきごえ {10}
 - [01] つつく {10}
 - [08] でんこうせっか {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: ギガインパクト
 Level Up Moves:
-- [00] ブレイブバード {38}
+- [EVO] ブレイブバード {38}
 - [01] つばさでうつ {10}
 - [01] なきごえ {10}
 - [01] つつく {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {10}
+- [EVO] まもる {10}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: てっぺき
 Level Up Moves:
-- [00] まもる {12}
+- [EVO] まもる {12}
 - [01] たいあたり {10}
 - [01] どくのこな {10}
 - [01] いとをはく {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: マジカルシャイン
 Level Up Moves:
-- [00] かぜおこし {15}
-- [-02] たいあたり {10}
-- [-02] いとをはく {10}
-- [-02] かたくなる {10}
-- [-02] まもる {10}
+- [EVO] かぜおこし {15}
+- [RELEARN] たいあたり {10}
+- [RELEARN] いとをはく {10}
+- [RELEARN] かたくなる {10}
+- [RELEARN] まもる {10}
 - [01] どくのこな {10}
 - [01] しびれごな {10}
 - [01] ねむりごな {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: ワイルドボルト
 Level Up Moves:
-- [00] オーバーヒート {38}
-- [-02] はかいこうせん {10}
+- [EVO] オーバーヒート {38}
+- [RELEARN] はかいこうせん {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] ひのこ {10}
@@ -15568,10 +15627,11 @@ Type: ほのお / ノーマル
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: ワイルドボルト
 Level Up Moves:
-- [00] オーバーヒート {38}
-- [-02] はかいこうせん {10}
+- [EVO] オーバーヒート {38}
+- [RELEARN] はかいこうせん {10}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] ひのこ {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: ギガドレイン
 Level Up Moves:
-- [00] ムーンフォース {22}
+- [EVO] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: ギガドレイン
 Level Up Moves:
-- [00] ムーンフォース {22}
+- [EVO] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: ギガドレイン
 Level Up Moves:
-- [00] ムーンフォース {22}
+- [EVO] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: ギガドレイン
 Level Up Moves:
-- [00] ムーンフォース {22}
+- [EVO] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: ギガドレイン
 Level Up Moves:
-- [00] ムーンフォース {22}
+- [EVO] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: まもる
 Level Up Moves:
-- [-02] ムーンフォース {22}
+- [RELEARN] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16102,9 +16162,10 @@ Type: フェアリー
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: まもる
 Level Up Moves:
-- [-02] ムーンフォース {22}
+- [RELEARN] ムーンフォース {22}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: サイコキネシス
 Level Up Moves:
-- [-02] チャームボイス {10}
+- [RELEARN] チャームボイス {10}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: サイコキネシス
 Level Up Moves:
-- [-02] チャームボイス {10}
+- [RELEARN] チャームボイス {10}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: サイコキネシス
 Level Up Moves:
-- [-02] チャームボイス {10}
+- [RELEARN] チャームボイス {10}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: サイコキネシス
 Level Up Moves:
-- [-02] チャームボイス {10}
+- [RELEARN] チャームボイス {10}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: サイコキネシス
 Level Up Moves:
-- [-02] チャームボイス {10}
+- [RELEARN] チャームボイス {10}
 - [01] つるのムチ {10}
 - [01] たいあたり {10}
 - [01] ようせいのかぜ {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: じゃれつく
 Level Up Moves:
-- [00] つばめがえし {35}
+- [EVO] つばめがえし {35}
 - [01] たいあたり {10}
 - [01] せいちょう {10}
 - [07] つるのムチ {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: どくづき
 Level Up Moves:
-- [00] つじぎり {35}
+- [EVO] つじぎり {35}
 - [01] たいあたり {10}
 - [01] にらみつける {10}
 - [01] ちょうはつ {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: インファイト
 Level Up Moves:
-- [00] キングシールド {10}
+- [EVO] キングシールド {10}
 - [01] たいあたり {10}
 - [01] いやなおと {10}
 - [04] かげうち {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: インファイト
 Level Up Moves:
-- [00] キングシールド {10}
+- [EVO] キングシールド {10}
 - [01] たいあたり {10}
 - [01] いやなおと {10}
 - [04] かげうち {7}
@@ -17759,6 +17820,7 @@ Type: あく / エスパー
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: どくづき
 Level Up Moves:
 - [01] たいあたり {10}
@@ -17934,6 +17996,7 @@ Type: いわ / かくとう
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: グロウパンチ
 Level Up Moves:
 - [01] みずでっぽう {10}
@@ -18103,6 +18166,7 @@ Type: どく / ドラゴン
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: なみのり
 Level Up Moves:
 - [01] たいあたり {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: サイコキネシス
 Level Up Moves:
-- [-02] とっしん {10}
-- [-02] すてみタックル {10}
-- [-02] スピードスター {10}
-- [-02] あまえる {10}
-- [-02] ねがいごと {10}
+- [RELEARN] とっしん {10}
+- [RELEARN] すてみタックル {10}
+- [RELEARN] スピードスター {10}
+- [RELEARN] あまえる {10}
+- [RELEARN] ねがいごと {10}
 - [01] たいあたり {10}
 - [01] しっぽをふる {10}
 - [01] かみつく {10}
@@ -18709,6 +18773,7 @@ Type: かくとう / ひこう
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: どくづき
 Level Up Moves:
 - [01] たいあたり {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: れいとうビーム
 Level Up Moves:
-- [00] てっぺき {43}
+- [EVO] てっぺき {43}
 - [01] たいあたり {10}
 - [01] すいとる {10}
 - [01] とける {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: ふぶき
 Level Up Moves:
-- [-02] ワイドブレイカー {10}
+- [RELEARN] ワイドブレイカー {10}
 - [01] たいあたり {10}
 - [01] すいとる {10}
 - [01] とける {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: ねっぷう
 Level Up Moves:
-- [00] りゅうのはどう {10}
+- [EVO] りゅうのはどう {10}
 - [01] たいあたり {10}
 - [01] すいとる {10}
 - [01] つきのひかり {10}
@@ -19978,6 +20043,7 @@ Type: フェアリー
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] たいあたり {10}
@@ -20030,6 +20096,7 @@ Type: あく / ひこう
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] かぜおこし {10}
@@ -20082,6 +20149,7 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] かみつく {10}
@@ -20139,6 +20207,7 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] かみつく {10}
@@ -20196,6 +20265,7 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] かみつく {10}
@@ -20253,6 +20323,7 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] かみつく {10}
@@ -20310,6 +20381,7 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: まもる
 Level Up Moves:
 - [01] かみつく {10}
@@ -20367,6 +20439,7 @@ Type: ドラゴン / じめん
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: まもる
 Level Up Moves:
 - [01] かみつく {10}
@@ -20424,6 +20497,7 @@ Type: いわ / フェアリー
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: まもる
 Level Up Moves:
 - [01] たいあたり {10}
@@ -20478,6 +20552,7 @@ Type: いわ / フェアリー
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: まもる
 Level Up Moves:
 - [01] たいあたり {10}
@@ -20532,6 +20607,7 @@ Type: エスパー / ゴースト
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: まもる
 Level Up Moves:
 - [01] ねんりき {10}
@@ -20587,6 +20663,7 @@ Type: エスパー / あく
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: まもる
 Level Up Moves:
 - [01] ねんりき {10}
@@ -20642,6 +20719,7 @@ Type: ほのお / みず
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: まもる
 Level Up Moves:
 - [01] みずでっぽう {10}
@@ -20777,6 +20855,7 @@ Type: ノーマル / ドラゴン
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: だいもんじ
 Level Up Moves:
 - [01] にらみつける {10}
@@ -20897,6 +20976,7 @@ Type: かくとう
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: どくづき
 Level Up Moves:
 - [01] たいあたり {10}

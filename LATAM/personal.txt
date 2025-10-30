@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Latigazo {35}
+- [EVO] Latigazo {35}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [03] Látigo Cepa {6}
@@ -158,9 +158,10 @@ Type: Planta / Veneno
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Latigazo {35}
+- [EVO] Latigazo {35}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [03] Látigo Cepa {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: Rayo Solar
 Level Up Moves:
-- [00] Llamarada {39}
-- [00] Corte Aéreo {39}
+- [EVO] Llamarada {39}
+- [EVO] Corte Aéreo {39}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [01] Garra Dragón {10}
@@ -388,10 +389,11 @@ Type: Fuego / Dragón
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Rayo Solar
 Level Up Moves:
-- [00] Llamarada {39}
-- [00] Corte Aéreo {39}
+- [EVO] Llamarada {39}
+- [EVO] Corte Aéreo {39}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [01] Garra Dragón {10}
@@ -453,10 +455,11 @@ Type: Fuego / Volador
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Rayo Solar
 Level Up Moves:
-- [00] Llamarada {39}
-- [00] Corte Aéreo {39}
+- [EVO] Llamarada {39}
+- [EVO] Corte Aéreo {39}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [01] Garra Dragón {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: Ventisca
 Level Up Moves:
-- [00] Hidrobomba {39}
-- [00] Cañón Resplandor {39}
+- [EVO] Hidrobomba {39}
+- [EVO] Cañón Resplandor {39}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [03] Chorro de Agua {6}
@@ -691,10 +694,11 @@ Type: Agua
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Ventisca
 Level Up Moves:
-- [00] Hidrobomba {39}
-- [00] Cañón Resplandor {39}
+- [EVO] Hidrobomba {39}
+- [EVO] Cañón Resplandor {39}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [03] Chorro de Agua {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: Enfado
 Level Up Moves:
-- [00] Misil Aguja {13}
+- [EVO] Misil Aguja {13}
 - [01] Piquete Venenoso {10}
 - [01] Disparo de Seda {10}
 - [07] Fortaleza {10}
@@ -847,9 +851,10 @@ Type: Insecto / Veneno
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Enfado
 Level Up Moves:
-- [00] Misil Aguja {13}
+- [EVO] Misil Aguja {13}
 - [01] Piquete Venenoso {10}
 - [01] Disparo de Seda {10}
 - [07] Fortaleza {10}
@@ -1026,6 +1031,7 @@ Type: Normal / Volador
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Onda Ígnea
 Level Up Moves:
 - [01] Tacleada {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Triturar {25}
+- [EVO] Triturar {25}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [04] Piquete Venenoso {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: Juego Rudo
 Level Up Moves:
-- [00] Puño Trueno {10}
-- [-02] Onda Anómala {10}
+- [EVO] Puño Trueno {10}
+- [RELEARN] Onda Anómala {10}
 - [01] Látigo de Cola {10}
 - [01] Gruñido {10}
 - [01] Impactrueno {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: Cola de Hierro
 Level Up Moves:
-- [00] Fuerza Psíquica {10}
-- [-02] Onda Anómala {10}
+- [EVO] Fuerza Psíquica {10}
+- [RELEARN] Onda Anómala {10}
 - [01] Látigo de Cola {10}
 - [01] Gruñido {10}
 - [01] Impactrueno {10}
@@ -1479,6 +1485,7 @@ Type: Hada / Volador
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Lanzallamas
 Level Up Moves:
 - [01] Tacleada {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: Bola de Energía
 Level Up Moves:
-- [00] Confusión {19}
+- [EVO] Confusión {19}
 - [01] Psicorrayo {10}
 - [01] Teletransporte {10}
 - [10] Reflejo {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [-02] Confusión {19}
+- [RELEARN] Confusión {19}
 - [01] Psicorrayo {10}
 - [01] Teletransporte {10}
 - [10] Reflejo {13}
@@ -1695,9 +1702,10 @@ Type: Psíquico
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [-02] Confusión {19}
+- [RELEARN] Confusión {19}
 - [01] Psicorrayo {10}
 - [01] Teletransporte {10}
 - [10] Reflejo {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: Bola de Energía
 Level Up Moves:
-- [-02] Plancha {10}
+- [RELEARN] Plancha {10}
 - [01] Látigo Cepa {10}
 - [01] Crecimiento {10}
 - [08] Infestación {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: Hiperrayo
 Level Up Moves:
-- [00] Bomba Lodo {10}
+- [EVO] Bomba Lodo {10}
 - [01] Látigo Cepa {10}
 - [01] Crecimiento {10}
 - [01] Plancha {10}
@@ -2060,9 +2068,10 @@ Type: Planta / Veneno
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Hiperrayo
 Level Up Moves:
-- [00] Bomba Lodo {10}
+- [EVO] Bomba Lodo {10}
 - [01] Látigo Cepa {10}
 - [01] Crecimiento {10}
 - [01] Plancha {10}
@@ -2297,6 +2306,7 @@ Type: Agua / Psíquico
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Rayo de Hielo
 Level Up Moves:
 - [01] Tacleada {10}
@@ -2609,6 +2619,7 @@ Type: Fantasma / Veneno
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
 - [01] Rayo de Confusión {10}
@@ -2783,6 +2794,7 @@ Type: Normal
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Puño Incremento
 Level Up Moves:
 - [01] Tacleada {10}
@@ -2969,6 +2981,7 @@ Type: Agua / Psíquico
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Ventisca
 Level Up Moves:
 - [01] Tacleada {10}
@@ -3131,6 +3144,7 @@ Type: Insecto / Volador
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Roca Afilada
 Level Up Moves:
 - [01] Tacleada {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Mordida {23}
-- [-02] Chorro de Agua {10}
-- [-02] Remolino {10}
+- [EVO] Mordida {23}
+- [RELEARN] Chorro de Agua {10}
+- [RELEARN] Remolino {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Salpicadura {10}
@@ -3263,11 +3277,12 @@ Type: Agua / Siniestro
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Mordida {23}
-- [-02] Chorro de Agua {10}
-- [-02] Remolino {10}
+- [EVO] Mordida {23}
+- [RELEARN] Chorro de Agua {10}
+- [RELEARN] Remolino {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Salpicadura {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: Rayo de Hielo
 Level Up Moves:
-- [00] Chorro de Agua {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [EVO] Chorro de Agua {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [00] Impactrueno {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
-- [-02] Onda Anómala {10}
+- [EVO] Impactrueno {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
+- [RELEARN] Onda Anómala {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: Cola de Hierro
 Level Up Moves:
-- [00] Brasas {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [EVO] Brasas {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -3612,6 +3627,7 @@ Type: Roca / Volador
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Poder Terrestre
 Level Up Moves:
 - [01] Mordida {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: Llamarada
 Level Up Moves:
-- [00] Huracán {58}
-- [-02] Puño Fuego {10}
-- [-02] Puño Trueno {10}
-- [-02] Ataque de Ala {10}
+- [EVO] Huracán {58}
+- [RELEARN] Puño Fuego {10}
+- [RELEARN] Puño Trueno {10}
+- [RELEARN] Ataque de Ala {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Corte Aéreo {10}
@@ -3856,12 +3872,13 @@ Type: Dragón / Volador
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Llamarada
 Level Up Moves:
-- [00] Huracán {58}
-- [-02] Puño Fuego {10}
-- [-02] Puño Trueno {10}
-- [-02] Ataque de Ala {10}
+- [EVO] Huracán {58}
+- [RELEARN] Puño Fuego {10}
+- [RELEARN] Puño Trueno {10}
+- [RELEARN] Ataque de Ala {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Corte Aéreo {10}
@@ -3932,6 +3949,7 @@ Type: Psíquico
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Confusión {10}
@@ -4011,6 +4029,7 @@ Type: Psíquico / Pelea
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protección
 Level Up Moves:
 - [01] Confusión {10}
@@ -4090,6 +4109,7 @@ Type: Psíquico
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protección
 Level Up Moves:
 - [01] Confusión {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: Poder Terrestre
 Level Up Moves:
-- [00] Gigadrenado {19}
+- [EVO] Gigadrenado {19}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [06] Follaje {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Hoja Aguda {35}
-- [-02] Gigadrenado {19}
+- [EVO] Hoja Aguda {35}
+- [RELEARN] Gigadrenado {19}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [06] Follaje {9}
@@ -4332,10 +4352,11 @@ Type: Planta / Hada
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Hoja Aguda {35}
-- [-02] Gigadrenado {19}
+- [EVO] Hoja Aguda {35}
+- [RELEARN] Gigadrenado {19}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [06] Follaje {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: Colmillo Hielo
 Level Up Moves:
-- [00] Cuchillada {21}
+- [EVO] Cuchillada {21}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [06] Chorro de Agua {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: Garra Dragón
 Level Up Moves:
-- [00] Triturar {33}
+- [EVO] Triturar {33}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Cuchillada {10}
@@ -4561,9 +4582,10 @@ Type: Agua / Dragón
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Garra Dragón
 Level Up Moves:
-- [00] Triturar {33}
+- [EVO] Triturar {33}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Cuchillada {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: Desarme
 Level Up Moves:
-- [00] Danza de Espadas {25}
+- [EVO] Danza de Espadas {25}
 - [01] Piquete Venenoso {10}
 - [01] Disparo de Seda {10}
 - [01] Centrar Energía {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Puño Trueno {33}
-- [-02] Onda Anómala {10}
+- [EVO] Puño Trueno {33}
+- [RELEARN] Onda Anómala {10}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [04] Impactrueno {7}
@@ -4994,10 +5016,11 @@ Type: Eléctrico / Dragón
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Puño Trueno {33}
-- [-02] Onda Anómala {10}
+- [EVO] Puño Trueno {33}
+- [RELEARN] Onda Anómala {10}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [04] Impactrueno {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Confusión {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [EVO] Confusión {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: Tóxico
 Level Up Moves:
-- [00] Alarido {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [EVO] Alarido {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: Rayo de Hielo
 Level Up Moves:
-- [-02] Confusión {10}
+- [RELEARN] Confusión {10}
 - [01] Tacleada {10}
 - [01] Maldición {10}
 - [01] Joya de Luz {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [-02] Tóxico {10}
-- [-02] Confusión {10}
+- [RELEARN] Tóxico {10}
+- [RELEARN] Confusión {10}
 - [01] Tacleada {10}
 - [01] Maldición {10}
 - [01] Joya de Luz {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Cola de Hierro {10}
+- [EVO] Cola de Hierro {10}
 - [01] Tacleada {10}
 - [01] Lanzarrocas {10}
 - [01] Fortaleza {10}
@@ -5381,9 +5404,10 @@ Type: Acero / Tierra
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Cola de Hierro {10}
+- [EVO] Cola de Hierro {10}
 - [01] Tacleada {10}
 - [01] Lanzarrocas {10}
 - [01] Fortaleza {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: Cuerpo a Cuerpo
 Level Up Moves:
-- [00] Puño Bala {10}
+- [EVO] Puño Bala {10}
 - [01] Malicioso {10}
 - [01] Ataque Rápido {10}
 - [12] Ataque de Ala {15}
@@ -5496,9 +5520,10 @@ Type: Insecto / Acero
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Cuerpo a Cuerpo
 Level Up Moves:
-- [00] Puño Bala {10}
+- [EVO] Puño Bala {10}
 - [01] Malicioso {10}
 - [01] Ataque Rápido {10}
 - [12] Ataque de Ala {15}
@@ -5611,6 +5636,7 @@ Type: Insecto / Pelea
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Roca Afilada
 Level Up Moves:
 - [01] Tacleada {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: Tumba de Rocas
 Level Up Moves:
-- [-02] Corte Aéreo {10}
+- [RELEARN] Corte Aéreo {10}
 - [01] Malicioso {10}
 - [01] Picotazo {10}
 - [12] Garra de Metal {15}
@@ -5770,9 +5796,10 @@ Type: Acero / Volador
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Tumba de Rocas
 Level Up Moves:
-- [-02] Corte Aéreo {10}
+- [RELEARN] Corte Aéreo {10}
 - [01] Malicioso {10}
 - [01] Picotazo {10}
 - [12] Garra de Metal {15}
@@ -5934,6 +5961,7 @@ Type: Siniestro / Fuego
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Bomba Lodo
 Level Up Moves:
 - [01] Malicioso {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: Cabeza de Hierro
 Level Up Moves:
-- [00] Defensa Hierro {10}
+- [EVO] Defensa Hierro {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [03] Lanzarrocas {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: Enfado
 Level Up Moves:
-- [-02] Defensa Hierro {10}
-- [-02] Pulso Oscuro {10}
+- [RELEARN] Defensa Hierro {10}
+- [RELEARN] Pulso Oscuro {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [03] Lanzarrocas {6}
@@ -6179,10 +6207,11 @@ Type: Roca / Siniestro
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Enfado
 Level Up Moves:
-- [-02] Defensa Hierro {10}
-- [-02] Pulso Oscuro {10}
+- [RELEARN] Defensa Hierro {10}
+- [RELEARN] Pulso Oscuro {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [03] Lanzarrocas {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: Atactrueno
 Level Up Moves:
-- [00] Brillo Mágico {33}
+- [EVO] Brillo Mágico {33}
 - [01] Gruñido {10}
 - [01] Voz Encantadora {10}
 - [06] Confusión {9}
@@ -6435,9 +6464,10 @@ Type: Psíquico / Hada
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Atactrueno
 Level Up Moves:
-- [00] Brillo Mágico {33}
+- [EVO] Brillo Mágico {33}
 - [01] Gruñido {10}
 - [01] Voz Encantadora {10}
 - [06] Confusión {9}
@@ -6569,6 +6599,7 @@ Type: Siniestro / Fantasma
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Golpe Venenoso
 Level Up Moves:
 - [01] Tacleada {10}
@@ -6705,6 +6736,7 @@ Type: Acero / Hada
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Roca Afilada
 Level Up Moves:
 - [01] Mordida {10}
@@ -6954,6 +6986,7 @@ Type: Acero
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
 - [01] Tacleada {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [-02] Puño Fuego {10}
-- [-02] Puño Hielo {10}
-- [-02] Puño Trueno {10}
+- [RELEARN] Puño Fuego {10}
+- [RELEARN] Puño Hielo {10}
+- [RELEARN] Puño Trueno {10}
 - [01] Confusión {10}
 - [01] Avivar {10}
 - [09] Detección {12}
@@ -7150,11 +7183,12 @@ Type: Pelea / Psíquico
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [-02] Puño Fuego {10}
-- [-02] Puño Hielo {10}
-- [-02] Puño Trueno {10}
+- [RELEARN] Puño Fuego {10}
+- [RELEARN] Puño Hielo {10}
+- [RELEARN] Puño Trueno {10}
 - [01] Confusión {10}
 - [01] Avivar {10}
 - [09] Detección {12}
@@ -7323,6 +7357,7 @@ Type: Eléctrico
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Colmillo Hielo
 Level Up Moves:
 - [01] Tacleada {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [00] Piquete Venenoso {10}
+- [EVO] Piquete Venenoso {10}
 - [01] Absorción {10}
 - [01] Crecimiento {10}
 - [01] Paralizador {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: Cabezazo Zen
 Level Up Moves:
-- [00] Cuchillada {33}
+- [EVO] Cuchillada {33}
 - [01] Malicioso {10}
 - [01] Corte Umbrío {10}
 - [01] Acuajet {10}
@@ -7536,9 +7571,10 @@ Type: Agua / Siniestro
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Cabezazo Zen
 Level Up Moves:
-- [00] Cuchillada {33}
+- [EVO] Cuchillada {33}
 - [01] Malicioso {10}
 - [01] Corte Umbrío {10}
 - [01] Acuajet {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: Roca Afilada
 Level Up Moves:
-- [00] Avalancha {36}
+- [EVO] Avalancha {36}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [05] Brasas {8}
@@ -7710,9 +7746,10 @@ Type: Fuego / Tierra
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Roca Afilada
 Level Up Moves:
-- [00] Avalancha {36}
+- [EVO] Avalancha {36}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [05] Brasas {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Pulso Dragón {38}
+- [EVO] Pulso Dragón {38}
 - [01] Gruñido {10}
 - [01] Picotazo {10}
 - [04] Voz Encantadora {7}
@@ -7878,9 +7915,10 @@ Type: Dragón / Hada
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Pulso Dragón {38}
+- [EVO] Pulso Dragón {38}
 - [01] Gruñido {10}
 - [01] Picotazo {10}
 - [04] Voz Encantadora {7}
@@ -8044,6 +8082,7 @@ Type: Fantasma
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
 - [01] Chillido {10}
@@ -8163,6 +8202,7 @@ Type: Siniestro
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Cabezazo Zen
 Level Up Moves:
 - [01] Malicioso {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [00] Liofilización {45}
+- [EVO] Liofilización {45}
 - [01] Golpe Cabeza {10}
 - [01] Malicioso {10}
 - [01] Mordida {10}
@@ -8323,9 +8363,10 @@ Type: Hielo
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [00] Liofilización {45}
+- [EVO] Liofilización {45}
 - [01] Golpe Cabeza {10}
 - [01] Malicioso {10}
 - [01] Mordida {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: Garra de Sombra
 Level Up Moves:
-- [00] Protección {33}
+- [EVO] Protección {33}
 - [01] Malicioso {10}
 - [01] Mordida {10}
 - [01] Brasas {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Vuelo {53}
+- [EVO] Vuelo {53}
 - [01] Malicioso {10}
 - [01] Mordida {10}
 - [01] Brasas {10}
@@ -8550,9 +8591,10 @@ Type: Dragón / Volador
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Vuelo {53}
+- [EVO] Vuelo {53}
 - [01] Malicioso {10}
 - [01] Mordida {10}
 - [01] Brasas {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: Puño Hielo
 Level Up Moves:
-- [00] Confusión {23}
-- [00] Garra de Metal {23}
+- [EVO] Confusión {23}
+- [EVO] Garra de Metal {23}
 - [01] Tacleada {10}
 - [01] Puño Bala {10}
 - [06] Cabezazo Zen {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: Puño Incremento
 Level Up Moves:
-- [-02] Explosión {10}
-- [-02] Golpe Pesado {10}
+- [RELEARN] Explosión {10}
+- [RELEARN] Golpe Pesado {10}
 - [01] Tacleada {10}
 - [01] Confusión {10}
 - [01] Garra de Metal {10}
@@ -8757,10 +8799,11 @@ Type: Acero / Psíquico
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Puño Incremento
 Level Up Moves:
-- [-02] Explosión {10}
-- [-02] Golpe Pesado {10}
+- [RELEARN] Explosión {10}
+- [RELEARN] Golpe Pesado {10}
 - [01] Tacleada {10}
 - [01] Confusión {10}
 - [01] Garra de Metal {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [-02] Piquete Venenoso {10}
+- [RELEARN] Piquete Venenoso {10}
 - [01] Absorción {10}
 - [01] Crecimiento {10}
 - [01] Paralizador {10}
@@ -9015,6 +9058,7 @@ Type: Normal / Pelea
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Cuerpo a Cuerpo
 Level Up Moves:
 - [01] Tacleada {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: Golpe Venenoso
 Level Up Moves:
-- [00] Triturar {51}
+- [EVO] Triturar {51}
 - [01] Tacleada {10}
 - [01] Tumba de Arena {10}
 - [12] Aliento Dragón {15}
@@ -9243,9 +9287,10 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Golpe Venenoso
 Level Up Moves:
-- [00] Triturar {51}
+- [EVO] Triturar {51}
 - [01] Tacleada {10}
 - [01] Tumba de Arena {10}
 - [12] Aliento Dragón {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: Puño Hielo
 Level Up Moves:
-- [-02] Detección {10}
+- [RELEARN] Detección {10}
 - [01] Ataque Rápido {10}
 - [01] Protección {10}
 - [01] Aguante {10}
@@ -9428,9 +9473,10 @@ Type: Pelea / Acero
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Puño Hielo
 Level Up Moves:
-- [-02] Detección {10}
+- [RELEARN] Detección {10}
 - [01] Ataque Rápido {10}
 - [01] Protección {10}
 - [01] Aguante {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: Poder Terrestre
 Level Up Moves:
-- [00] Puño Hielo {43}
+- [EVO] Puño Hielo {43}
 - [01] Malicioso {10}
 - [01] Follaje {10}
 - [10] Neblina {13}
@@ -9692,9 +9738,10 @@ Type: Planta / Hielo
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Poder Terrestre
 Level Up Moves:
-- [00] Puño Hielo {43}
+- [EVO] Puño Hielo {43}
 - [01] Malicioso {10}
 - [01] Follaje {10}
 - [10] Neblina {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: As Aéreo
 Level Up Moves:
-- [00] Hojas Navaja {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [EVO] Hojas Navaja {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: Bola Sombra
 Level Up Moves:
-- [00] Viento Helado {10}
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [EVO] Viento Helado {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: Roca Afilada
 Level Up Moves:
-- [00] Cuchillada {10}
-- [-02] Fuerza Psíquica {10}
-- [-02] Rayo de Confusión {10}
-- [-02] Encanto {10}
-- [-02] Premonición {10}
-- [-02] Hojas Mágicas {10}
-- [-02] Paz Mental {10}
-- [-02] Corte Umbrío {10}
-- [-02] Beso Drenador {10}
-- [-02] Fuego Místico {10}
+- [EVO] Cuchillada {10}
+- [RELEARN] Fuerza Psíquica {10}
+- [RELEARN] Rayo de Confusión {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Premonición {10}
+- [RELEARN] Hojas Mágicas {10}
+- [RELEARN] Paz Mental {10}
+- [RELEARN] Corte Umbrío {10}
+- [RELEARN] Beso Drenador {10}
+- [RELEARN] Fuego Místico {10}
 - [01] Gruñido {10}
 - [01] Psicorrayo {10}
 - [01] Hipnosis {10}
@@ -9936,18 +9983,19 @@ Type: Psíquico / Pelea
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Roca Afilada
 Level Up Moves:
-- [00] Cuchillada {10}
-- [-02] Fuerza Psíquica {10}
-- [-02] Rayo de Confusión {10}
-- [-02] Encanto {10}
-- [-02] Premonición {10}
-- [-02] Hojas Mágicas {10}
-- [-02] Paz Mental {10}
-- [-02] Corte Umbrío {10}
-- [-02] Beso Drenador {10}
-- [-02] Fuego Místico {10}
+- [EVO] Cuchillada {10}
+- [RELEARN] Fuerza Psíquica {10}
+- [RELEARN] Rayo de Confusión {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Premonición {10}
+- [RELEARN] Hojas Mágicas {10}
+- [RELEARN] Paz Mental {10}
+- [RELEARN] Corte Umbrío {10}
+- [RELEARN] Beso Drenador {10}
+- [RELEARN] Fuego Místico {10}
 - [01] Gruñido {10}
 - [01] Psicorrayo {10}
 - [01] Hipnosis {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: Atactrueno
 Level Up Moves:
-- [00] Beso Drenador {10}
-- [-02] Protección {10}
-- [-02] Triturar {10}
-- [-02] Colmillo Hielo {10}
-- [-02] Carámbano {10}
+- [EVO] Beso Drenador {10}
+- [RELEARN] Protección {10}
+- [RELEARN] Triturar {10}
+- [RELEARN] Colmillo Hielo {10}
+- [RELEARN] Carámbano {10}
 - [01] Golpe Cabeza {10}
 - [01] Malicioso {10}
 - [01] Mordida {10}
@@ -10081,13 +10129,14 @@ Type: Hielo / Fantasma
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Atactrueno
 Level Up Moves:
-- [00] Beso Drenador {10}
-- [-02] Protección {10}
-- [-02] Triturar {10}
-- [-02] Colmillo Hielo {10}
-- [-02] Carámbano {10}
+- [EVO] Beso Drenador {10}
+- [RELEARN] Protección {10}
+- [RELEARN] Triturar {10}
+- [RELEARN] Colmillo Hielo {10}
+- [RELEARN] Carámbano {10}
 - [01] Golpe Cabeza {10}
 - [01] Malicioso {10}
 - [01] Mordida {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: Roca Afilada
 Level Up Moves:
-- [00] Puño Incremento {20}
+- [EVO] Puño Incremento {20}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [06] Brasas {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Golpe de Calor {39}
-- [-02] Puño Incremento {20}
+- [EVO] Golpe de Calor {39}
+- [RELEARN] Puño Incremento {20}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [06] Brasas {9}
@@ -10321,10 +10370,11 @@ Type: Fuego / Pelea
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Golpe de Calor {39}
-- [-02] Puño Incremento {20}
+- [EVO] Golpe de Calor {39}
+- [RELEARN] Puño Incremento {20}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [06] Brasas {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: Lanzamugre
 Level Up Moves:
-- [00] Rayo de Confusión {23}
+- [EVO] Rayo de Confusión {23}
 - [01] Tacleada {10}
 - [03] Malicioso {6}
 - [06] Mordida {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: Ataque Centrado
 Level Up Moves:
-- [-02] Sonido Metálico {10}
+- [RELEARN] Sonido Metálico {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Disparo de Lodo {10}
@@ -10937,9 +10987,10 @@ Type: Tierra / Acero
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Ataque Centrado
 Level Up Moves:
-- [-02] Sonido Metálico {10}
+- [RELEARN] Sonido Metálico {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Disparo de Lodo {10}
@@ -11055,6 +11106,7 @@ Type: Normal / Hada
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
 - [01] Tacleada {10}
@@ -11256,6 +11308,7 @@ Type: Insecto / Veneno
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
 - [01] Piquete Venenoso {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: Roca Afilada
 Level Up Moves:
-- [00] Vasto Impacto {10}
+- [EVO] Vasto Impacto {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [09] Tumba de Arena {12}
@@ -11606,6 +11659,7 @@ Type: Siniestro / Pelea
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Golpe Venenoso
 Level Up Moves:
 - [01] Tacleada {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: Ida y Vuelta
 Level Up Moves:
-- [00] Triturar {42}
+- [EVO] Triturar {42}
 - [01] Golpe Cabeza {10}
 - [01] Tacleada {10}
 - [01] Onda Trueno {10}
@@ -12077,6 +12131,7 @@ Type: Eléctrico
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Cascada
 Level Up Moves:
 - [01] Golpe Cabeza {10}
@@ -12293,6 +12348,7 @@ Type: Fantasma / Fuego
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Bola de Energía
 Level Up Moves:
 - [01] Brasas {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Barrera Espinosa {39}
+- [EVO] Barrera Espinosa {39}
 - [01] Látigo Cepa {10}
 - [01] Gruñido {10}
 - [05] Crecimiento {8}
@@ -12625,9 +12681,10 @@ Type: Planta / Pelea
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Terremoto
 Level Up Moves:
-- [00] Barrera Espinosa {39}
+- [EVO] Barrera Espinosa {39}
 - [01] Látigo Cepa {10}
 - [01] Gruñido {10}
 - [05] Crecimiento {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Fuego Místico {39}
-- [-02] Bola Sombra {10}
-- [-02] Premonición {10}
+- [EVO] Fuego Místico {39}
+- [RELEARN] Bola Sombra {10}
+- [RELEARN] Premonición {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [05] Brasas {8}
@@ -12853,11 +12910,12 @@ Type: Fuego / Psíquico
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Fuego Místico {39}
-- [-02] Bola Sombra {10}
-- [-02] Premonición {10}
+- [EVO] Fuego Místico {39}
+- [RELEARN] Bola Sombra {10}
+- [RELEARN] Premonición {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [05] Brasas {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Ventisca
 Level Up Moves:
-- [00] Shuriken de Agua {39}
+- [EVO] Shuriken de Agua {39}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [05] Chorro de Agua {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Lanzamugre
 Level Up Moves:
-- [00] Shuriken de Agua {39}
+- [EVO] Shuriken de Agua {39}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [05] Chorro de Agua {8}
@@ -13157,9 +13215,10 @@ Type: Agua / Siniestro
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Ventisca
 Level Up Moves:
-- [00] Shuriken de Agua {39}
+- [EVO] Shuriken de Agua {39}
 - [01] Tacleada {10}
 - [01] Gruñido {10}
 - [05] Chorro de Agua {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: Lanzamugre
 Level Up Moves:
-- [00] Terratemblor {23}
+- [EVO] Terratemblor {23}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [07] Disparo de Lodo {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: Ida y Vuelta
 Level Up Moves:
-- [00] Ataque de Ala {20}
+- [EVO] Ataque de Ala {20}
 - [01] Gruñido {10}
 - [01] Picotazo {10}
 - [08] Ataque Rápido {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: Gigaimpacto
 Level Up Moves:
-- [00] Ave Brava {38}
+- [EVO] Ave Brava {38}
 - [01] Ataque de Ala {10}
 - [01] Gruñido {10}
 - [01] Picotazo {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {10}
+- [EVO] Protección {10}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Defensa Hierro
 Level Up Moves:
-- [00] Protección {12}
+- [EVO] Protección {12}
 - [01] Tacleada {10}
 - [01] Polvo Venenoso {10}
 - [01] Disparo de Seda {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Brillo Mágico
 Level Up Moves:
-- [00] Ráfaga de Aire {15}
-- [-02] Tacleada {10}
-- [-02] Disparo de Seda {10}
-- [-02] Fortaleza {10}
-- [-02] Protección {10}
+- [EVO] Ráfaga de Aire {15}
+- [RELEARN] Tacleada {10}
+- [RELEARN] Disparo de Seda {10}
+- [RELEARN] Fortaleza {10}
+- [RELEARN] Protección {10}
 - [01] Polvo Venenoso {10}
 - [01] Paralizador {10}
 - [01] Somnífero {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: Carga Salvaje
 Level Up Moves:
-- [00] Supercalor {38}
-- [-02] Hiperrayo {10}
+- [EVO] Supercalor {38}
+- [RELEARN] Hiperrayo {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Brasas {10}
@@ -15568,10 +15627,11 @@ Type: Fuego / Normal
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Carga Salvaje
 Level Up Moves:
-- [00] Supercalor {38}
-- [-02] Hiperrayo {10}
+- [EVO] Supercalor {38}
+- [RELEARN] Hiperrayo {10}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Brasas {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigadrenado
 Level Up Moves:
-- [00] Fuerza Lunar {22}
+- [EVO] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigadrenado
 Level Up Moves:
-- [00] Fuerza Lunar {22}
+- [EVO] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigadrenado
 Level Up Moves:
-- [00] Fuerza Lunar {22}
+- [EVO] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigadrenado
 Level Up Moves:
-- [00] Fuerza Lunar {22}
+- [EVO] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigadrenado
 Level Up Moves:
-- [00] Fuerza Lunar {22}
+- [EVO] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Protección
 Level Up Moves:
-- [-02] Fuerza Lunar {22}
+- [RELEARN] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16102,9 +16162,10 @@ Type: Hada
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Protección
 Level Up Moves:
-- [-02] Fuerza Lunar {22}
+- [RELEARN] Fuerza Lunar {22}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Fuerza Psíquica
 Level Up Moves:
-- [-02] Voz Encantadora {10}
+- [RELEARN] Voz Encantadora {10}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Fuerza Psíquica
 Level Up Moves:
-- [-02] Voz Encantadora {10}
+- [RELEARN] Voz Encantadora {10}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Fuerza Psíquica
 Level Up Moves:
-- [-02] Voz Encantadora {10}
+- [RELEARN] Voz Encantadora {10}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Fuerza Psíquica
 Level Up Moves:
-- [-02] Voz Encantadora {10}
+- [RELEARN] Voz Encantadora {10}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Fuerza Psíquica
 Level Up Moves:
-- [-02] Voz Encantadora {10}
+- [RELEARN] Voz Encantadora {10}
 - [01] Látigo Cepa {10}
 - [01] Tacleada {10}
 - [01] Viento Feérico {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: Juego Rudo
 Level Up Moves:
-- [00] As Aéreo {35}
+- [EVO] As Aéreo {35}
 - [01] Tacleada {10}
 - [01] Crecimiento {10}
 - [07] Látigo Cepa {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: Golpe Venenoso
 Level Up Moves:
-- [00] Corte Umbrío {35}
+- [EVO] Corte Umbrío {35}
 - [01] Tacleada {10}
 - [01] Malicioso {10}
 - [01] Provocación {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Cuerpo a Cuerpo
 Level Up Moves:
-- [00] Escudo Real {10}
+- [EVO] Escudo Real {10}
 - [01] Tacleada {10}
 - [01] Chillido {10}
 - [04] Sombra Vil {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Cuerpo a Cuerpo
 Level Up Moves:
-- [00] Escudo Real {10}
+- [EVO] Escudo Real {10}
 - [01] Tacleada {10}
 - [01] Chillido {10}
 - [04] Sombra Vil {7}
@@ -17759,6 +17820,7 @@ Type: Siniestro / Psíquico
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Golpe Venenoso
 Level Up Moves:
 - [01] Tacleada {10}
@@ -17934,6 +17996,7 @@ Type: Roca / Pelea
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Puño Incremento
 Level Up Moves:
 - [01] Chorro de Agua {10}
@@ -18103,6 +18166,7 @@ Type: Veneno / Dragón
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Surf
 Level Up Moves:
 - [01] Tacleada {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: Fuerza Psíquica
 Level Up Moves:
-- [-02] Derribo {10}
-- [-02] Doble Filo {10}
-- [-02] Meteoros {10}
-- [-02] Encanto {10}
-- [-02] Deseo {10}
+- [RELEARN] Derribo {10}
+- [RELEARN] Doble Filo {10}
+- [RELEARN] Meteoros {10}
+- [RELEARN] Encanto {10}
+- [RELEARN] Deseo {10}
 - [01] Tacleada {10}
 - [01] Látigo de Cola {10}
 - [01] Mordida {10}
@@ -18709,6 +18773,7 @@ Type: Pelea / Volador
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Golpe Venenoso
 Level Up Moves:
 - [01] Tacleada {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: Rayo de Hielo
 Level Up Moves:
-- [00] Defensa Hierro {43}
+- [EVO] Defensa Hierro {43}
 - [01] Tacleada {10}
 - [01] Absorción {10}
 - [01] Armadura Ácida {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: Ventisca
 Level Up Moves:
-- [-02] Vasto Impacto {10}
+- [RELEARN] Vasto Impacto {10}
 - [01] Tacleada {10}
 - [01] Absorción {10}
 - [01] Armadura Ácida {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: Onda Ígnea
 Level Up Moves:
-- [00] Pulso Dragón {10}
+- [EVO] Pulso Dragón {10}
 - [01] Tacleada {10}
 - [01] Absorción {10}
 - [01] Luz Lunar {10}
@@ -19978,6 +20043,7 @@ Type: Hada
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Tacleada {10}
@@ -20030,6 +20096,7 @@ Type: Siniestro / Volador
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Ráfaga de Aire {10}
@@ -20082,6 +20149,7 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Mordida {10}
@@ -20139,6 +20207,7 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Mordida {10}
@@ -20196,6 +20265,7 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Mordida {10}
@@ -20253,6 +20323,7 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Mordida {10}
@@ -20310,6 +20381,7 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: Protección
 Level Up Moves:
 - [01] Mordida {10}
@@ -20367,6 +20439,7 @@ Type: Dragón / Tierra
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: Protección
 Level Up Moves:
 - [01] Mordida {10}
@@ -20424,6 +20497,7 @@ Type: Roca / Hada
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: Protección
 Level Up Moves:
 - [01] Tacleada {10}
@@ -20478,6 +20552,7 @@ Type: Roca / Hada
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: Protección
 Level Up Moves:
 - [01] Tacleada {10}
@@ -20532,6 +20607,7 @@ Type: Psíquico / Fantasma
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Protección
 Level Up Moves:
 - [01] Confusión {10}
@@ -20587,6 +20663,7 @@ Type: Psíquico / Siniestro
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Protección
 Level Up Moves:
 - [01] Confusión {10}
@@ -20642,6 +20719,7 @@ Type: Fuego / Agua
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: Protección
 Level Up Moves:
 - [01] Chorro de Agua {10}
@@ -20777,6 +20855,7 @@ Type: Normal / Dragón
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Llamarada
 Level Up Moves:
 - [01] Malicioso {10}
@@ -20897,6 +20976,7 @@ Type: Pelea
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Golpe Venenoso
 Level Up Moves:
 - [01] Tacleada {10}

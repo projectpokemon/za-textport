@@ -107,7 +107,7 @@ Egg Group: Monster / Grass
 Height: 02.00m, Weight: 100.0kg, Color: Green
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Blattgeißel {35}
+- [EVO] Blattgeißel {35}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [03] Rankenhieb {6}
@@ -158,9 +158,10 @@ Type: Pflanze / Gift
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 155.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Blattgeißel {35}
+- [EVO] Blattgeißel {35}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [03] Rankenhieb {6}
@@ -325,8 +326,8 @@ Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 090.5kg, Color: Red
 Alpha Move: Solarstrahl
 Level Up Moves:
-- [00] Feuersturm {39}
-- [00] Luftschnitt {39}
+- [EVO] Feuersturm {39}
+- [EVO] Luftschnitt {39}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [01] Drachenklaue {10}
@@ -388,10 +389,11 @@ Type: Feuer / Drache
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 110.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Solarstrahl
 Level Up Moves:
-- [00] Feuersturm {39}
-- [00] Luftschnitt {39}
+- [EVO] Feuersturm {39}
+- [EVO] Luftschnitt {39}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [01] Drachenklaue {10}
@@ -453,10 +455,11 @@ Type: Feuer / Flug
 EXP Group: MediumSlow
 Egg Group: Monster / Dragon
 Height: 01.70m, Weight: 100.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Solarstrahl
 Level Up Moves:
-- [00] Feuersturm {39}
-- [00] Luftschnitt {39}
+- [EVO] Feuersturm {39}
+- [EVO] Luftschnitt {39}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [01] Drachenklaue {10}
@@ -628,8 +631,8 @@ Egg Group: Monster / Water1
 Height: 01.60m, Weight: 085.5kg, Color: Blue
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Hydropumpe {39}
-- [00] Lichtkanone {39}
+- [EVO] Hydropumpe {39}
+- [EVO] Lichtkanone {39}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [03] Aquaknarre {6}
@@ -691,10 +694,11 @@ Type: Wasser
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 01.60m, Weight: 101.1kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Hydropumpe {39}
-- [00] Lichtkanone {39}
+- [EVO] Hydropumpe {39}
+- [EVO] Lichtkanone {39}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [03] Aquaknarre {6}
@@ -800,7 +804,7 @@ Egg Group: Bug
 Height: 01.00m, Weight: 029.5kg, Color: Yellow
 Alpha Move: Wutanfall
 Level Up Moves:
-- [00] Nadelrakete {13}
+- [EVO] Nadelrakete {13}
 - [01] Giftstachel {10}
 - [01] Fadenschuss {10}
 - [07] Härtner {10}
@@ -847,9 +851,10 @@ Type: Käfer / Gift
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 01.40m, Weight: 040.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Wutanfall
 Level Up Moves:
-- [00] Nadelrakete {13}
+- [EVO] Nadelrakete {13}
 - [01] Giftstachel {10}
 - [01] Fadenschuss {10}
 - [07] Härtner {10}
@@ -1026,6 +1031,7 @@ Type: Normal / Flug
 EXP Group: MediumSlow
 Egg Group: Flying
 Height: 02.20m, Weight: 050.5kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Hitzewelle
 Level Up Moves:
 - [01] Tackle {10}
@@ -1122,7 +1128,7 @@ Egg Group: Field / Dragon
 Height: 03.50m, Weight: 065.0kg, Color: Purple
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Knirscher {25}
+- [EVO] Knirscher {25}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [04] Giftstachel {7}
@@ -1229,8 +1235,8 @@ Egg Group: Field / Fairy
 Height: 00.80m, Weight: 030.0kg, Color: Yellow
 Alpha Move: Knuddler
 Level Up Moves:
-- [00] Donnerschlag {10}
-- [-02] Mystowellen {10}
+- [EVO] Donnerschlag {10}
+- [RELEARN] Mystowellen {10}
 - [01] Rutenschlag {10}
 - [01] Heuler {10}
 - [01] Donnerschock {10}
@@ -1285,8 +1291,8 @@ Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
 Alpha Move: Eisenschweif
 Level Up Moves:
-- [00] Psychokinese {10}
-- [-02] Mystowellen {10}
+- [EVO] Psychokinese {10}
+- [RELEARN] Mystowellen {10}
 - [01] Rutenschlag {10}
 - [01] Heuler {10}
 - [01] Donnerschock {10}
@@ -1479,6 +1485,7 @@ Type: Fee / Flug
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.70m, Weight: 042.3kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Flammenwurf
 Level Up Moves:
 - [01] Tackle {10}
@@ -1591,7 +1598,7 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 056.5kg, Color: Brown
 Alpha Move: Energieball
 Level Up Moves:
-- [00] Konfusion {19}
+- [EVO] Konfusion {19}
 - [01] Psystrahl {10}
 - [01] Teleport {10}
 - [10] Reflektor {13}
@@ -1643,7 +1650,7 @@ Egg Group: HumanLike
 Height: 01.50m, Weight: 048.0kg, Color: Brown
 Alpha Move: Zauberschein
 Level Up Moves:
-- [-02] Konfusion {19}
+- [RELEARN] Konfusion {19}
 - [01] Psystrahl {10}
 - [01] Teleport {10}
 - [10] Reflektor {13}
@@ -1695,9 +1702,10 @@ Type: Psycho
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 01.20m, Weight: 048.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
-- [-02] Konfusion {19}
+- [RELEARN] Konfusion {19}
 - [01] Psystrahl {10}
 - [01] Teleport {10}
 - [10] Reflektor {13}
@@ -1967,7 +1975,7 @@ Egg Group: Grass
 Height: 01.00m, Weight: 006.4kg, Color: Green
 Alpha Move: Energieball
 Level Up Moves:
-- [-02] Anfallen {10}
+- [RELEARN] Anfallen {10}
 - [01] Rankenhieb {10}
 - [01] Wachstum {10}
 - [08] Plage {11}
@@ -2013,7 +2021,7 @@ Egg Group: Grass
 Height: 01.70m, Weight: 015.5kg, Color: Green
 Alpha Move: Hyperstrahl
 Level Up Moves:
-- [00] Matschbombe {10}
+- [EVO] Matschbombe {10}
 - [01] Rankenhieb {10}
 - [01] Wachstum {10}
 - [01] Anfallen {10}
@@ -2060,9 +2068,10 @@ Type: Pflanze / Gift
 EXP Group: MediumSlow
 Egg Group: Grass
 Height: 04.50m, Weight: 125.5kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Hyperstrahl
 Level Up Moves:
-- [00] Matschbombe {10}
+- [EVO] Matschbombe {10}
 - [01] Rankenhieb {10}
 - [01] Wachstum {10}
 - [01] Anfallen {10}
@@ -2297,6 +2306,7 @@ Type: Wasser / Psycho
 EXP Group: MediumFast
 Egg Group: Monster / Water1
 Height: 02.00m, Weight: 120.0kg, Color: Pink
+Classifications: Mega Evolution
 Alpha Move: Eisstrahl
 Level Up Moves:
 - [01] Tackle {10}
@@ -2609,6 +2619,7 @@ Type: Geist / Gift
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 01.40m, Weight: 040.5kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
 - [01] Konfusstrahl {10}
@@ -2783,6 +2794,7 @@ Type: Normal
 EXP Group: MediumFast
 Egg Group: Monster
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Steigerungshieb
 Level Up Moves:
 - [01] Tackle {10}
@@ -2969,6 +2981,7 @@ Type: Wasser / Psycho
 EXP Group: Slow
 Egg Group: Water3
 Height: 02.30m, Weight: 080.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
 - [01] Tackle {10}
@@ -3131,6 +3144,7 @@ Type: Käfer / Flug
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 059.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Steinkante
 Level Up Moves:
 - [01] Tackle {10}
@@ -3201,9 +3215,9 @@ Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 235.0kg, Color: Blue
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Biss {23}
-- [-02] Aquaknarre {10}
-- [-02] Whirlpool {10}
+- [EVO] Biss {23}
+- [RELEARN] Aquaknarre {10}
+- [RELEARN] Whirlpool {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Platscher {10}
@@ -3263,11 +3277,12 @@ Type: Wasser / Unlicht
 EXP Group: Slow
 Egg Group: Water2 / Dragon
 Height: 06.50m, Weight: 305.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Biss {23}
-- [-02] Aquaknarre {10}
-- [-02] Whirlpool {10}
+- [EVO] Biss {23}
+- [RELEARN] Aquaknarre {10}
+- [RELEARN] Whirlpool {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Platscher {10}
@@ -3376,12 +3391,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 029.0kg, Color: Blue
 Alpha Move: Eisstrahl
 Level Up Moves:
-- [00] Aquaknarre {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [EVO] Aquaknarre {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -3437,13 +3452,13 @@ Egg Group: Field
 Height: 00.80m, Weight: 024.5kg, Color: Yellow
 Alpha Move: Spukball
 Level Up Moves:
-- [00] Donnerschock {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
-- [-02] Mystowellen {10}
+- [EVO] Donnerschock {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
+- [RELEARN] Mystowellen {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -3498,12 +3513,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 025.0kg, Color: Red
 Alpha Move: Eisenschweif
 Level Up Moves:
-- [00] Glut {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [EVO] Glut {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -3612,6 +3627,7 @@ Type: Gestein / Flug
 EXP Group: Slow
 Egg Group: Flying
 Height: 02.10m, Weight: 079.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Erdkräfte
 Level Up Moves:
 - [01] Biss {10}
@@ -3782,10 +3798,10 @@ Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 210.0kg, Color: Brown
 Alpha Move: Feuersturm
 Level Up Moves:
-- [00] Orkan {58}
-- [-02] Feuerschlag {10}
-- [-02] Donnerschlag {10}
-- [-02] Flügelschlag {10}
+- [EVO] Orkan {58}
+- [RELEARN] Feuerschlag {10}
+- [RELEARN] Donnerschlag {10}
+- [RELEARN] Flügelschlag {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Luftschnitt {10}
@@ -3856,12 +3872,13 @@ Type: Drache / Flug
 EXP Group: Slow
 Egg Group: Water1 / Dragon
 Height: 02.20m, Weight: 290.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Feuersturm
 Level Up Moves:
-- [00] Orkan {58}
-- [-02] Feuerschlag {10}
-- [-02] Donnerschlag {10}
-- [-02] Flügelschlag {10}
+- [EVO] Orkan {58}
+- [RELEARN] Feuerschlag {10}
+- [RELEARN] Donnerschlag {10}
+- [RELEARN] Flügelschlag {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Luftschnitt {10}
@@ -3932,6 +3949,7 @@ Type: Psycho
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.00m, Weight: 122.0kg, Color: Purple
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Konfusion {10}
@@ -4011,6 +4029,7 @@ Type: Psycho / Kampf
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 02.30m, Weight: 127.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Konfusion {10}
@@ -4090,6 +4109,7 @@ Type: Psycho
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.50m, Weight: 033.0kg, Color: Purple
+Classifications: Legendary / Mega Evolution
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Konfusion {10}
@@ -4222,7 +4242,7 @@ Egg Group: Monster / Grass
 Height: 01.20m, Weight: 015.8kg, Color: Green
 Alpha Move: Erdkräfte
 Level Up Moves:
-- [00] Gigasauger {19}
+- [EVO] Gigasauger {19}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [06] Blattwerk {9}
@@ -4276,8 +4296,8 @@ Egg Group: Monster / Grass
 Height: 01.80m, Weight: 100.5kg, Color: Green
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Laubklinge {35}
-- [-02] Gigasauger {19}
+- [EVO] Laubklinge {35}
+- [RELEARN] Gigasauger {19}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [06] Blattwerk {9}
@@ -4332,10 +4352,11 @@ Type: Pflanze / Fee
 EXP Group: MediumSlow
 Egg Group: Monster / Grass
 Height: 02.40m, Weight: 201.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Laubklinge {35}
-- [-02] Gigasauger {19}
+- [EVO] Laubklinge {35}
+- [RELEARN] Gigasauger {19}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [06] Blattwerk {9}
@@ -4445,7 +4466,7 @@ Egg Group: Monster / Water1
 Height: 01.10m, Weight: 025.0kg, Color: Blue
 Alpha Move: Eiszahn
 Level Up Moves:
-- [00] Schlitzer {21}
+- [EVO] Schlitzer {21}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [06] Aquaknarre {9}
@@ -4501,7 +4522,7 @@ Egg Group: Monster / Water1
 Height: 02.30m, Weight: 088.8kg, Color: Blue
 Alpha Move: Drachenklaue
 Level Up Moves:
-- [00] Knirscher {33}
+- [EVO] Knirscher {33}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Schlitzer {10}
@@ -4561,9 +4582,10 @@ Type: Wasser / Drache
 EXP Group: MediumSlow
 Egg Group: Monster / Water1
 Height: 02.30m, Weight: 108.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Drachenklaue
 Level Up Moves:
-- [00] Knirscher {33}
+- [EVO] Knirscher {33}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Schlitzer {10}
@@ -4674,7 +4696,7 @@ Egg Group: Bug
 Height: 01.10m, Weight: 033.5kg, Color: Red
 Alpha Move: Abschlag
 Level Up Moves:
-- [00] Schwerttanz {25}
+- [EVO] Schwerttanz {25}
 - [01] Giftstachel {10}
 - [01] Fadenschuss {10}
 - [01] Energiefokus {10}
@@ -4935,8 +4957,8 @@ Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Donnerschlag {33}
-- [-02] Mystowellen {10}
+- [EVO] Donnerschlag {33}
+- [RELEARN] Mystowellen {10}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [04] Donnerschock {7}
@@ -4994,10 +5016,11 @@ Type: Elektro / Drache
 EXP Group: MediumSlow
 Egg Group: Monster / Field
 Height: 01.40m, Weight: 061.5kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Donnerschlag {33}
-- [-02] Mystowellen {10}
+- [EVO] Donnerschlag {33}
+- [RELEARN] Mystowellen {10}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [04] Donnerschock {7}
@@ -5057,12 +5080,12 @@ Egg Group: Field
 Height: 00.90m, Weight: 026.5kg, Color: Purple
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Konfusion {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [EVO] Konfusion {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -5115,12 +5138,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 027.0kg, Color: Black
 Alpha Move: Toxin
 Level Up Moves:
-- [00] Standpauke {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [EVO] Standpauke {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -5173,7 +5196,7 @@ Egg Group: Monster / Water1
 Height: 02.00m, Weight: 079.5kg, Color: Pink
 Alpha Move: Eisstrahl
 Level Up Moves:
-- [-02] Konfusion {10}
+- [RELEARN] Konfusion {10}
 - [01] Tackle {10}
 - [01] Fluch {10}
 - [01] Juwelenkraft {10}
@@ -5244,8 +5267,8 @@ Egg Group: Monster / Water1
 Height: 01.80m, Weight: 079.5kg, Color: Pink
 Alpha Move: Spukball
 Level Up Moves:
-- [-02] Toxin {10}
-- [-02] Konfusion {10}
+- [RELEARN] Toxin {10}
+- [RELEARN] Konfusion {10}
 - [01] Tackle {10}
 - [01] Fluch {10}
 - [01] Juwelenkraft {10}
@@ -5323,7 +5346,7 @@ Egg Group: Mineral
 Height: 09.20m, Weight: 400.0kg, Color: Gray
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Eisenschweif {10}
+- [EVO] Eisenschweif {10}
 - [01] Tackle {10}
 - [01] Steinwurf {10}
 - [01] Härtner {10}
@@ -5381,9 +5404,10 @@ Type: Stahl / Boden
 EXP Group: MediumFast
 Egg Group: Mineral
 Height: 10.50m, Weight: 740.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Eisenschweif {10}
+- [EVO] Eisenschweif {10}
 - [01] Tackle {10}
 - [01] Steinwurf {10}
 - [01] Härtner {10}
@@ -5443,7 +5467,7 @@ Egg Group: Bug
 Height: 01.80m, Weight: 118.0kg, Color: Red
 Alpha Move: Nahkampf
 Level Up Moves:
-- [00] Patronenhieb {10}
+- [EVO] Patronenhieb {10}
 - [01] Silberblick {10}
 - [01] Ruckzuckhieb {10}
 - [12] Flügelschlag {15}
@@ -5496,9 +5520,10 @@ Type: Käfer / Stahl
 EXP Group: MediumFast
 Egg Group: Bug
 Height: 02.00m, Weight: 125.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Nahkampf
 Level Up Moves:
-- [00] Patronenhieb {10}
+- [EVO] Patronenhieb {10}
 - [01] Silberblick {10}
 - [01] Ruckzuckhieb {10}
 - [12] Flügelschlag {15}
@@ -5611,6 +5636,7 @@ Type: Käfer / Kampf
 EXP Group: Slow
 Egg Group: Bug
 Height: 01.70m, Weight: 062.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Steinkante
 Level Up Moves:
 - [01] Tackle {10}
@@ -5716,7 +5742,7 @@ Egg Group: Flying
 Height: 01.70m, Weight: 050.5kg, Color: Gray
 Alpha Move: Felsgrab
 Level Up Moves:
-- [-02] Luftschnitt {10}
+- [RELEARN] Luftschnitt {10}
 - [01] Silberblick {10}
 - [01] Pikser {10}
 - [12] Metallklaue {15}
@@ -5770,9 +5796,10 @@ Type: Stahl / Flug
 EXP Group: Slow
 Egg Group: Flying
 Height: 01.70m, Weight: 040.4kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Felsgrab
 Level Up Moves:
-- [-02] Luftschnitt {10}
+- [RELEARN] Luftschnitt {10}
 - [01] Silberblick {10}
 - [01] Pikser {10}
 - [12] Metallklaue {15}
@@ -5934,6 +5961,7 @@ Type: Unlicht / Feuer
 EXP Group: Slow
 Egg Group: Field
 Height: 01.90m, Weight: 049.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Matschbombe
 Level Up Moves:
 - [01] Silberblick {10}
@@ -6047,7 +6075,7 @@ Egg Group: Monster
 Height: 01.20m, Weight: 152.0kg, Color: Gray
 Alpha Move: Eisenschädel
 Level Up Moves:
-- [00] Eisenabwehr {10}
+- [EVO] Eisenabwehr {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [03] Steinwurf {6}
@@ -6103,8 +6131,8 @@ Egg Group: Monster
 Height: 02.00m, Weight: 202.0kg, Color: Green
 Alpha Move: Wutanfall
 Level Up Moves:
-- [-02] Eisenabwehr {10}
-- [-02] Finsteraura {10}
+- [RELEARN] Eisenabwehr {10}
+- [RELEARN] Finsteraura {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [03] Steinwurf {6}
@@ -6179,10 +6207,11 @@ Type: Gestein / Unlicht
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.50m, Weight: 255.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Wutanfall
 Level Up Moves:
-- [-02] Eisenabwehr {10}
-- [-02] Finsteraura {10}
+- [RELEARN] Eisenabwehr {10}
+- [RELEARN] Finsteraura {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [03] Steinwurf {6}
@@ -6373,7 +6402,7 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
 Alpha Move: Donnerblitz
 Level Up Moves:
-- [00] Zauberschein {33}
+- [EVO] Zauberschein {33}
 - [01] Heuler {10}
 - [01] Säuselstimme {10}
 - [06] Konfusion {9}
@@ -6435,9 +6464,10 @@ Type: Psycho / Fee
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 048.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Donnerblitz
 Level Up Moves:
-- [00] Zauberschein {33}
+- [EVO] Zauberschein {33}
 - [01] Heuler {10}
 - [01] Säuselstimme {10}
 - [06] Konfusion {9}
@@ -6569,6 +6599,7 @@ Type: Unlicht / Geist
 EXP Group: MediumSlow
 Egg Group: HumanLike
 Height: 00.50m, Weight: 161.0kg, Color: Purple
+Classifications: Mega Evolution
 Alpha Move: Gifthieb
 Level Up Moves:
 - [01] Tackle {10}
@@ -6705,6 +6736,7 @@ Type: Stahl / Fee
 EXP Group: Fast
 Egg Group: Field / Fairy
 Height: 01.00m, Weight: 023.5kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Steinkante
 Level Up Moves:
 - [01] Biss {10}
@@ -6954,6 +6986,7 @@ Type: Stahl
 EXP Group: Slow
 Egg Group: Monster
 Height: 02.20m, Weight: 395.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
 - [01] Tackle {10}
@@ -7089,9 +7122,9 @@ Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
 Alpha Move: Spukball
 Level Up Moves:
-- [-02] Feuerschlag {10}
-- [-02] Eishieb {10}
-- [-02] Donnerschlag {10}
+- [RELEARN] Feuerschlag {10}
+- [RELEARN] Eishieb {10}
+- [RELEARN] Donnerschlag {10}
 - [01] Konfusion {10}
 - [01] Kraftschub {10}
 - [09] Scanner {12}
@@ -7150,11 +7183,12 @@ Type: Kampf / Psycho
 EXP Group: MediumFast
 Egg Group: HumanLike
 Height: 01.30m, Weight: 031.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Spukball
 Level Up Moves:
-- [-02] Feuerschlag {10}
-- [-02] Eishieb {10}
-- [-02] Donnerschlag {10}
+- [RELEARN] Feuerschlag {10}
+- [RELEARN] Eishieb {10}
+- [RELEARN] Donnerschlag {10}
 - [01] Konfusion {10}
 - [01] Kraftschub {10}
 - [09] Scanner {12}
@@ -7323,6 +7357,7 @@ Type: Elektro
 EXP Group: Slow
 Egg Group: Field
 Height: 01.80m, Weight: 044.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Eiszahn
 Level Up Moves:
 - [01] Tackle {10}
@@ -7382,7 +7417,7 @@ Egg Group: Fairy / Grass
 Height: 00.30m, Weight: 002.0kg, Color: Green
 Alpha Move: Spukball
 Level Up Moves:
-- [00] Giftstachel {10}
+- [EVO] Giftstachel {10}
 - [01] Absorber {10}
 - [01] Wachstum {10}
 - [01] Stachelspore {10}
@@ -7481,7 +7516,7 @@ Egg Group: Water2
 Height: 01.80m, Weight: 088.8kg, Color: Blue
 Alpha Move: Zen-Kopfstoß
 Level Up Moves:
-- [00] Schlitzer {33}
+- [EVO] Schlitzer {33}
 - [01] Silberblick {10}
 - [01] Nachthieb {10}
 - [01] Wasserdüse {10}
@@ -7536,9 +7571,10 @@ Type: Wasser / Unlicht
 EXP Group: Slow
 Egg Group: Water2
 Height: 02.50m, Weight: 130.3kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Zen-Kopfstoß
 Level Up Moves:
-- [00] Schlitzer {33}
+- [EVO] Schlitzer {33}
 - [01] Silberblick {10}
 - [01] Nachthieb {10}
 - [01] Wasserdüse {10}
@@ -7652,7 +7688,7 @@ Egg Group: Field
 Height: 01.90m, Weight: 220.0kg, Color: Red
 Alpha Move: Steinkante
 Level Up Moves:
-- [00] Steinhagel {36}
+- [EVO] Steinhagel {36}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [05] Glut {8}
@@ -7710,9 +7746,10 @@ Type: Feuer / Boden
 EXP Group: MediumFast
 Egg Group: Field
 Height: 02.50m, Weight: 320.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Steinkante
 Level Up Moves:
-- [00] Steinhagel {36}
+- [EVO] Steinhagel {36}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [05] Glut {8}
@@ -7821,7 +7858,7 @@ Egg Group: Flying / Dragon
 Height: 01.10m, Weight: 020.6kg, Color: Blue
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Drachenpuls {38}
+- [EVO] Drachenpuls {38}
 - [01] Heuler {10}
 - [01] Pikser {10}
 - [04] Säuselstimme {7}
@@ -7878,9 +7915,10 @@ Type: Drache / Fee
 EXP Group: Erratic
 Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 020.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Drachenpuls {38}
+- [EVO] Drachenpuls {38}
 - [01] Heuler {10}
 - [01] Pikser {10}
 - [04] Säuselstimme {7}
@@ -8044,6 +8082,7 @@ Type: Geist
 EXP Group: Fast
 Egg Group: Amorphous
 Height: 01.20m, Weight: 013.0kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
 - [01] Kreideschrei {10}
@@ -8163,6 +8202,7 @@ Type: Unlicht
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.20m, Weight: 049.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Zen-Kopfstoß
 Level Up Moves:
 - [01] Silberblick {10}
@@ -8274,7 +8314,7 @@ Egg Group: Fairy / Mineral
 Height: 01.50m, Weight: 256.5kg, Color: Gray
 Alpha Move: Spukball
 Level Up Moves:
-- [00] Gefriertrockner {45}
+- [EVO] Gefriertrockner {45}
 - [01] Kopfnuss {10}
 - [01] Silberblick {10}
 - [01] Biss {10}
@@ -8323,9 +8363,10 @@ Type: Eis
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.10m, Weight: 350.2kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Spukball
 Level Up Moves:
-- [00] Gefriertrockner {45}
+- [EVO] Gefriertrockner {45}
 - [01] Kopfnuss {10}
 - [01] Silberblick {10}
 - [01] Biss {10}
@@ -8431,7 +8472,7 @@ Egg Group: Dragon
 Height: 01.10m, Weight: 110.5kg, Color: White
 Alpha Move: Dunkelklaue
 Level Up Moves:
-- [00] Schutzschild {33}
+- [EVO] Schutzschild {33}
 - [01] Silberblick {10}
 - [01] Biss {10}
 - [01] Glut {10}
@@ -8487,7 +8528,7 @@ Egg Group: Dragon
 Height: 01.50m, Weight: 102.6kg, Color: Blue
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Fliegen {53}
+- [EVO] Fliegen {53}
 - [01] Silberblick {10}
 - [01] Biss {10}
 - [01] Glut {10}
@@ -8550,9 +8591,10 @@ Type: Drache / Flug
 EXP Group: Slow
 Egg Group: Dragon
 Height: 01.80m, Weight: 112.6kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Fliegen {53}
+- [EVO] Fliegen {53}
 - [01] Silberblick {10}
 - [01] Biss {10}
 - [01] Glut {10}
@@ -8640,8 +8682,8 @@ Egg Group: Mineral
 Height: 01.20m, Weight: 202.5kg, Color: Blue
 Alpha Move: Eishieb
 Level Up Moves:
-- [00] Konfusion {23}
-- [00] Metallklaue {23}
+- [EVO] Konfusion {23}
+- [EVO] Metallklaue {23}
 - [01] Tackle {10}
 - [01] Patronenhieb {10}
 - [06] Zen-Kopfstoß {9}
@@ -8697,8 +8739,8 @@ Egg Group: Mineral
 Height: 01.60m, Weight: 550.0kg, Color: Blue
 Alpha Move: Steigerungshieb
 Level Up Moves:
-- [-02] Explosion {10}
-- [-02] Rammboss {10}
+- [RELEARN] Explosion {10}
+- [RELEARN] Rammboss {10}
 - [01] Tackle {10}
 - [01] Konfusion {10}
 - [01] Metallklaue {10}
@@ -8757,10 +8799,11 @@ Type: Stahl / Psycho
 EXP Group: Slow
 Egg Group: Mineral
 Height: 02.50m, Weight: 942.9kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Steigerungshieb
 Level Up Moves:
-- [-02] Explosion {10}
-- [-02] Rammboss {10}
+- [RELEARN] Explosion {10}
+- [RELEARN] Rammboss {10}
 - [01] Tackle {10}
 - [01] Konfusion {10}
 - [01] Metallklaue {10}
@@ -8856,7 +8899,7 @@ Egg Group: Fairy / Grass
 Height: 00.90m, Weight: 014.5kg, Color: Green
 Alpha Move: Zauberschein
 Level Up Moves:
-- [-02] Giftstachel {10}
+- [RELEARN] Giftstachel {10}
 - [01] Absorber {10}
 - [01] Wachstum {10}
 - [01] Stachelspore {10}
@@ -9015,6 +9058,7 @@ Type: Normal / Kampf
 EXP Group: MediumFast
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 028.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Nahkampf
 Level Up Moves:
 - [01] Tackle {10}
@@ -9184,7 +9228,7 @@ Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
 Alpha Move: Gifthieb
 Level Up Moves:
-- [00] Knirscher {51}
+- [EVO] Knirscher {51}
 - [01] Tackle {10}
 - [01] Sandgrab {10}
 - [12] Feuerodem {15}
@@ -9243,9 +9287,10 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Monster / Dragon
 Height: 01.90m, Weight: 095.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Gifthieb
 Level Up Moves:
-- [00] Knirscher {51}
+- [EVO] Knirscher {51}
 - [01] Tackle {10}
 - [01] Sandgrab {10}
 - [12] Feuerodem {15}
@@ -9358,7 +9403,7 @@ Egg Group: Field / HumanLike
 Height: 01.20m, Weight: 054.0kg, Color: Blue
 Alpha Move: Eishieb
 Level Up Moves:
-- [-02] Scanner {10}
+- [RELEARN] Scanner {10}
 - [01] Ruckzuckhieb {10}
 - [01] Schutzschild {10}
 - [01] Ausdauer {10}
@@ -9428,9 +9473,10 @@ Type: Kampf / Stahl
 EXP Group: MediumSlow
 Egg Group: Field / HumanLike
 Height: 01.30m, Weight: 057.5kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Eishieb
 Level Up Moves:
-- [-02] Scanner {10}
+- [RELEARN] Scanner {10}
 - [01] Ruckzuckhieb {10}
 - [01] Schutzschild {10}
 - [01] Ausdauer {10}
@@ -9641,7 +9687,7 @@ Egg Group: Monster / Grass
 Height: 02.20m, Weight: 135.5kg, Color: White
 Alpha Move: Erdkräfte
 Level Up Moves:
-- [00] Eishieb {43}
+- [EVO] Eishieb {43}
 - [01] Silberblick {10}
 - [01] Blattwerk {10}
 - [10] Weißnebel {13}
@@ -9692,9 +9738,10 @@ Type: Pflanze / Eis
 EXP Group: Slow
 Egg Group: Monster / Grass
 Height: 02.70m, Weight: 185.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Erdkräfte
 Level Up Moves:
-- [00] Eishieb {43}
+- [EVO] Eishieb {43}
 - [01] Silberblick {10}
 - [01] Blattwerk {10}
 - [10] Weißnebel {13}
@@ -9747,12 +9794,12 @@ Egg Group: Field
 Height: 01.00m, Weight: 025.5kg, Color: Green
 Alpha Move: Aero-Ass
 Level Up Moves:
-- [00] Rasierblatt {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [EVO] Rasierblatt {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -9804,12 +9851,12 @@ Egg Group: Field
 Height: 00.80m, Weight: 025.9kg, Color: Blue
 Alpha Move: Spukball
 Level Up Moves:
-- [00] Eissturm {10}
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [EVO] Eissturm {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -9857,16 +9904,16 @@ Egg Group: HumanLike / Amorphous
 Height: 01.60m, Weight: 052.0kg, Color: White
 Alpha Move: Steinkante
 Level Up Moves:
-- [00] Schlitzer {10}
-- [-02] Psychokinese {10}
-- [-02] Konfusstrahl {10}
-- [-02] Charme {10}
-- [-02] Seher {10}
-- [-02] Zauberblatt {10}
-- [-02] Gedankengut {10}
-- [-02] Nachthieb {10}
-- [-02] Diebeskuss {10}
-- [-02] Magieflamme {10}
+- [EVO] Schlitzer {10}
+- [RELEARN] Psychokinese {10}
+- [RELEARN] Konfusstrahl {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Seher {10}
+- [RELEARN] Zauberblatt {10}
+- [RELEARN] Gedankengut {10}
+- [RELEARN] Nachthieb {10}
+- [RELEARN] Diebeskuss {10}
+- [RELEARN] Magieflamme {10}
 - [01] Heuler {10}
 - [01] Psystrahl {10}
 - [01] Hypnose {10}
@@ -9936,18 +9983,19 @@ Type: Psycho / Kampf
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 01.60m, Weight: 056.4kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Steinkante
 Level Up Moves:
-- [00] Schlitzer {10}
-- [-02] Psychokinese {10}
-- [-02] Konfusstrahl {10}
-- [-02] Charme {10}
-- [-02] Seher {10}
-- [-02] Zauberblatt {10}
-- [-02] Gedankengut {10}
-- [-02] Nachthieb {10}
-- [-02] Diebeskuss {10}
-- [-02] Magieflamme {10}
+- [EVO] Schlitzer {10}
+- [RELEARN] Psychokinese {10}
+- [RELEARN] Konfusstrahl {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Seher {10}
+- [RELEARN] Zauberblatt {10}
+- [RELEARN] Gedankengut {10}
+- [RELEARN] Nachthieb {10}
+- [RELEARN] Diebeskuss {10}
+- [RELEARN] Magieflamme {10}
 - [01] Heuler {10}
 - [01] Psystrahl {10}
 - [01] Hypnose {10}
@@ -10019,11 +10067,11 @@ Egg Group: Fairy / Mineral
 Height: 01.30m, Weight: 026.6kg, Color: White
 Alpha Move: Donnerblitz
 Level Up Moves:
-- [00] Diebeskuss {10}
-- [-02] Schutzschild {10}
-- [-02] Knirscher {10}
-- [-02] Eiszahn {10}
-- [-02] Eiszapfhagel {10}
+- [EVO] Diebeskuss {10}
+- [RELEARN] Schutzschild {10}
+- [RELEARN] Knirscher {10}
+- [RELEARN] Eiszahn {10}
+- [RELEARN] Eiszapfhagel {10}
 - [01] Kopfnuss {10}
 - [01] Silberblick {10}
 - [01] Biss {10}
@@ -10081,13 +10129,14 @@ Type: Eis / Geist
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 02.60m, Weight: 029.6kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Donnerblitz
 Level Up Moves:
-- [00] Diebeskuss {10}
-- [-02] Schutzschild {10}
-- [-02] Knirscher {10}
-- [-02] Eiszahn {10}
-- [-02] Eiszapfhagel {10}
+- [EVO] Diebeskuss {10}
+- [RELEARN] Schutzschild {10}
+- [RELEARN] Knirscher {10}
+- [RELEARN] Eiszahn {10}
+- [RELEARN] Eiszapfhagel {10}
 - [01] Kopfnuss {10}
 - [01] Silberblick {10}
 - [01] Biss {10}
@@ -10193,7 +10242,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 055.5kg, Color: Red
 Alpha Move: Steinkante
 Level Up Moves:
-- [00] Steigerungshieb {20}
+- [EVO] Steigerungshieb {20}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [06] Glut {9}
@@ -10254,8 +10303,8 @@ Egg Group: Field
 Height: 01.60m, Weight: 150.0kg, Color: Red
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Brandstempel {39}
-- [-02] Steigerungshieb {20}
+- [EVO] Brandstempel {39}
+- [RELEARN] Steigerungshieb {20}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [06] Glut {9}
@@ -10321,10 +10370,11 @@ Type: Feuer / Kampf
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.80m, Weight: 180.3kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Brandstempel {39}
-- [-02] Steigerungshieb {20}
+- [EVO] Brandstempel {39}
+- [RELEARN] Steigerungshieb {20}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [06] Glut {9}
@@ -10435,7 +10485,7 @@ Egg Group: Field
 Height: 01.10m, Weight: 027.0kg, Color: Brown
 Alpha Move: Mülltreffer
 Level Up Moves:
-- [00] Konfusstrahl {23}
+- [EVO] Konfusstrahl {23}
 - [01] Tackle {10}
 - [03] Silberblick {6}
 - [06] Biss {9}
@@ -10883,7 +10933,7 @@ Egg Group: Field
 Height: 00.70m, Weight: 040.4kg, Color: Gray
 Alpha Move: Fokusstoß
 Level Up Moves:
-- [-02] Metallsound {10}
+- [RELEARN] Metallsound {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Lehmschuss {10}
@@ -10937,9 +10987,10 @@ Type: Boden / Stahl
 EXP Group: MediumFast
 Egg Group: Field
 Height: 00.90m, Weight: 060.0kg, Color: Gray
+Classifications: Mega Evolution
 Alpha Move: Fokusstoß
 Level Up Moves:
-- [-02] Metallsound {10}
+- [RELEARN] Metallsound {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Lehmschuss {10}
@@ -11055,6 +11106,7 @@ Type: Normal / Fee
 EXP Group: Fast
 Egg Group: Fairy
 Height: 01.50m, Weight: 032.0kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
 - [01] Tackle {10}
@@ -11256,6 +11308,7 @@ Type: Käfer / Gift
 EXP Group: MediumSlow
 Egg Group: Bug
 Height: 03.20m, Weight: 230.5kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
 - [01] Giftstachel {10}
@@ -11419,7 +11472,7 @@ Egg Group: Field
 Height: 01.50m, Weight: 096.3kg, Color: Red
 Alpha Move: Steinkante
 Level Up Moves:
-- [00] Breitseite {10}
+- [EVO] Breitseite {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [09] Sandgrab {12}
@@ -11606,6 +11659,7 @@ Type: Unlicht / Kampf
 EXP Group: MediumFast
 Egg Group: Field / Dragon
 Height: 01.10m, Weight: 031.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Gifthieb
 Level Up Moves:
 - [01] Tackle {10}
@@ -11968,7 +12022,7 @@ Egg Group: Amorphous
 Height: 01.20m, Weight: 022.0kg, Color: Blue
 Alpha Move: Kehrtwende
 Level Up Moves:
-- [00] Knirscher {42}
+- [EVO] Knirscher {42}
 - [01] Kopfnuss {10}
 - [01] Tackle {10}
 - [01] Donnerwelle {10}
@@ -12077,6 +12131,7 @@ Type: Elektro
 EXP Group: Slow
 Egg Group: Amorphous
 Height: 03.00m, Weight: 180.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Kaskade
 Level Up Moves:
 - [01] Kopfnuss {10}
@@ -12293,6 +12348,7 @@ Type: Geist / Feuer
 EXP Group: MediumSlow
 Egg Group: Amorphous
 Height: 02.50m, Weight: 069.6kg, Color: Black
+Classifications: Mega Evolution
 Alpha Move: Energieball
 Level Up Moves:
 - [01] Glut {10}
@@ -12557,7 +12613,7 @@ Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Schutzstacheln {39}
+- [EVO] Schutzstacheln {39}
 - [01] Rankenhieb {10}
 - [01] Heuler {10}
 - [05] Wachstum {8}
@@ -12625,9 +12681,10 @@ Type: Pflanze / Kampf
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.60m, Weight: 090.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Erdbeben
 Level Up Moves:
-- [00] Schutzstacheln {39}
+- [EVO] Schutzstacheln {39}
 - [01] Rankenhieb {10}
 - [01] Heuler {10}
 - [05] Wachstum {8}
@@ -12791,9 +12848,9 @@ Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Magieflamme {39}
-- [-02] Spukball {10}
-- [-02] Seher {10}
+- [EVO] Magieflamme {39}
+- [RELEARN] Spukball {10}
+- [RELEARN] Seher {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [05] Glut {8}
@@ -12853,11 +12910,12 @@ Type: Feuer / Psycho
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 039.0kg, Color: Red
+Classifications: Mega Evolution
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Magieflamme {39}
-- [-02] Spukball {10}
-- [-02] Seher {10}
+- [EVO] Magieflamme {39}
+- [RELEARN] Spukball {10}
+- [RELEARN] Seher {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [05] Glut {8}
@@ -13031,7 +13089,7 @@ Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Wasser-Shuriken {39}
+- [EVO] Wasser-Shuriken {39}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [05] Aquaknarre {8}
@@ -13095,7 +13153,7 @@ Egg Group: Undiscovered
 Height: 01.50m, Weight: 040.0kg, Color: Blue
 Alpha Move: Mülltreffer
 Level Up Moves:
-- [00] Wasser-Shuriken {39}
+- [EVO] Wasser-Shuriken {39}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [05] Aquaknarre {8}
@@ -13157,9 +13215,10 @@ Type: Wasser / Unlicht
 EXP Group: MediumSlow
 Egg Group: Water1
 Height: 01.50m, Weight: 040.0kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Blizzard
 Level Up Moves:
-- [00] Wasser-Shuriken {39}
+- [EVO] Wasser-Shuriken {39}
 - [01] Tackle {10}
 - [01] Heuler {10}
 - [05] Aquaknarre {8}
@@ -13273,7 +13332,7 @@ Egg Group: Field
 Height: 01.00m, Weight: 042.4kg, Color: Brown
 Alpha Move: Mülltreffer
 Level Up Moves:
-- [00] Dampfwalze {23}
+- [EVO] Dampfwalze {23}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [07] Lehmschuss {10}
@@ -13374,7 +13433,7 @@ Egg Group: Flying
 Height: 00.70m, Weight: 016.0kg, Color: Red
 Alpha Move: Kehrtwende
 Level Up Moves:
-- [00] Flügelschlag {20}
+- [EVO] Flügelschlag {20}
 - [01] Heuler {10}
 - [01] Pikser {10}
 - [08] Ruckzuckhieb {11}
@@ -13423,7 +13482,7 @@ Egg Group: Flying
 Height: 01.20m, Weight: 024.5kg, Color: Red
 Alpha Move: Gigastoß
 Level Up Moves:
-- [00] Sturzflug {38}
+- [EVO] Sturzflug {38}
 - [01] Flügelschlag {10}
 - [01] Heuler {10}
 - [01] Pikser {10}
@@ -13896,7 +13955,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -13922,7 +13981,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -13948,7 +14007,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -13974,7 +14033,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14000,7 +14059,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14026,7 +14085,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14052,7 +14111,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14078,7 +14137,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14104,7 +14163,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14130,7 +14189,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14156,7 +14215,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14182,7 +14241,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {10}
+- [EVO] Schutzschild {10}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14208,7 +14267,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14234,7 +14293,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14260,7 +14319,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14286,7 +14345,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14312,7 +14371,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14338,7 +14397,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14364,7 +14423,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14390,7 +14449,7 @@ Egg Group: Bug
 Height: 00.30m, Weight: 008.4kg, Color: Black
 Alpha Move: Eisenabwehr
 Level Up Moves:
-- [00] Schutzschild {12}
+- [EVO] Schutzschild {12}
 - [01] Tackle {10}
 - [01] Giftpuder {10}
 - [01] Fadenschuss {10}
@@ -14416,11 +14475,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: White
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14468,11 +14527,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14520,11 +14579,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14572,11 +14631,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Yellow
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14624,11 +14683,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14676,11 +14735,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Purple
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14728,11 +14787,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14780,11 +14839,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14832,11 +14891,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Blue
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14884,11 +14943,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14936,11 +14995,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -14988,11 +15047,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15040,11 +15099,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Brown
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15092,11 +15151,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Gray
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15144,11 +15203,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15196,11 +15255,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15248,11 +15307,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15300,11 +15359,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Green
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15352,11 +15411,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Pink
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15404,11 +15463,11 @@ Egg Group: Bug
 Height: 01.20m, Weight: 017.0kg, Color: Red
 Alpha Move: Zauberschein
 Level Up Moves:
-- [00] Windstoß {15}
-- [-02] Tackle {10}
-- [-02] Fadenschuss {10}
-- [-02] Härtner {10}
-- [-02] Schutzschild {10}
+- [EVO] Windstoß {15}
+- [RELEARN] Tackle {10}
+- [RELEARN] Fadenschuss {10}
+- [RELEARN] Härtner {10}
+- [RELEARN] Schutzschild {10}
 - [01] Giftpuder {10}
 - [01] Stachelspore {10}
 - [01] Schlafpuder {10}
@@ -15511,8 +15570,8 @@ Egg Group: Field
 Height: 01.50m, Weight: 081.5kg, Color: Brown
 Alpha Move: Stromstoß
 Level Up Moves:
-- [00] Hitzekoller {38}
-- [-02] Hyperstrahl {10}
+- [EVO] Hitzekoller {38}
+- [RELEARN] Hyperstrahl {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Glut {10}
@@ -15568,10 +15627,11 @@ Type: Feuer / Normal
 EXP Group: MediumSlow
 Egg Group: Field
 Height: 01.50m, Weight: 093.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Stromstoß
 Level Up Moves:
-- [00] Hitzekoller {38}
-- [-02] Hyperstrahl {10}
+- [EVO] Hitzekoller {38}
+- [RELEARN] Hyperstrahl {10}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Glut {10}
@@ -15839,7 +15899,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigasauger
 Level Up Moves:
-- [00] Mondgewalt {22}
+- [EVO] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -15883,7 +15943,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigasauger
 Level Up Moves:
-- [00] Mondgewalt {22}
+- [EVO] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -15927,7 +15987,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigasauger
 Level Up Moves:
-- [00] Mondgewalt {22}
+- [EVO] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -15971,7 +16031,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigasauger
 Level Up Moves:
-- [00] Mondgewalt {22}
+- [EVO] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16015,7 +16075,7 @@ Egg Group: Fairy
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Gigasauger
 Level Up Moves:
-- [00] Mondgewalt {22}
+- [EVO] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16059,7 +16119,7 @@ Egg Group: Undiscovered
 Height: 00.20m, Weight: 000.9kg, Color: White
 Alpha Move: Schutzschild
 Level Up Moves:
-- [-02] Mondgewalt {22}
+- [RELEARN] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16102,9 +16162,10 @@ Type: Fee
 EXP Group: MediumFast
 Egg Group: Fairy
 Height: 00.20m, Weight: 100.8kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Schutzschild
 Level Up Moves:
-- [-02] Mondgewalt {22}
+- [RELEARN] Mondgewalt {22}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16149,7 +16210,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychokinese
 Level Up Moves:
-- [-02] Säuselstimme {10}
+- [RELEARN] Säuselstimme {10}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16194,7 +16255,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychokinese
 Level Up Moves:
-- [-02] Säuselstimme {10}
+- [RELEARN] Säuselstimme {10}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16239,7 +16300,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychokinese
 Level Up Moves:
-- [-02] Säuselstimme {10}
+- [RELEARN] Säuselstimme {10}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16284,7 +16345,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychokinese
 Level Up Moves:
-- [-02] Säuselstimme {10}
+- [RELEARN] Säuselstimme {10}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16329,7 +16390,7 @@ Egg Group: Fairy
 Height: 01.10m, Weight: 010.0kg, Color: White
 Alpha Move: Psychokinese
 Level Up Moves:
-- [-02] Säuselstimme {10}
+- [RELEARN] Säuselstimme {10}
 - [01] Rankenhieb {10}
 - [01] Tackle {10}
 - [01] Feenbrise {10}
@@ -16426,7 +16487,7 @@ Egg Group: Field
 Height: 01.70m, Weight: 091.0kg, Color: Brown
 Alpha Move: Knuddler
 Level Up Moves:
-- [00] Aero-Ass {35}
+- [EVO] Aero-Ass {35}
 - [01] Tackle {10}
 - [01] Wachstum {10}
 - [07] Rankenhieb {10}
@@ -16532,7 +16593,7 @@ Egg Group: Field / HumanLike
 Height: 02.10m, Weight: 136.0kg, Color: White
 Alpha Move: Gifthieb
 Level Up Moves:
-- [00] Nachthieb {35}
+- [EVO] Nachthieb {35}
 - [01] Tackle {10}
 - [01] Silberblick {10}
 - [01] Verhöhner {10}
@@ -17380,7 +17441,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Nahkampf
 Level Up Moves:
-- [00] Königsschild {10}
+- [EVO] Königsschild {10}
 - [01] Tackle {10}
 - [01] Kreideschrei {10}
 - [04] Schattenstoß {7}
@@ -17428,7 +17489,7 @@ Egg Group: Mineral
 Height: 01.70m, Weight: 053.0kg, Color: Brown
 Alpha Move: Nahkampf
 Level Up Moves:
-- [00] Königsschild {10}
+- [EVO] Königsschild {10}
 - [01] Tackle {10}
 - [01] Kreideschrei {10}
 - [04] Schattenstoß {7}
@@ -17759,6 +17820,7 @@ Type: Unlicht / Psycho
 EXP Group: MediumFast
 Egg Group: Water1 / Water2
 Height: 02.90m, Weight: 069.8kg, Color: Blue
+Classifications: Mega Evolution
 Alpha Move: Gifthieb
 Level Up Moves:
 - [01] Tackle {10}
@@ -17934,6 +17996,7 @@ Type: Gestein / Kampf
 EXP Group: MediumFast
 Egg Group: Water3
 Height: 02.20m, Weight: 100.0kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Steigerungshieb
 Level Up Moves:
 - [01] Aquaknarre {10}
@@ -18103,6 +18166,7 @@ Type: Gift / Drache
 EXP Group: MediumFast
 Egg Group: Water1 / Dragon
 Height: 02.10m, Weight: 100.3kg, Color: Brown
+Classifications: Mega Evolution
 Alpha Move: Surfer
 Level Up Moves:
 - [01] Tackle {10}
@@ -18601,11 +18665,11 @@ Egg Group: Field
 Height: 01.00m, Weight: 023.5kg, Color: Pink
 Alpha Move: Psychokinese
 Level Up Moves:
-- [-02] Bodycheck {10}
-- [-02] Risikotackle {10}
-- [-02] Sternschauer {10}
-- [-02] Charme {10}
-- [-02] Wunschtraum {10}
+- [RELEARN] Bodycheck {10}
+- [RELEARN] Risikotackle {10}
+- [RELEARN] Sternschauer {10}
+- [RELEARN] Charme {10}
+- [RELEARN] Wunschtraum {10}
 - [01] Tackle {10}
 - [01] Rutenschlag {10}
 - [01] Biss {10}
@@ -18709,6 +18773,7 @@ Type: Kampf / Flug
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
 Height: 01.00m, Weight: 025.0kg, Color: Green
+Classifications: Mega Evolution
 Alpha Move: Gifthieb
 Level Up Moves:
 - [01] Tackle {10}
@@ -18962,7 +19027,7 @@ Egg Group: Dragon
 Height: 00.70m, Weight: 068.5kg, Color: Purple
 Alpha Move: Eisstrahl
 Level Up Moves:
-- [00] Eisenabwehr {43}
+- [EVO] Eisenabwehr {43}
 - [01] Tackle {10}
 - [01] Absorber {10}
 - [01] Säurepanzer {10}
@@ -19078,7 +19143,7 @@ Egg Group: Dragon
 Height: 01.70m, Weight: 334.1kg, Color: Purple
 Alpha Move: Blizzard
 Level Up Moves:
-- [-02] Breitseite {10}
+- [RELEARN] Breitseite {10}
 - [01] Tackle {10}
 - [01] Absorber {10}
 - [01] Säurepanzer {10}
@@ -19916,7 +19981,7 @@ Egg Group: Flying / Dragon
 Height: 01.50m, Weight: 085.0kg, Color: Purple
 Alpha Move: Hitzewelle
 Level Up Moves:
-- [00] Drachenpuls {10}
+- [EVO] Drachenpuls {10}
 - [01] Tackle {10}
 - [01] Absorber {10}
 - [01] Mondschein {10}
@@ -19978,6 +20043,7 @@ Type: Fee
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 03.00m, Weight: 215.0kg, Color: Blue
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Tackle {10}
@@ -20030,6 +20096,7 @@ Type: Unlicht / Flug
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.80m, Weight: 203.0kg, Color: Red
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Windstoß {10}
@@ -20082,6 +20149,7 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Biss {10}
@@ -20139,6 +20207,7 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Biss {10}
@@ -20196,6 +20265,7 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.20m, Weight: 033.5kg, Color: Black
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Biss {10}
@@ -20253,6 +20323,7 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 05.00m, Weight: 305.0kg, Color: Green
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Biss {10}
@@ -20310,6 +20381,7 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 04.50m, Weight: 610.0kg, Color: Black
+Classifications: Legendary
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Biss {10}
@@ -20367,6 +20439,7 @@ Type: Drache / Boden
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 07.70m, Weight: 610.0kg, Color: Green
+Classifications: Legendary / Mega Evolution
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Biss {10}
@@ -20424,6 +20497,7 @@ Type: Gestein / Fee
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.70m, Weight: 008.8kg, Color: Pink
+Classifications: Mythical
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Tackle {10}
@@ -20478,6 +20552,7 @@ Type: Gestein / Fee
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.10m, Weight: 027.8kg, Color: Pink
+Classifications: Mythical / Mega Evolution
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Tackle {10}
@@ -20532,6 +20607,7 @@ Type: Psycho / Geist
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 00.50m, Weight: 009.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Konfusion {10}
@@ -20587,6 +20663,7 @@ Type: Psycho / Unlicht
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 06.50m, Weight: 490.0kg, Color: Purple
+Classifications: Mythical
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Konfusion {10}
@@ -20642,6 +20719,7 @@ Type: Feuer / Wasser
 EXP Group: Slow
 Egg Group: Undiscovered
 Height: 01.70m, Weight: 195.0kg, Color: Brown
+Classifications: Mythical
 Alpha Move: Schutzschild
 Level Up Moves:
 - [01] Aquaknarre {10}
@@ -20777,6 +20855,7 @@ Type: Normal / Drache
 EXP Group: MediumFast
 Egg Group: Monster / Dragon
 Height: 03.00m, Weight: 240.5kg, Color: White
+Classifications: Mega Evolution
 Alpha Move: Feuersturm
 Level Up Moves:
 - [01] Silberblick {10}
@@ -20897,6 +20976,7 @@ Type: Kampf
 EXP Group: MediumFast
 Egg Group: Fairy / Mineral
 Height: 01.60m, Weight: 099.0kg, Color: Yellow
+Classifications: Mega Evolution
 Alpha Move: Gifthieb
 Level Up Moves:
 - [01] Tackle {10}
