@@ -105,3 +105,56 @@ TM104	Boutefeu
 TM105	Blizzard
 TM106	Fatal-Foudre
 TM107	Close Combat
+TM108	Poing Comète
+TM109	Façade
+TM110	Douche Froide
+TM111	Berceuse
+TM112	Bombe Acide
+TM113	Balayette
+TM114	Nitrocharge
+TM115	Désherbaffe
+TM116	Jackpot
+TM117	Vent Argenté
+TM118	Poing Ombre
+TM119	Vent Mauvais
+TM120	Pouvoir Antique
+TM121	Tourmente
+TM122	Faux-Chage
+TM123	Crochet Venin
+TM124	Psycho-Croc
+TM125	Copie
+TM126	Bombe Aimant
+TM127	Dévorêve
+TM128	Canon Graine
+TM129	Projection
+TM130	Rayon Chargé
+TM131	Vampi-Poing
+TM132	Coup Double
+TM133	Pied Brûleur
+TM134	Double Volée
+TM135	Double Baffe
+TM136	Sable Ardent
+TM137	Yama Arashi
+TM138	Souffle Glacé
+TM139	Vantardise
+TM140	Ocroupi
+TM141	Bluff
+TM142	Escarmouche
+TM143	Rafale Écailles
+TM144	Triple Axel
+TM145	Coupe-Vent
+TM146	Coud’Krâne
+TM147	Triplattaque
+TM148	Ébullition
+TM149	Stalactite
+TM150	Onde Vide
+TM151	Danse Fleurs
+TM152	Lame Solaire
+TM153	Piqué
+TM154	Abîme
+TM155	Glaciation
+TM156	Laser Météore
+TM157	Métalaser
+TM158	Rafale Feu
+TM159	Hydroblast
+TM160	Végé-Attaque

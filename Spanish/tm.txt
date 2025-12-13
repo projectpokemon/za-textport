@@ -105,3 +105,56 @@ TM104	Envite Ígneo
 TM105	Ventisca
 TM106	Trueno
 TM107	A Bocajarro
+TM108	Puño Cometa
+TM109	Fachada
+TM110	Agua Fría
+TM111	Canto
+TM112	Bomba Ácida
+TM113	Puntapié
+TM114	Nitrocarga
+TM115	Abrecaminos
+TM116	Día de Pago
+TM117	Viento Plata
+TM118	Puño Sombra
+TM119	Viento Aciago
+TM120	Poder Pasado
+TM121	Tormento
+TM122	Falso Tortazo
+TM123	Colmillo Veneno
+TM124	Psicocolmillo
+TM125	Mimético
+TM126	Bomba Imán
+TM127	Comesueños
+TM128	Bomba Germen
+TM129	Llave Giro
+TM130	Rayo Carga
+TM131	Puño Drenaje
+TM132	Doble Golpe
+TM133	Patada Ígnea
+TM134	Ala Bis
+TM135	Golpe Bis
+TM136	Arenas Ardientes
+TM137	Llave Corsé
+TM138	Vaho Gélido
+TM139	Fanfarronear
+TM140	Agua Lodosa
+TM141	Sorpresa
+TM142	Escaramuza
+TM143	Ráfaga Escamas
+TM144	Triple Axel
+TM145	Viento Cortante
+TM146	Cabezazo
+TM147	Triataque
+TM148	Escaldar
+TM149	Carámbano
+TM150	Onda Vacío
+TM151	Danza Pétalo
+TM152	Cuchilla Solar
+TM153	Ataque Aéreo
+TM154	Fisura
+TM155	Frío Polar
+TM156	Rayo Meteórico
+TM157	Metaláser
+TM158	Anillo Ígneo
+TM159	Hidrocañón
+TM160	Planta Feroz

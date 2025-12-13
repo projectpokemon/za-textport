@@ -105,3 +105,56 @@ TM104	Fuococarica
 TM105	Bora
 TM106	Tuono
 TM107	Zuffa
+TM108	Cometapugno
+TM109	Facciata
+TM110	Doccia Fredda
+TM111	Canto
+TM112	Acidobomba
+TM113	Calciobasso
+TM114	Nitrocarica
+TM115	Apripista
+TM116	Giornopaga
+TM117	Ventargenteo
+TM118	Pugnodombra
+TM119	Funestovento
+TM120	Forzantica
+TM121	Attaccalite
+TM122	Falsofinale
+TM123	Velenodenti
+TM124	Psicozanna
+TM125	Mimica
+TM126	Bombagnete
+TM127	Mangiasogni
+TM128	Semebomba
+TM129	Ribaltiro
+TM130	Raggioscossa
+TM131	Assorbipugno
+TM132	Doppiosmash
+TM133	Calciardente
+TM134	Doppia Ala
+TM135	Doppiocolpo
+TM136	Sabbiardente
+TM137	Tempestretta
+TM138	Alitogelido
+TM139	Bullo
+TM140	Fanghiglia
+TM141	Bruciapelo
+TM142	Schermaglia
+TM143	Squamacolpo
+TM144	Triplo Axel
+TM145	Ventagliente
+TM146	Capocciata
+TM147	Tripletta
+TM148	Idrovampata
+TM149	Gelolancia
+TM150	Vuotonda
+TM151	Petalodanza
+TM152	Lama Solare
+TM153	Aeroattacco
+TM154	Abisso
+TM155	Purogelo
+TM156	Raggiometeora
+TM157	Raggio d’Acciaio
+TM158	Incendio
+TM159	Idrocannone
+TM160	Radicalbero

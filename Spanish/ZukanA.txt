@@ -37,10 +37,10 @@ La luz de luna que guarda en las alas del lomo\nparece darle la habilidad de flo
 Este Pokémon de aspecto feérico, raramente\nvisto por los humanos, corre a esconderse en\ncuanto detecta que hay alguien cerca.
 [~ 37]
 [~ 38]
-
-
-
-
+Si alguien fija la mirada sobre sus redondos y\nadorables ojos, comienza a entonar una dulce\nnana con la que es imposible no dormirse.
+Su pelaje es tan suave que, si dos de ellos se\nacurrucan juntos, no querrán separarse nunca.
+Duerme en cuevas durante el día. Como no tiene\nojos, se guía emitiendo ultrasonidos cuando\nvuela.
+Por muy dura que sea la piel de su víctima,\nclava sus afilados colmillos para atiborrarse\nde su sangre.
 [~ 43]
 [~ 44]
 [~ 45]
@@ -50,12 +50,12 @@ Este Pokémon de aspecto feérico, raramente\nvisto por los humanos, corre a esc
 [~ 49]
 [~ 50]
 [~ 51]
-
-
+Le encanta todo lo que brilla. Adora en especial\nlas monedas, que recoge y guarda en un lugar\nsecreto.
+Muy valorado por su aire sofisticado.\nSin embargo, ataca y araña por el más\nmínimo motivo.
 [~ 54]
 [~ 55]
-
-
+Siempre está enfadado. Si encuentra una presa\nadecuada, forma un grupo y atacan juntos.
+Si alguien se le acerca mientras duerme,\nse levantará y le dará caza en estado medio\nsonámbulo.
 [~ 58]
 [~ 59]
 [~ 60]
@@ -81,7 +81,7 @@ Descansa ocioso junto al agua. Aunque le\nmuerdan la cola, no se percata en todo
 Al Shellder que le muerde la cola le gusta tanto\nel sabor de la sustancia que secreta por ella que\nse resiste a desprenderse.
 [~ 81]
 [~ 82]
-
+El puerro que lleva es su mejor arma.\nSuele usarlo como espada para cortar cosas.
 [~ 84]
 [~ 85]
 [~ 86]
@@ -102,8 +102,8 @@ Suele vivir bajo tierra. Va buscando comida a\nmedida que se abre camino a 80 k
 [~ 101]
 [~ 102]
 [~ 103]
-
-
+Nada más nacer perdió a su madre. Lleva puesto\nsu cráneo y nunca muestra el rostro.
+Lleva un hueso que consiguió en un lugar\ndesconocido. Dicen que existe un cementerio\nde Marowak en algún sitio.
 [~ 106]
 [~ 107]
 [~ 108]
@@ -120,7 +120,7 @@ Lleva a su cría en el marsupio. Solo deja que\nsalga a jugar cuando no advierte
 [~ 119]
 Puede regenerarse aunque le desgarren\nel cuerpo, siempre que su núcleo luminoso\nsiga intacto.
 El núcleo rojo que tiene en el centro del cuerpo\nemite extrañas señales de radio hacia el cielo\nnocturno.
-
+Crea muros invisibles solidificando el aire con un\nmisterioso poder que le emana de los dedos.
 Destroza a su presa con las guadañas que tiene.\nNo es común que use las alas para volar.
 [~ 124]
 [~ 125]
@@ -135,7 +135,7 @@ Su irregular estructura genética alberga el secreto\nde la capacidad que posee 
 Ha evolucionado para adaptarse a la vida acuática.\nSe mimetiza a la perfección con el agua.
 Acumula iones negativos de la atmósfera para\nlanzar rayos de 10 000 V de potencia.
 Almacena llamas en el interior del cuerpo.\nTras inhalar profundamente, las lanza a una\ntemperatura de 1700 ºC.
-
+Pokémon creado de forma artificial tras muchas\ninvestigaciones. Sus habilidades son básicas.
 [~ 138]
 [~ 139]
 [~ 140]
@@ -167,12 +167,12 @@ Suele moverse con lentitud, pero alcanza\nvelocidades de vértigo al atacar y mo
 [~ 166]
 Teje su telaraña con hilo fino pero resistente y\nespera pacientemente a que su presa caiga en\nella.
 Como segrega hilo por el abdomen y por la boca,\nes muy difícil saber dónde está cada cual.
-
+Sus colmillos son tan afilados que su mordedura\nresulta indolora y puede chupar la sangre a sus\npresas en la oscuridad sin que se percaten.
 [~ 170]
 [~ 171]
 Todavía no domina el almacenamiento de\nelectricidad, por lo que descarga rayos si\nse divierte o se asusta.
 Los lugareños rumorean que suele encontrarse\nen lugares donde han caído estrellas fugaces.
-
+Practica constantemente para mejorar su canto,\nllegando incluso a cantar en sueños.
 [~ 175]
 [~ 176]
 [~ 177]
@@ -209,7 +209,7 @@ Su intelecto e intuición son increíbles. No pierde\nla compostura en ninguna s
 Con su potente mandíbula, se abre paso entre\nlas rocas a mordisco limpio. Sus ojos le permiten\nver en la oscuridad del subsuelo.
 [~ 209]
 [~ 210]
-
+Para arrojar sus púas tóxicas, infla el cuerpo\nbebiendo hasta 10 l de agua de una sola vez.
 Su cuerpo está hecho de acero. Los dibujos con\nforma de ojo de las pinzas le sirven para intimidar\na sus enemigos.
 [~ 213]
 Este fuerte Pokémon encaja su preciado cuerno\nbajo la tripa del enemigo, lo eleva y luego lo\narroja.
@@ -231,7 +231,7 @@ Las llamas que exhala cuando se enfada\ncontienen toxinas. Si causan una quemadu
 [~ 230]
 [~ 231]
 [~ 232]
-
+Esta versión actualizada de Porygon fue dotada\nde la tecnología puntera del momento con vistas\na participar en misiones de desarrollo planetario.
 [~ 234]
 [~ 235]
 [~ 236]
@@ -250,15 +250,15 @@ Cuando se enfada, altera el paisaje derribando\nmontañas y enterrando ríos. Da
 [~ 249]
 [~ 250]
 [~ 251]
-
-
-
-
-
-
-
-
-
+Escala con rapidez incluso superficies verticales.\nPercibe la humedad con las colas y así prevé el\ntiempo que hará al día siguiente.
+Los desarrollados músculos de sus extremidades\ninferiores le proporcionan una tremenda agilidad\ny una portentosa capacidad de salto.
+Las hojas que tiene en los brazos son tan afiladas\nque pueden cortar gruesos árboles. Es invencible\ncuando combate en la selva.
+Resulta caliente al abrazarlo debido a la llama\nque arde en su interior. Lanza bolas de fuego a\n1000 ºC.
+Su gran habilidad le permite propinar diez\npatadas por segundo. Profiere potentes gritos\npara intimidar.
+Puede saltar edificios de 30 plantas. Reduce a\ncenizas a sus rivales con sus puñetazos de fuego.
+La aleta de la cabeza le permite analizar las\ncorrientes de agua para informarse sobre su\nentorno. Su fuerza le permite levantar rocas.
+Sus patas robustas impiden que pierda el\nequilibrio y se caiga, incluso en el barro.\nDuerme enterrado en el lodo.
+Su gran fuerza le permite nadar arrastrando un\nbarco de gran tamaño. Con sus gruesos brazos\npuede abatir a sus rivales de un simple golpe.
 [~ 261]
 [~ 262]
 [~ 263]
@@ -314,8 +314,8 @@ Descarga electricidad desde la melena. Para\natacar, crea nubarrones sobre su ca
 [~ 313]
 [~ 314]
 Ataca con sus manos, cada una de las cuales\ncontiene un tipo de veneno diferente. Cuanto\nmás intenso es su aroma, mejor salud tiene.
-
-
+Casi todo su cuerpo es estómago. Sus potentes\njugos gástricos disuelven al instante cualquier\ncosa que ingiere.
+Se traga cualquier cosa de una pieza.\nSegrega un fluido tóxico por los poros\nque daña al enemigo.
 Habita caudalosos ríos que atraviesan las junglas.\nCuando alguna presa se aventura en su territorio,\nacuden en grupo a atacarla.
 Nada a velocidades de 120 km/h expulsando agua\nmarina por la parte trasera a modo de propulsión.\nSe lo conoce como el Terror de los Mares.
 [~ 320]
@@ -323,8 +323,8 @@ Nada a velocidades de 120 km/h expulsando agua\nmarina por la parte trasera a m
 Almacena en su cuerpo magma a 1200 ºC.\nSu joroba mengua cuando utiliza movimientos\nde tipo Fuego.
 Los volcanes de su lomo entran en erupción\ncada diez años o cuando se enfada mucho.
 [~ 324]
-
-
+Bota continuamente usando su cola como muelle.\nLas vibraciones de los saltos hacen que le lata el\ncorazón.
+Usa perlas negras para potenciar sus poderes\npsíquicos. Controla las mentes de sus rivales\ncon un extraño baile.
 [~ 327]
 [~ 328]
 [~ 329]
@@ -333,8 +333,8 @@ Los volcanes de su lomo entran en erupción\ncada diez años o cuando se enfada 
 [~ 332]
 Se desconoce el porqué, pero le encanta posarse\nsobre la cabeza de los humanos y fingir que es un\ngorro.
 Vuela pausadamente por el cielo azul.\nSu hermoso trino cautiva a todo aquel\nque lo escucha.
-
-
+Se le eriza todo el pelaje con solo oler un Seviper.\nCon sus afiladas zarpas puede rajar a sus\nenemigos.
+Hace frente a la agilidad de Zangoose con su\nafilada cola, que está cargada con un veneno\nletal.
 [~ 337]
 [~ 338]
 [~ 339]
@@ -347,16 +347,16 @@ Vuela pausadamente por el cielo azul.\nSu hermoso trino cautiva a todo aquel\nqu
 [~ 346]
 [~ 347]
 [~ 348]
-
-
+Se caracteriza por tener un aspecto descuidado.\nSu numerosa población se halla distribuida y\nconcentrada en lugares muy concretos.
+Vive en lo más profundo de los grandes\nlagos. Se dice que su gran belleza purifica\nel corazón de todos aquellos que lo contemplen.
 [~ 351]
-
+Acecha a sus presas adaptando sus colores\na los del paisaje, pero el dibujo de su panza\nnunca cambia.
 Dicen que con su cuerno se alimenta de\nsentimientos de celos y envidia. Es muy activo\na medianoche.
 Este muñeco se convirtió en un Pokémon debido\nal gran rencor que sintió cuando lo tiraron a la\nbasura. Busca al niño que se deshizo de él.
 [~ 355]
 [~ 356]
 [~ 357]
-
+Sus gritos sacuden el aire para que sus rivales\nsalgan volando. Se comunican entre sí entonando\nsiete tipos de gritos diferentes.
 Presiente desastres inminentes y se dice que solo\nse aparece ante la gente para advertir del peligro.
 [~ 360]
 En las zonas nevadas, las leyendas dicen que\nlos Snorunt traen la prosperidad a las familias\nen cuyo hogar se instalan.
@@ -378,11 +378,11 @@ Está formado por varios\nMetang. Con cuatro cerebros, tiene\nla inteligencia de
 [~ 377]
 [~ 378]
 [~ 379]
-
-
-
-
-
+Se comunica por telepatía. Puede cubrirse el\ncuerpo de un plumón que refracta la luz y que\nle permite volverse invisible.
+Es muy inteligente y entiende el lenguaje\nhumano. Es un Pokémon muy pacífico y no\nle gusta nada combatir.
+Pokémon legendario que aumentó los mares con\ndiluvios y maremotos. Fue un enemigo acérrimo\nde Groudon.
+Dicen que aumentó la superficie terrestre\nevaporando el agua. Fue un enemigo acérrimo\nde Kyogre.
+Vive en la capa de ozono, mucho más allá de las\nnubes, por lo que no es posible avistarlo desde el\nsuelo.
 [~ 385]
 [~ 386]
 [~ 387]
@@ -394,9 +394,9 @@ Está formado por varios\nMetang. Con cuatro cerebros, tiene\nla inteligencia de
 [~ 393]
 [~ 394]
 [~ 395]
-
-
-
+Viaja en grandes bandadas. Aunque es pequeño,\nagita las alas con gran fuerza.
+Vive en bosques y campos. Si dos bandadas se\nencuentran, pelean por el territorio.
+Tiene los músculos de las alas y las patas muy\ndesarrollados. Puede llevarse volando Pokémon\npequeños con suma facilidad.
 [~ 399]
 [~ 400]
 [~ 401]
@@ -431,13 +431,13 @@ Sus orejas son muy delicadas. Si alguien las toca\ncon brusquedad, recibirá una
 [~ 430]
 [~ 431]
 [~ 432]
-
+Emite chillidos al hacer vibrar la esfera de su\ngarganta. Se desplaza mediante saltos ligeros.
 [~ 434]
 [~ 435]
 [~ 436]
 [~ 437]
 [~ 438]
-
+Es un gran imitador. Cuando logra sorprender a\nsu adversario, la alegría le embarga de tal forma\nque se olvida de continuar su actuación.
 [~ 440]
 [~ 441]
 [~ 442]
@@ -472,24 +472,24 @@ Al igual que una planta, hace la fotosíntesis.\nComo consecuencia, siempre est�
 Controla su temperatura corporal para congelar\nel ambiente y causar ráfagas de nieve en polvo.
 [~ 472]
 [~ 473]
-
+La actualización de software que recibió para\nviajar a otras dimensiones ha causado cambios\nextraños y llamativos en su comportamiento.
 Lucha con las espadas extensibles que le salen\nde los codos. Es un maestro de la cortesía y la\nesgrima.
 [~ 476]
 [~ 477]
 Congela a sus enemigos con un aliento gélido\na −50 ºC. La parte del cuerpo que parece su torso\nestá hueca.
-
+Su cuerpo está hecho de plasma. Se lo conoce\npor su capacidad para infiltrarse en dispositivos\nelectrónicos y cometer fechorías.
 [~ 480]
 [~ 481]
 [~ 482]
 [~ 483]
 [~ 484]
-
+Su sangre fluye ardiendo como si fuera magma.\nVive en cráteres de volcanes.
 [~ 486]
 [~ 487]
 [~ 488]
 [~ 489]
 [~ 490]
-
+Puede sumir a la gente en un sueño profundo y\nhacerlos soñar. Está activo en las noches de luna\nnueva.
 [~ 492]
 [~ 493]
 [~ 494]
@@ -507,16 +507,16 @@ Los componentes luminiscentes de su interior\nhacen que le brillen los ojos y la
 [~ 506]
 [~ 507]
 [~ 508]
-
-
+Hurta a los humanos por mera diversión, pero\nlas víctimas lo perdonan al ver a este Pokémon\ntan encantador.
+Va y viene a placer. Su elegante estilo y hermoso\npelaje cautivan a muchos Entrenadores.
 Comparte las hojas de su cabeza con Pokémon\nagotados, pues poseen la facultad de aliviar el\ncansancio.
 Pokémon muy temperamental que lucha con su\ncola revestida de púas. Las hojas de su cabeza\nestán muy amargas.
 Pokémon muy inteligente que tiene la costumbre\nde tostar las bayas antes de comérselas. Ayuda\nmucho a los humanos.
 Cuando se emociona, echa chispas por la cola y\nla cabeza, y calienta su cuerpo. Por alguna razón\nle encantan los dulces.
 El agua acumulada en su mata de pelo es rica\nen nutrientes. Usa la cola para regar plantas con\nesa misma agua.
 Le encantan los lugares con agua limpia. Cuando\ndesciende el nivel de agua de su pelo, se abastece\na través de su cola.
-
-
+Se alimenta de los sueños de humanos y\nPokémon. Si los sueños son felices, despide\nhumo rosa.
+Con el humo que despide por la frente, puede\nrecrear la forma de las cosas que ha visto en los\nsueños que engulle.
 [~ 519]
 [~ 520]
 [~ 521]
@@ -536,8 +536,8 @@ Al tocar a alguien con las antenas de sus orejas,\nconoce su estado de ánimo y 
 [~ 535]
 [~ 536]
 [~ 537]
-
-
+Entrenan en grupos de cinco individuos.\nSi alguno es incapaz de seguir el ritmo,\narroja el cinturón y abandona la cuadrilla.
+La potencia de sus puñetazos aumenta si se\naprieta el cinturón. Si lo molestan cuando se\nentrena, se enfada.
 [~ 540]
 [~ 541]
 [~ 542]
@@ -560,8 +560,8 @@ Jamás deja escapar a su presa. Sus potentes\nmandíbulas son capaces de destroz
 Se sube la piel hasta el cuello para defenderse.\nSu elasticidad, similar a la de la goma, reduce el\ndaño recibido.
 Se protege de los ataques con la muda de su piel\nmientras reparte patadas. Cuanto mayor es su\ncresta, más se lo respeta.
 [~ 561]
-
-
+Su máscara representa la cara que poseía cuando\nera humano. A veces se le saltan las lágrimas al\ncontemplarla.
+Atrapan en su interior a los ladrones de tumbas\nque los confunden con ataúdes de verdad.
 [~ 564]
 [~ 565]
 [~ 566]
@@ -588,8 +588,8 @@ Si sus dos cabezas se enfadan al mismo tiempo,\nexpulsa una ventisca por el cuer
 Almacena en una membrana la electricidad\ngenerada en las bolsas de las mejillas y planea\npor los aires soltando descargas.
 [~ 588]
 [~ 589]
-
-
+Gracias a su misterioso parecido a una Poké Ball,\natrae a sus presas y lanza rápidamente esporas\nvenenosas.
+Aunque intenta hacerse pasar por la parte\nsuperior de una Poké Ball para atraer a sus\npresas, consigue engañar a pocos.
 [~ 592]
 [~ 593]
 [~ 594]
@@ -613,15 +613,15 @@ Sus llamas absorben y abrasan el alma de quien\nenvuelvan, dejando solo su cuerp
 [~ 612]
 [~ 613]
 [~ 614]
-
+Usa cadenas de cristales de hielo para atrapar a\nsus presas y congelarlas a temperaturas de hasta\n−100 ºC.
 [~ 616]
 [~ 617]
 Acecha a sus presas oculto en la arena húmeda\nde la playa y las paraliza con una descarga\neléctrica cuando lo tocan.
 [~ 619]
 [~ 620]
 [~ 621]
-
-
+Se dice que fue creado antiguamente a partir\nde arcilla para usarlo como sirviente, pero se\ndesconoce cuál es su fuente de energía.
+Se dice que su cuerpo alberga un móvil perpetuo\nque genera energía, pero no se ha constatado la\nveracidad de tamaña afirmación.
 [~ 624]
 [~ 625]
 [~ 626]
@@ -636,18 +636,18 @@ Acecha a sus presas oculto en la arena húmeda\nde la playa y las paraliza con u
 [~ 635]
 [~ 636]
 [~ 637]
-
-
-
+Posee un cuerpo y un corazón de acero.\nBasta una mirada suya para que Pokémon\nviolentos le obedezcan.
+Su potencia al embestir es capaz de derribar\nlas murallas de un castillo. Las leyendas\nhablan de sus proezas.
+Confunde a los enemigos con sus movimientos\nrelampagueantes y luego los rebana sin piedad\ncon sus afilados cuernos.
 [~ 641]
 [~ 642]
 [~ 643]
 [~ 644]
 [~ 645]
 [~ 646]
-
-
-
+Expulsa agua por las pezuñas para poder\ndeslizarse. Es especialista en atacar usando\nlas patas.
+Controla los sentimientos de quienes\nescuchan las melodías que emite con\nsu singular vocalización.
+Cierta organización devolvió a la vida a este\nPokémon insecto del Paleozoico y modificó\nel gran cañón de su lomo.
 Cuando acumula energía, las suaves púas de su\ncabeza se vuelven tan duras y afiladas que hasta\npueden atravesar rocas.
 Chocan contra sus congéneres para fortalecer\nlas piernas. Debido a su carácter afable, nunca\nson los que provocan un combate.
 Su fuerza es tal que, de un empellón, puede hacer\nvolcar un tanque de 50 toneladas. Protege a sus\naliados usando el cuerpo como escudo.
@@ -719,7 +719,7 @@ Cuando su vida se extingue, absorbe la vitalidad\nde todos los seres vivos y reg
 Vive en las profundidades de las cavernas, desde\ndonde se dice que vigila a todos aquellos que se\ndediquen a destruir el ecosistema.
 Es una transformación súbita de Carbink. Se dice\nque su cuerpo, que irradia destellos rosados, es\nlo más bonito de este mundo.
 Con sus anillos, envía a su guarida secreta\ncualquier objeto que le atraiga. También puede\nusarlos para teletransportarse a sí mismo.
-Expulsa vapor de agua por los brazos que tiene\nen la espalda. Sale a tal potencia que sería capaz\nde arrasar una montaña entera.
+Expulsa vapor de agua por los brazos que\ntiene en la espalda. Sale a tal potencia que\nsería capaz de arrasar una montaña entera.
 [~ 722]
 [~ 723]
 [~ 724]
@@ -737,8 +737,8 @@ Expulsa vapor de agua por los brazos que tiene\nen la espalda. Sale a tal potenc
 [~ 736]
 [~ 737]
 [~ 738]
-
-
+Usa hábilmente sus robustas pinzas tanto para\natacar como para defenderse. Las peleas entre\ncongéneres parecen combates de boxeo.
+No se lo piensa dos veces a la\nhora de zurrar. Se tiene constancia\nde que sus puñetazos frenéticos han\nllegado a detener aludes.
 [~ 741]
 [~ 742]
 [~ 743]
@@ -765,10 +765,10 @@ Expulsa vapor de agua por los brazos que tiene\nen la espalda. Sale a tal potenc
 [~ 764]
 [~ 765]
 [~ 766]
-
-
-
-
+Su hábitat es muy variado, desde playas hasta\nel fondo del mar. Hace de barrendero natural al\nir engullendo presas podridas por el camino.
+Gracias a su destreza y sus enormes y afiladas\ngarras, puede cortar hasta el aire y el agua de\nun solo tajo.
+Nace de un montículo de arena poseído por el\nresentimiento de un difunto. Siente mucho apego\npor la pala de su cabeza.
+Su castillo alberga abundantes huesos de todos\naquellos incautos a los que absorbió su vitalidad\npor completo antes de quedar sepultados.
 [~ 771]
 [~ 772]
 [~ 773]
@@ -776,7 +776,7 @@ Expulsa vapor de agua por los brazos que tiene\nen la espalda. Sale a tal potenc
 [~ 775]
 [~ 776]
 [~ 777]
-
+El saco andrajoso le permite ocultar su aspecto\naterrador para acercarse a otros Pokémon o a la\ngente y vencer así la soledad que lo atenaza.
 [~ 779]
 Es de naturaleza mansa y amable, pero, si se lo\nprovoca y monta en cólera, destruye todo lo que\nlo rodea con su aliento devastador.
 [~ 781]
@@ -799,15 +799,15 @@ Es de naturaleza mansa y amable, pero, si se lo\nprovoca y monta en cólera, des
 [~ 798]
 [~ 799]
 [~ 800]
-
-
+Pokémon artificial creado por científicos hace\nunos 500 años. Su verdadera esencia es una\npieza llamada Coránima.
+Se oculta en la sombra de su oponente y copia\nsus movimientos y su fuerza. Su imitación resulta\nmás poderosa que el original.
 [~ 803]
 [~ 804]
 [~ 805]
 [~ 806]
-
-
-
+Las almohadillas de sus patas desprenden\ndescargas eléctricas. Cuando corre, hace\nque caigan rayos y reverberen los truenos.
+Su cuerpo está compuesto de acero líquido.\nFunde las partículas de hierro y otros metales\ndel subsuelo para luego absorberlas.
+En la antigüedad se le veneraba por su poder\nde crear hierro. Después de tres milenios, ha\nregresado misteriosamente.
 [~ 810]
 [~ 811]
 [~ 812]
@@ -819,14 +819,14 @@ Es de naturaleza mansa y amable, pero, si se lo\nprovoca y monta en cólera, des
 [~ 818]
 [~ 819]
 [~ 820]
-
-
-
+De naturaleza valiente, planta cara a cualquier\nrival, por muy fuerte que sea. Los contraataques\nque recibe le sirven para fortalecerse.
+Su inteligencia le permite servirse de objetos.\nPor ejemplo, recoge y lanza piedras con las patas,\no utiliza cuerdas para atrapar a su oponente.
+El acero en el que se han convertido sus alas es\nde tal dureza que le permite surcar los cielos con\nbrío sin inmutarse ante los ataques que reciba.
 [~ 824]
 [~ 825]
 [~ 826]
-
-
+Tras robarle el alimento a personas u otros\nPokémon, borra con la cola las huellas que deja\nal huir para así despistar a quien lo persiga.
+Deja marcas de olor sobre su presa y es capaz\nde seguir el rastro con sagacidad hasta dar con\nsu madriguera.
 [~ 829]
 [~ 830]
 [~ 831]
@@ -846,12 +846,12 @@ Es de naturaleza mansa y amable, pero, si se lo\nprovoca y monta en cólera, des
 [~ 845]
 [~ 846]
 [~ 847]
-
-
+Provoca una reacción química para generar\nenergía eléctrica con sus toxinas. Aunque de\nbajo voltaje, puede causar entumecimiento.
+Cuando rasga las protuberancias del pecho para\ngenerar energía eléctrica, emite un sonido similar\nal de una guitarra, que reverbera en el entorno.
 [~ 850]
 [~ 851]
-
-
+Sus tentáculos de extremos hinchados son\nperfectos para golpear cosas, pero inútiles a\nla hora de agarrarlas.
+Utiliza sus portentosos tentáculos para sujetar\na sus rivales contra el suelo, impidiendo hasta\na los Pokémon de mayor fuerza liberarse y huir.
 [~ 854]
 [~ 855]
 [~ 856]
@@ -861,11 +861,11 @@ Es de naturaleza mansa y amable, pero, si se lo\nprovoca y monta en cólera, des
 [~ 860]
 [~ 861]
 [~ 862]
-
+Su inigualable fuerza en combate lo ha hecho\nprotagonista de innumerables sagas heroicas,\npero en su madriguera no hay más que basura.
 [~ 864]
-
-
-
+Su puerro, a cuyo cuidado dedica cuerpo y alma,\nes su razón de ser. Lo blande con maestría en\ncombate para cosechar grandes hazañas.
+Destaca por lo cómicos que resultan sus pasos\nde baile. Aprovecha mientras sus rivales se ríen\npara rociarlos con un aire gélido a −200 ºC.
+Al reunirse de nuevo todos los fragmentos de\nla tabla de arcilla, se han liberado todo el rencor\ny la inquina acumulados en su interior.
 [~ 868]
 [~ 869]
 Este Pokémon consta de cinco subalternos y\nun líder, cuyas órdenes obedecen sin rechistar.
@@ -874,8 +874,8 @@ Este Pokémon consta de cinco subalternos y\nun líder, cuyas órdenes obedecen 
 [~ 873]
 [~ 874]
 [~ 875]
-
-
+Con sus cuernos percibe las emociones de los\nseres vivos que se hallen cerca. Los sentimientos\npositivos constituyen su fuente de energía.
+Siempre tiene hambre. Se nutre de las semillas\nque guarda en una suerte de bolsillos para\ngenerar electricidad.
 [~ 878]
 [~ 879]
 [~ 880]
@@ -897,8 +897,8 @@ Este Pokémon consta de cinco subalternos y\nun líder, cuyas órdenes obedecen 
 [~ 896]
 [~ 897]
 [~ 898]
-
-
+En los combates más violentos se desprenden\nesquirlas de sus hachas de piedra, gracias a lo\ncual se van afilando cada vez más.
+Sus púas venenosas se han vuelto más gruesas,\nlargas y reforzadas. Atacan por sí solas a todo lo\nque se mueve.
 [~ 901]
 [~ 902]
 [~ 903]
@@ -917,22 +917,22 @@ Este Pokémon consta de cinco subalternos y\nun líder, cuyas órdenes obedecen 
 [~ 916]
 [~ 917]
 [~ 918]
-
-
+Le encanta juguetear. Al restregar su pelaje\ncontra alguien, le absorbe toda la energía vital\nhasta dejarlo completamente marchito.
+Tras pasar muchos años custodiando la tumba\nde su amo fallecido, acabó reencarnándose en\nun Pokémon fantasma.
 [~ 921]
 [~ 922]
 [~ 923]
 [~ 924]
 [~ 925]
-
+Es capaz de crear olas gigantescas al desbocarse\ngracias a su fuerza titánica y su enorme cuerpo,\npero es un pésimo cazador.
 [~ 927]
 [~ 928]
 [~ 929]
 [~ 930]
 [~ 931]
 [~ 932]
-
-
+Tiene un humor muy volátil, tal vez por efecto de\nlos capsaicinoides. Si algo o alguien no le cae en\ngracia, le propina un mordisco.
+La personalidad y la forma de combatir de cada\ncabeza son distintas, pero, a la hora de luchar,\nse compenetran a la perfección.
 [~ 935]
 [~ 936]
 [~ 937]
@@ -942,35 +942,35 @@ Este Pokémon consta de cinco subalternos y\nun líder, cuyas órdenes obedecen 
 [~ 941]
 [~ 942]
 [~ 943]
-
-
-
-
-
+Gracias a su placa dorsal, puede convertir el calor\nde los movimientos de tipo Fuego en energía de\ntipo Hielo y congelar el aire.
+Está armado con cuchillas en la placa dorsal\ny una máscara de hielo. Se lanza sobre sus\nenemigos con un ágil salto para lacerarlos.
+Exhala un aliento gélido capaz de solidificar hasta\nel magma. Con él congela a sus rivales para luego\npulverizarlos de un coletazo.
+Libra auténticas batallas contra sus congéneres\npor el control del Dondozo que habrá de ser\nsu compañero.
+Es capaz de correr largas distancias con una\npersona a cuestas gracias a la energía que\nacumula en el pliegue gular.
 [~ 949]
 [~ 950]
 [~ 951]
 [~ 952]
 [~ 953]
 [~ 954]
-
-
+Forman bandadas según el color de su plumaje.\nUn gen dominante hace que los ejemplares de\nplumas verdes sean los más numerosos.
+Las colonias más nutridas llegan a superar los\n10 000 ejemplares, que se mueven al unísono\nen una espectacular exhibición de sincronía.
 [~ 957]
-
-
-
-
-
-
-
-
-
-
-
+Deja pequeños trozos de sal al desplazarse,\nde ahí que comúnmente se conozca a ese\nrastro como "la ruta de la sal".
+Su mala memoria lo hace propenso a olvidar\nlas presas que ha sometido a salazón y, por\nsupuesto, también las órdenes de su Entrenador.
+La sal de roca extraída de los Garganacl tiene\naltas propiedades curativas, por lo que resulta\nun complemento útil para una vida saludable.
+Se adhiere al techo de las cuevas y se defiende\nde los adversarios golpeándolos con su brote\ncargado de sustancias tóxicas.
+Despliega sus grandes pétalos repletos de toxinas\ny repele a los rivales con la ayuda de los Glimmet.
+Se protege de los rivales con su saliva tóxica\ny sus largos incisivos, desproporcionados en\nrelación con su pequeño cuerpo.
+Marca su territorio pintando motivos en rocas y\nárboles con su saliva, cuyo color varía en función\nde su dieta.
+Cultiva levadura en el interior de su cuerpo.\nConvive con los humanos desde antaño y\nlos ayuda en la producción de alimentos.
+El fragante aroma que despide su cuerpo estimula\ncon fuerza el apetito de los rivales, minando así\nsu energía física y mental.
+Forma vínculos muy estrechos con su manada.\nPone cara de pocos amigos para intimidar a sus\nrivales y que lo tomen en serio.
+Posee un carácter manso a pesar de su aspecto,\npero, si alguien amenaza a su familia, lo persigue\nsin piedad hasta eliminar el peligro.
 [~ 969]
 [~ 970]
-
-
+Vive oculto en un cofre macizo, lo cual le otorga\nuna excelente defensa, pero también le entorpece\nel desplazamiento a causa del gran peso.
+Su afición por los lugares bulliciosos hace que\npuedan encontrarse ejemplares salvajes también\nen las ciudades.
 [~ 973]
 [~ 974]
 [~ 975]
@@ -993,17 +993,17 @@ Este Pokémon consta de cinco subalternos y\nun líder, cuyas órdenes obedecen 
 [~ 992]
 [~ 993]
 [~ 994]
-
-
-
-
-
-
+Elabora su martillo a medida combinando\nlos utensilios y fragmentos de metal que va\nencontrando por las minas.
+En ocasiones, visita lugares habitados en busca\nde metales y saquea fábricas y almacenes.
+Este Pokémon lidera grupos de Tinkatink y\nles enseña las técnicas necesarias para forjar\nel metal.
+Desde tiempos inmemoriales, los humanos\nhan apreciado mucho a este Pokémon por\nsu habilidad para manipular el fuego.
+Aunque ha jurado lealtad a su Entrenador,\nacostumbra a practicar en solitario para\nperfeccionar su dominio de la energía psíquica.
+Si detecta la menor hostilidad hacia el Entrenador\na quien ha jurado lealtad, no dudará en resolverla\na base de cuchilladas.
 [~ 1001]
 [~ 1002]
 [~ 1003]
 [~ 1004]
-
+Evolucionó tras usar repetidamente un\nmovimiento con fuerza suficiente como para\nreventarle los vasos sanguíneos de la cabeza.
 Sus patas y lomo se han fortalecido para\nsoportar el peso de la flor, que ha crecido\nconsiderablemente tras la megaevolución.
 [~ 1007]
 La extraordinaria energía que fluye por su cuerpo\nle ha ennegrecido la piel y provocado la aparición\nde intensas llamas azules.
@@ -1028,8 +1028,8 @@ Su potencia muscular ha aumentado tanto que es\ncapaz de mantener el vuelo sin d
 [~ 1027]
 [~ 1028]
 Controla la electricidad mediante telequinesis.\nPuede subirse a su propia cola y desplazarse\nflotando con sus poderes psíquicos.
-
-
+Vuela adoptando una postura en forma de X y\nsoltando descargas eléctricas de 50 000 000 V\npor las orejas y las dos colas.
+Emite descargas eléctricas por los pelos en zigzag\nque le crecen en las sienes tras haber trazado un\ncircuito en forma de Y desde la punta de la cola.
 [~ 1032]
 [~ 1033]
 Se desplaza flotando gracias al poder de la luz\nlunar, que le confiere el control de la gravedad\nen un radio de 10 m.
@@ -1037,10 +1037,10 @@ Se desplaza flotando gracias al poder de la luz\nlunar, que le confiere el contr
 [~ 1036]
 [~ 1037]
 [~ 1038]
-
-
+Su naturaleza caprichosa, egoísta y voluble lo\nhace popular entre los Entrenadores a los que\nles gusta cumplir los caprichos de sus Pokémon.
+La barba espesa y enmarañada es un vestigio de\ncuando habitaba en climas fríos. Usa sus garras\nde acero para luchar con arrojo y determinación.
 [~ 1041]
-
+La redondez de su cara es símbolo de fortuna.\nSe los considera más hermosos cuanto más\ngrande y rechoncho es su rostro.
 Sacrifica su musculatura a cambio de liberar su\nverdadero poder. Con sus habilidades psíquicas,\nno hay nada que se le escape.
 [~ 1044]
 Tras la megaevolución, el volumen de ácido\nha aumentado hasta llenarle la boca por\ncompleto. Si se descuida, le rebosa.
@@ -1052,19 +1052,19 @@ Tras la megaevolución, el volumen de ácido\nha aumentado hasta llenarle la boc
 Siempre está distraído, pero, de vez en cuando,\nmuestra un extraño rictus en el rostro, tal vez\ndebido a su alimentación.
 La energía de la megaevolución ha convertido a\nShellder en una armadura impenetrable. No hay\nningún cambio aparente en Slowpoke.
 La impresión del mordisco del Shellder provocó\nuna reacción química con las especias que había\ningerido, tras lo cual adquirió el tipo Veneno.
-
+Ha fortalecido el cuerpo a base de cargar con un\npuerro enorme y pesado. Al atacar, apuesta por\nasestar un solo golpe devastador.
 [~ 1055]
 [~ 1056]
 Puede pasar de una dimensión\na otra y aparecer donde quiera.\nUna vez causó gran revuelo al mostrar\ntan solo una pata a través de una pared.
 [~ 1058]
 [~ 1059]
 [~ 1060]
-
+Convierte el alma de su difunta madre en llamas.\nPara honrar y llorar a sus compañeros caídos,\nbaila sin descanso toda la noche.
 [~ 1062]
 [~ 1063]
 La energía de la megaevolución hace\ncrecer de golpe a la cría, que coordina\na la perfección sus movimientos con\nlos de su madre.
 Sus movimientos se han vuelto más humanos.\nSe desconoce si es para comunicarse con las\npersonas o si busca reemplazar a la humanidad.
-
+Su baile de claqué hace bajar la temperatura a\nsu alrededor rápidamente, lo que le permite crear\nuna magnífica pista de hielo.
 Gracias a la megaevolución, ahora puede volar.\nTal vez su alegría sea el motivo de que apenas\nse pose en tierra firme.
 [~ 1068]
 [~ 1069]
@@ -1114,16 +1114,16 @@ Debido al impacto de la evolución y las toxinas,\nel intelecto del Shellder ha 
 [~ 1113]
 [~ 1114]
 Controla mediante magnetismo las placas que se\nhan desprendido de su duro cuerpo y las usa para\nprotegerse de los ataques enemigos.
-
+Acumula veneno en el cuerpo a base de ingerir\nminerales tóxicos. Su picadura causa un dolor\ninsoportable durante tres días y tres noches.
 La megaevolución ha convertido sus pinzas en\ninstrumentos atroces, capaces de hacer trizas\ntodo lo que cae en ellas.
 Es capaz de encajar entre sus dos cuernos\nobjetos que superen su peso 500 veces y\nlevantarlos sin problema.
 [~ 1119]
 Vuela a velocidad supersónica. Las ondas de\nchoque que provoca alzan en volandas al rival,\nal que remata con las garras.
 La energía de la megaevolución hace que su\ncuerpo desprenda un calor ardiente. Reduce\na cenizas al oponente con su aliento de fuego.
 La megaevolución lo vuelve aún más violento que\nde costumbre. Es difícil saber si oye las órdenes\nde su Entrenador.
-
-
-
+Hace detonar las semillas del lomo, cargadas con\nla energía de la megaevolución, para disparar la\npunta de la cola cual proyectil.
+La sangre en ebullición que le recorre todo el\ncuerpo duplica la destreza de sus movimientos.\nSomete a sus rivales en un abrir y cerrar de ojos.
+Siguiendo los principios de una bomba hidráulica,\nse vale del agua de su cuerpo para fortalecer aún\nmás sus ya desarrollados músculos.
 [~ 1126]
 [~ 1127]
 Al desplegar las placas rojizas del pecho y abrir el\ncorazón, es capaz de desatar toda la potencia de\nsu poder psíquico.
@@ -1139,21 +1139,21 @@ Sus plumas, increíblemente suaves al tacto, son\ntan resistentes que solo unas 
 [~ 1138]
 [~ 1139]
 La megaevolución ha alimentado su odio\nhaciendo emerger por las cremalleras el poder\nmaléfico que antes estaba contenido.
-
+Agita el cuerpo para producir ondas sonoras con\nlas que atacar en todas direcciones. Quienes las\noyen se desorientan y no recuerdan quiénes son.
 El pelaje erizado de su dorso se asemeja a un par\nde alas que, al agitarse, emiten una potente aura\nque arrolla al rival.
-
+Despedaza a los enemigos con el pelaje del dorso,\ntan puntiagudo como una garra. Tiene la gentileza\nde hacerlo de un solo golpe para que no sufran.
 Por su boca desencajada exhala una ventisca\nhelada que cubre de blanco sus alrededores.
 Introduce las patas delanteras en la parte frontal\nde su coraza para surcar el aire a gran velocidad\nincluso en las zonas más difíciles.
 Este Pokémon es el\nresultado de la combinación\nentre un Metagross, un Metang\ny dos Beldum.
-
-
-
-
-
+Su habilidad para volar y su potencia de ataque\nse han visto incrementadas. Confunde a sus\nrivales desperdigando plumas transparentes.
+Su velocidad de vuelo supera los 4 mach. Es de\nlos Pokémon más duchos en combates aéreos.
+Experimentó una regresión a causa de la energía\nprimigenia que albergaba el Prisma Azul. Su\ncuerpo parece estar compuesto de agua marina.
+Ha recuperado su forma original gracias al Prisma\nRojo. Le rebosa energía del cuerpo en forma de\nmagma incandescente.
+En ocasiones, lo que parece una estrella fugaz\npor la noche podría tratarse de Mega-Rayquaza\nvolando tras un meteorito.
 [~ 1152]
 [~ 1153]
 [~ 1154]
-
+Su habilidad para volar es tan excepcional que es\ncapaz de desplazarse sin esfuerzo llevando en sus\ngarras un Steelix de más de 400 kg.
 [~ 1156]
 [~ 1157]
 [~ 1158]
@@ -1165,20 +1165,20 @@ Este Pokémon es el\nresultado de la combinación\nentre un Metagross, un Metang
 [~ 1164]
 Utiliza las orejas a modo de látigo para fustigar\nal enemigo. Posee un temperamento violento y\ncombativo.
 La megaevolución exacerba su agresividad.\nHace jirones al enemigo con sus extremidades\nen forma de guadañas.
-
+Tras esta nueva megaevolución, vuela a velocidad\nsupersónica y despedaza a los rivales con las\nominosas garras de sus alas.
 La energía de la megaevolución se funde con\nsu aura y recorre su cuerpo, lo que le deja unas\nprofundas marcas negras en la piel.
-
+El aura con la que envuelve todo su cuerpo le\npermite esquivar cualquier ataque mientras\ncombate como si estuviera ejecutando una danza.
 De los capullos de la espalda le\nhan brotado unos imponentes\ncarámbanos con los que genera\ntemibles ventiscas a −30 ºC.
 Obtiene su fuerza del vínculo con su Entrenador.\nAhora posee dos hojas con las que lacerar a sus\nenemigos y una capa que lo protege.
 Con su extraño aliento gélido, imbuido de energía\nfantasmal, puede congelar incluso elementos\ninmateriales como las llamas o el viento.
-
-
-
-
-
-
+Ha tomado posesión de un horno eléctrico que\nfunciona con un motor especial. Controla el fuego\ncon maña.
+Ha tomado posesión de una lavadora que\nfunciona con un motor especial. Intimida a\nsus oponentes con potentes chorros de agua.
+Ha tomado posesión de un frigorífico que\nfunciona con un motor especial. Se vale de\nsu aire gélido para combatir.
+Ha tomado posesión de un ventilador que\nfunciona con un motor especial. Lanza a sus\nrivales volando con fuertes ráfagas de aire.
+Ha tomado posesión de un cortacésped que\nfunciona con un motor especial. Esparce por\ntodos lados la hierba que ha cortado.
+Si se empeña, puede\nmantener a sus enemigos \nalejados haciendo que su cuerpo \nalcance temperaturas de 1 000 000 ºC.
 [~ 1179]
-
+Su poder oscuro cubre el sol y sume en tinieblas\ntodo a su alrededor. Nada ni nadie puede escapar\nde su ojo maligno.
 [~ 1181]
 [~ 1182]
 [~ 1183]
@@ -1208,7 +1208,7 @@ Su potente veneno, que desprende una luz tenue,\nle ha afectado a la mente y ha 
 [~ 1207]
 [~ 1208]
 La megaevolución ha conferido a su piel un\naspecto blancuzco y un tacto duro y elástico.\nComo siempre, le sobran ganas de pelear.
-
+Surge de la unión entre el alma de un difunto y\nuna tabla de arcilla maldita, que sacude sin cesar\nmovido por el rencor.
 [~ 1211]
 [~ 1212]
 [~ 1213]
@@ -1221,18 +1221,18 @@ La megaevolución ha conferido a su piel un\naspecto blancuzco y un tacto duro y
 Genera diez veces más electricidad que antes\nde megaevolucionar. Libera descargas a través\nde los Eelektrik falsos creados con su secreción.
 Uno de sus ojos sirve como ventana al más allá.\nAtrae hacia sí mismo los sentimientos de rencor\ny los transforma en poder.
 Al vivir en lodo rico en hierro, su cuerpo\nha alcanzado la dureza del acero.
-
+El poder de la megaevolución ha estimulado la\nenergía de su interior hasta tal punto que no sería\nraro que acabara explotando en algún momento.
 [~ 1224]
 [~ 1225]
 [~ 1226]
 [~ 1227]
 [~ 1228]
-
-
-
-
-
-
+Su magnífico cuerno es símbolo de su resolución.\nLos sentimientos de sus mentores se han\nmanifestado en forma de tres plumas coloridas.
+Tras recobrar el recuerdo de su melodía\nlargamente olvidada, cautiva a todo el mundo\ncon sus encantadores pasos de baile.
+Al serle equipado un cartucho cargado de energía\nacuática, Genesect adquiere un aspecto de líneas\naerodinámicas y la capacidad de volar.
+Al serle equipado un cartucho cargado de energía\neléctrica, Genesect adquiere este aspecto y la\ncapacidad de disparar proyectiles de energía.
+Al serle equipado un cartucho cargado de energía\npírica, Genesect adquiere este aspecto, del que\ndestacan unas afiladas garras metálicas.
+Al serle equipado un cartucho cargado de energía\ngélida, Genesect adopta este aspecto y su corazón\npierde todo indicio de clemencia.
 La convicción que lo insta a proteger a los\ndemás a toda costa es tan inquebrantable\ncomo su coraza reforzada.
 Hechiza a su oponente controlando unas ramas\nllameantes y lo calcina con una bola de fuego\ndescomunal.
 Comprime el agua y crea estrellas ninja con las\nque ataca al enemigo. Cuando las hace girar a\ngran velocidad, cortan en dos hasta el metal.
@@ -1320,7 +1320,7 @@ Antiguamente, este Pokémon desempeñaba\nel cometido de guardián del rey en la
 Antiguamente, este Pokémon desempeñaba\nel cometido de guardián del rey en la región de\nKalos.
 Antiguamente, este Pokémon desempeñaba\nel cometido de guardián del rey en la región de\nKalos.
 Son ligeramente más agresivas y egoístas que\nlos machos. Castigan sin piedad con sus poderes\npsíquicos a quienes las enojen.
-
+Puede expandir y comprimir cualquier cosa con\nsus poderes psíquicos, e incluso distorsionar el\nespacio para desconcertar al rival.
 Al adoptar esta forma, centra su estrategia en la\nofensiva, aprovechando todo el peso y la fuerza\ndel acero para destrozar al rival.
 Manipula la personalidad y los recuerdos del\nenemigo con destellos de colores llamativos y\nlo controla a su voluntad.
 Es capaz de doblegar a sus adversarios con sus\nnumerosos brazos, pero es una ardua tarea para\nel Barbaracle de la cabeza.
@@ -1345,7 +1345,7 @@ El lustroso diamante que tiene en\nla frente es de nada menos que\n2000 quilates
 Forma original que adopta tras recuperar su\npoder sellado. Se dice que el agujero que tiene\nen el pecho es un portal a otra dimensión.
 [~ 1345]
 [~ 1346]
-
+Sus pinzas, ahora recubiertas de una gruesa capa\nde hielo, son como puños capaces de pulverizar\nel hormigón armado de un solo y rápido golpe.
 [~ 1348]
 [~ 1349]
 [~ 1350]
@@ -1357,7 +1357,7 @@ Forma original que adopta tras recuperar su\npoder sellado. Se dice que el aguje
 [~ 1356]
 [~ 1357]
 [~ 1358]
-
+Arremete sin piedad con cuatro garras y,\ncuando tiene al rival contra las cuerdas,\npropina el golpe de gracia con otro par\nque permanecía oculto.
 [~ 1360]
 [~ 1361]
 [~ 1362]
@@ -1389,7 +1389,7 @@ Forma original que adopta tras recuperar su\npoder sellado. Se dice que el aguje
 [~ 1388]
 [~ 1389]
 [~ 1390]
-
+Le entristece que pueda descubrirse su identidad.\nJamás perdona a quienes rompen su disfraz y no\ndescansa hasta vengarse.
 [~ 1392]
 [~ 1393]
 Las células de su cuerpo se han regenerado,\npor lo que ha recuperado la juventud.\nEs capaz de manipular la atmósfera para\ninvocar tormentas.
@@ -1397,10 +1397,10 @@ Las células de su cuerpo se han regenerado,\npor lo que ha recuperado la juvent
 [~ 1396]
 [~ 1397]
 [~ 1398]
-
-
-
-
+Forma que tenía Magearna en el momento de su\ncreación. Sus magníficos ornamentos hicieron\nmuy feliz a la hija de un rey.
+Al adoptar esta forma, se activa un modo\nsupresor que anula sus sentimientos y le\npermite derrotar sin remisión a sus rivales.
+Con la Megapiedra como llave, se acciona un\nmecanismo implantado en secreto hace 500 años\ny cuya función es la de desactivar su limitador.
+Almacena en su cuerpo la energía eléctrica de\ndiez rayos. Cuando desata su poder, se encuentra\nentre los Pokémon de tipo Eléctrico más fuertes.
 [~ 1403]
 [~ 1404]
 [~ 1405]
@@ -1414,7 +1414,7 @@ Las células de su cuerpo se han regenerado,\npor lo que ha recuperado la juvent
 [~ 1413]
 [~ 1414]
 [~ 1415]
-
+Posee un órgano en el pecho que genera\nelectricidad. Al hacerlo, emite un sonido\nque recuerda al de un bajo eléctrico.
 [~ 1417]
 [~ 1418]
 [~ 1419]
@@ -1432,8 +1432,8 @@ Las células de su cuerpo se han regenerado,\npor lo que ha recuperado la juvent
 [~ 1431]
 Tan solo una unidad con un vínculo muy fuerte es\ncapaz de ejecutar esta formación suprema.
 [~ 1433]
-
-
+Este Pokémon muestra una inteligencia superior.\nSe comunica e intercambia información con sus\ncongéneres a través de los cuernos.
+El hambre lo ha vuelto agresivo y ha convertido\nla electricidad de las bolsas de sus mejillas en\nenergía de tipo Siniestro.
 [~ 1436]
 [~ 1437]
 [~ 1438]
@@ -1449,18 +1449,18 @@ Tan solo una unidad con un vínculo muy fuerte es\ncapaz de ejecutar esta formac
 [~ 1448]
 [~ 1449]
 [~ 1450]
-
+La megaevolución aumenta su nivel de picante.\nGolpea con fuerza al rival sacudiendo la parte de\nsu cuerpo que se asemeja a una corbata.
 [~ 1452]
-
-
-
-
-
-
-
-
-
-
-
+Tras la megaevolución, la hoja de su placa dorsal\nadquiere un tamaño descomunal. Dispara rayos\npor la empuñadura del plexo solar.
+Si algún enemigo lo engulle, hincha el saco\ngular para tratar de escapar.
+Su agudeza mental le permite evaluar la situación\nen combate rápidamente. Si concluye que no hay\nprobabilidad de victoria, huye a toda prisa.
+La megaevolución le estimula el cerebro y lo\nvuelve aún más astuto. Puede crear y controlar\nhábilmente copias de sí mismo.
+Solidifica la energía de la megaevolución y la\nlibera en forma de esferas que explosionan al\nmás mínimo contacto.
+Usa la energía de la megaevolución para crear un\ntransporte vagamente parecido a una bandeja con\nel que puede desplazarse libremente por el aire.
+Constituyen el segundo grupo más numeroso\ntras los ejemplares de plumaje verde, a los que\nconsideran rivales.
+La agresividad de los ejemplares de plumaje\namarillo responde a su negativa a ser sometidos\npor otros grupos más numerosos.
+Aunque los ejemplares de este color sean la\nminoría y no les guste combatir, en caso de\napuro se muestran valientes y audaces.
+La acrecentada corola externa se ha desprendido\ndel cuerpo y ahora lo protege rodeándolo a la vez\nque esparce fragmentos venenosos alrededor.
+Si percibe que algún humano o Pokémon puede\ndescubrirlo, se protege volviéndose invisible\ny dejando a la vista solo la moneda.
 [~ 1464]
 [~ 1465]

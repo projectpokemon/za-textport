@@ -205,7 +205,7 @@ Aguante
 Encanto
 Rodar
 Falso Tortazo
-Contoneo
+Fanfarronear
 Batido
 Chispa
 Corte Furia
@@ -261,7 +261,7 @@ Tormento
 Camelo
 Fuego Fatuo
 Legado
-Imagen
+Fachada
 Puño Certero
 Estímulo
 Señuelo

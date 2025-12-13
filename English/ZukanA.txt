@@ -37,10 +37,10 @@ The moonlight that it stores in the wings on its\nback apparently gives it the a
 A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.
 [~ 37]
 [~ 38]
-
-
-
-
+Looking into its cute, round eyes prompts it to\nstart singing a song so pleasant that listeners\ncan’t help but fall asleep.
+This Pokémon’s fur feels so nice that if two\nWigglytuff snuggle up against each other, they\ncan’t bring themselves to separate.
+It sleeps in caves during the day. It has no eyes,\nso it emits ultrasonic waves to check its\nsurroundings while flying.
+Golbat punctures even the hardest of hides with\nits sharp fangs, then gorges itself on its victims’\nblood.
 [~ 43]
 [~ 44]
 [~ 45]
@@ -50,12 +50,12 @@ A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it 
 [~ 49]
 [~ 50]
 [~ 51]
-
-
+It loves anything that shines. It especially adores\ncoins, which it will pick up and stash somewhere.
+Many admire Persian for the dignity it exudes\nfrom every inch of its body. However, it will lash\nout with its claws given the slightest provocation.
 [~ 54]
 [~ 55]
-
-
+Mankey are perpetually angry. If they spot\nsuitable prey, they will attack as a group.
+If approached while asleep, it may rouse just\nenough to fly into a groggy rage and give chase\nwithout even knowing what it’s doing.
 [~ 58]
 [~ 59]
 [~ 60]
@@ -81,7 +81,7 @@ It lazes vacantly near water. If something bites its\ntail, it won’t even noti
 An attached Shellder won’t let go because of the\ntasty flavor that oozes out of Slowbro’s tail.
 [~ 81]
 [~ 82]
-
+The plant stalk it holds is also its beloved weapon.\nFarfetch’d can swing the stalk like a katana to cut\nall sorts of things.
 [~ 84]
 [~ 85]
 [~ 86]
@@ -102,8 +102,8 @@ It usually lives underground. It searches for food\nwhile boring its way through
 [~ 101]
 [~ 102]
 [~ 103]
-
-
+This Pokémon lost its mother just after its birth.\nIt wears her skull, never revealing its true face.
+It carries a bone that it collected from someplace\nunknown. Rumor has it that somewhere in the\nworld, there is a graveyard only for Marowak.
 [~ 106]
 [~ 107]
 [~ 108]
@@ -120,7 +120,7 @@ It raises its offspring in its belly pouch. It lets its\nbaby out to play only w
 [~ 119]
 Even if its body is torn, it can regenerate as long\nas the glowing central core remains intact.
 At the center of its body is a red core that sends\nmysterious radio signals into the night sky.
-
+It uses the mysterious power that emanates from\nits fingers to solidify the air around it into\ninvisible walls.
 It tears and shreds prey with its wickedly sharp\nscythes. It very rarely spreads its wings to fly.
 [~ 124]
 [~ 125]
@@ -135,7 +135,7 @@ Thanks to its unstable genetic makeup, this\nspecial Pokémon conceals many diff
 It has evolved to be suited for an aquatic life. It\ncan become invisible when it melts away into\nwater.
 It absorbs negative ions from the atmosphere to\nspit out 10,000 volts of electricity.
 It has a flame sac inside its body. After inhaling\ndeeply, it blows out flames of nearly 3,000\ndegrees Fahrenheit.
-
+This is an artificial Pokémon created as a result of\nresearch. Its programming contains only the most\nbasic of actions.
 [~ 138]
 [~ 139]
 [~ 140]
@@ -167,12 +167,12 @@ It usually moves slowly, but it goes at blinding\nspeed when it attacks and bite
 [~ 166]
 It spins a web using fine yet durable thread. It\nthen waits patiently for prey to be trapped.
 It spins string not only from its rear but also from\nits mouth. It’s hard to tell which end is which.
-
+If it bites you in the dark and sucks your blood,\nyou won’t notice immediately—its fangs are so\nsharp that you won’t feel any pain.
 [~ 170]
 [~ 171]
 It is not yet skilled at storing electricity. It may\nsend out a jolt if amused or startled.
 According to local rumors, Cleffa are often seen in\nplaces where shooting stars have fallen.
-
+It’s always practicing its singing because it wants\nto improve. Even when it’s asleep, it keeps\nsinging in its dreams!
 [~ 175]
 [~ 176]
 [~ 177]
@@ -209,7 +209,7 @@ It has incredible intellect and intuition. Whatever\nthe situation, it remains c
 It chews its way through boulders with its sturdy\njaws. Its eyes can see in the darkness\nunderground.
 [~ 209]
 [~ 210]
-
+To fire off the poison spikes covering its body, it\ninflates itself by sucking in over 2.6 gallons of\nwater all at once.
 It has a steel-hard body. It intimidates foes by\nupraising its eye-patterned pincers.
 [~ 213]
 This powerful Pokémon thrusts its prized horn\nunder its enemies’ bellies, then lifts and throws\nthem.
@@ -231,7 +231,7 @@ The flames it breathes when angry contain toxins.\nIf they cause a burn, it will
 [~ 230]
 [~ 231]
 [~ 232]
-
+Porygon was updated so it could carry out\ndevelopment projects on other planets. The\nupdate used cutting-edge technology for its time.
 [~ 234]
 [~ 235]
 [~ 236]
@@ -250,15 +250,15 @@ If it rampages, it knocks down mountains and\nburies rivers. Maps must be redraw
 [~ 249]
 [~ 250]
 [~ 251]
-
-
-
-
-
-
-
-
-
+Treecko can quickly scale even vertical surfaces.\nIt senses humidity with its tails to predict the next\nday’s weather.
+Its highly developed thigh muscles provide\nexplosive bursts of power and incredible leaping\ncapabilities.
+The leaves that grow on its arms are sharp\nenough to fell thick trees by slicing clean through\nthem. It is without peer in jungle combat.
+Torchic feels very warm to hug because a fire\nburns within it. It launches fireballs of over 1,800\ndegrees Fahrenheit.
+Its kicking mastery lets it unleash 10 kicks per\nsecond. It emits sharp cries to intimidate foes.
+It can jump powerfully enough to clear a 30-story\nbuilding. It uses flaming punches to incinerate its\nopponents.
+Using the fin on its head, Mudkip senses the flow\nof water to keep track of what’s going on around\nit. It has the strength to heft boulders.
+Its sturdy legs and hips give it sure footing, even\non sludgy surfaces. It buries itself in mud to\nsleep.
+This Pokémon is so strong that it can tow a large\nship while it swims. It bashes down foes with a\nsingle swing of its thick arms.
 [~ 261]
 [~ 262]
 [~ 263]
@@ -314,8 +314,8 @@ It discharges electricity from its mane. The\nPokémon creates a thundercloud ov
 [~ 313]
 [~ 314]
 It uses the different poisons in each hand\nseparately when it attacks. The stronger its\naroma, the healthier it is.
-
-
+Its stomach makes up most of its body. Its\npowerful gastric juices quickly digest anything it\nswallows.
+It swallows anything whole. It douses foes with\nthe highly toxic fluid it secretes from its follicles.
 They live in massive rivers that course through\njungles. Swarms of these Pokémon attack any\nprey that wanders into their territory.
 It can swim at speeds of 75 mph by jetting\nseawater through its body. It is the bandit of the\nsea.
 [~ 320]
@@ -323,8 +323,8 @@ It can swim at speeds of 75 mph by jetting\nseawater through its body. It is the
 The magma in its body reaches 2,200 degrees\nFahrenheit. Its hump gets smaller when it uses\nFire-type moves.
 The volcanoes on its back have a major eruption\nevery 10 years—or whenever it becomes really\nangry.
 [~ 324]
-
-
+It bounces constantly, using its tail like a spring.\nThe vibrations from this bouncing make its heart\nbeat.
+This Pokémon uses its black pearls to amplify its\npsychic power. It can control the minds of its foes\nthrough its mysterious dancing.
 [~ 327]
 [~ 328]
 [~ 329]
@@ -333,8 +333,8 @@ The volcanoes on its back have a major eruption\nevery 10 years—or whenever it
 [~ 332]
 For some reason, it likes to land on people’s\nheads softly and act like it’s a hat.
 It flies gracefully through the sky. Its melodic\nhumming makes you feel like you’re in a dream.
-
-
+Every hair on its body stands up if it so much as\nsmells a Seviper. Its sharp claws tear foes apart.
+It battles speedy Zangoose using its keenly bladed\ntail, which oozes an extremely powerful poison.
 [~ 337]
 [~ 338]
 [~ 339]
@@ -347,16 +347,16 @@ It flies gracefully through the sky. Its melodic\nhumming makes you feel like yo
 [~ 346]
 [~ 347]
 [~ 348]
-
-
+They are famous for their shabby appearance.\nAlthough Feebas are plentiful in number, they\ntend to cluster in specific places.
+They dwell at the bottoms of big lakes.\nAnyone who beholds the loveliness of these\nPokémon is said to have their heart purified.
 [~ 351]
-
+It changes color to blend in with its surroundings\nin order to sneak up on prey. It can’t make its\nbelly pattern disappear, however.
 It uses its horn to feed on envy and malice—or so\nit’s said. It’s very active at night.
 A doll bore a grudge over being junked, and it\nbecame a Pokémon. It seeks the child that\ndisowned it.
 [~ 355]
 [~ 356]
 [~ 357]
-
+Chimecho create air vibrations with their cries to\nsend foes flying. They have seven different types\nof cries they use to converse with one another.
 It senses coming disasters and appears before\npeople only to warn them of impending danger.
 [~ 360]
 In some snowy lands, certain folklore says a\nhouse will prosper if a Snorunt lives there.
@@ -378,11 +378,11 @@ Metang combined to form it.\nWith four brains, it has the intelligence\nof a sup
 [~ 377]
 [~ 378]
 [~ 379]
-
-
-
-
-
+It communicates its feelings using telepathy. To\nmake itself invisible, it covers its body in down\nthat refracts light.
+It understands human speech and is highly\nintelligent. It is a tender Pokémon that dislikes\nfighting.
+In myths, this Pokémon expanded the seas with\ntorrential rains and great tsunamis. It battled\nferociously against Groudon.
+Groudon is said to have expanded the reach of\ndry land by evaporating water with raging heat.\nIt battled ferociously against Kyogre.
+Rayquaza cannot be seen from the ground\nbecause it lives in the ozone layer, far above the\nclouds.
 [~ 385]
 [~ 386]
 [~ 387]
@@ -394,9 +394,9 @@ Metang combined to form it.\nWith four brains, it has the intelligence\nof a sup
 [~ 393]
 [~ 394]
 [~ 395]
-
-
-
+They flock in great numbers. Though small, they\nflap their wings with great power.
+Their habitats include forests and fields. Territorial\nsquabbles occur whenever flocks happen to meet.
+The muscles in its wings and legs are strong. It\ncan easily fly while gripping a small Pokémon.
 [~ 399]
 [~ 400]
 [~ 401]
@@ -431,13 +431,13 @@ This Pokémon’s ears are apparently very delicate.\nThey must be handled gentl
 [~ 430]
 [~ 431]
 [~ 432]
-
+It emits cries by agitating an orb at the back of its\nthroat. It gently bounces along from place to\nplace.
 [~ 434]
 [~ 435]
 [~ 436]
 [~ 437]
 [~ 438]
-
+Mime Jr. is a gifted mimic. When it startles an\nopponent with its skills, it feels so delighted that\nit forgets to keep up its act.
 [~ 440]
 [~ 441]
 [~ 442]
@@ -472,24 +472,24 @@ Just like a plant, it uses photosynthesis. As a\nresult, it is always enveloped 
 By controlling its body heat, it can freeze the\natmosphere around it to make a diamond-dust\nflurry.
 [~ 472]
 [~ 473]
-
+Porygon-Z’s programming was updated so that\nthe Pokémon might operate in other dimensions.\nIts behavior has been strikingly odd ever since.
 A master of courtesy and swordsmanship, it\nfights using the extending swords on its elbows.
 [~ 476]
 [~ 477]
 It freezes foes with an icy breath that is nearly\n−60 degrees Fahrenheit. What seems to be its\nbody is actually hollow.
-
+Its body is composed of plasma. It is known to\ninfiltrate electronic devices and wreak havoc.
 [~ 480]
 [~ 481]
 [~ 482]
 [~ 483]
 [~ 484]
-
+Boiling, magma-like blood circulates through its\nbody. It makes its dwelling place in volcanic caves.
 [~ 486]
 [~ 487]
 [~ 488]
 [~ 489]
 [~ 490]
-
+It can lull people into a deep sleep and make them\ndream. It is active on nights with a new moon.
 [~ 492]
 [~ 493]
 [~ 494]
@@ -507,16 +507,16 @@ Using luminescent matter within its body, it\nmakes its eyes and body glow and s
 [~ 506]
 [~ 507]
 [~ 508]
-
-
+Purrloin steals from people for fun, but its\nbehavior is so charming that its victims can’t\nhelp but forgive it.
+Liepard appear without warning and disappear\njust as unexpectedly. Their beautiful physique\nand fur charm many Trainers.
 It shares the leaves on its head with weary\nPokémon. These leaves reduce fatigue.
 Ill-tempered, it fights by swinging its barbed tail\naround wildly. The leaves growing on its head are\nvery bitter.
 Very intelligent, it roasts berries before eating\nthem. It likes to help people.
 When it gets excited, embers rise from its head\nand tail and it gets hot. For some reason, it loves\nsweets.
 The water stored inside the tuft on its head is full\nof nutrients. It provides this water to plants by\nusing its tail.
 It prefers places with clean water. When the\nstores of water on its head run low, it replenishes\nits supply by siphoning up more with its tail.
-
-
+It eats the dreams of people and Pokémon. When\nit eats a pleasant dream, it expels pink-colored\nmist.
+The mist from its forehead takes the shape of\nthings that appeared in dreams Musharna has\neaten, giving those dreams physical form.
 [~ 519]
 [~ 520]
 [~ 521]
@@ -536,8 +536,8 @@ It touches others with the feelers on its ears,\nusing the sound of their heartb
 [~ 535]
 [~ 536]
 [~ 537]
-
-
+They train strenuously in groups of five. Any\nmember that can’t keep up will discard its belt\nand leave the group.
+Tightening their belts gets them pumped and\nmakes their punches more destructive. Disturb\ntheir training and you’ll earn their wrath.
 [~ 540]
 [~ 541]
 [~ 542]
@@ -560,8 +560,8 @@ They never allow prey to escape. Their jaws are so\npowerful, they can tear apar
 Its skin has a rubbery elasticity, so it can reduce\ndamage by defensively pulling its skin up to its\nneck.
 It pulls up its shed skin to protect itself while it\nkicks. The bigger the crest, the more arrogantly\nit behaves.
 [~ 561]
-
-
+Each Yamask carries a mask representing the face\nit had when it was still human. Sometimes it\ngazes at the mask and weeps.
+Grave robbers sometimes mistake this Pokémon\nfor a real coffin and get too close to it. They end\nup trapped within Cofagrigus’s body.
 [~ 564]
 [~ 565]
 [~ 566]
@@ -588,8 +588,8 @@ If both heads get angry simultaneously, this\nPokémon expels a blizzard from it
 The energy made in its cheeks’ electric pouches is\nstored inside its patagial membranes and released\nwhile it is gliding.
 [~ 588]
 [~ 589]
-
-
+It lures targets in with its Poké Ball–like pattern\nand sprays poison spores at them. Why it\nresembles a Poké Ball is unknown.
+They show off their Poké Ball caps in an attempt\nto lure prey close, but few Pokémon are fooled.
 [~ 592]
 [~ 593]
 [~ 594]
@@ -613,15 +613,15 @@ Being consumed in Chandelure’s flame burns up\nthe spirit, leaving the body be
 [~ 612]
 [~ 613]
 [~ 614]
-
+Cryogonal use chains made of ice crystals to\nensnare prey. They freeze their victims at −148\ndegrees Fahrenheit.
 [~ 616]
 [~ 617]
 It conceals itself in the mud of the seashore. Then\nit waits. When prey touch it, it delivers a jolt of\nelectricity.
 [~ 619]
 [~ 620]
 [~ 621]
-
-
+Ancient people apparently fashioned Golett out of\nclay to do their labor for them. What powers these\nPokémon remains unclear.
+It’s said that inside Golurk is a perpetual motion\nmachine that produces energy, but the truth is\nnot yet known.
 [~ 624]
 [~ 625]
 [~ 626]
@@ -636,18 +636,18 @@ It conceals itself in the mud of the seashore. Then\nit waits. When prey touch i
 [~ 635]
 [~ 636]
 [~ 637]
-
-
-
+It has a body and heart of steel. One glare from\nCobalion can bring even the most ferocious of\nPokémon to heel.
+It charges with enough force to break through a\ngiant castle wall in one blow. This Pokémon\nis spoken of in legends.
+It confounds opponents with its quick movement,\ndarting around them like a whirlwind as it carves\nthem up mercilessly with its sharp horns.
 [~ 641]
 [~ 642]
 [~ 643]
 [~ 644]
 [~ 645]
 [~ 646]
-
-
-
+By shooting water from its hooves, Keldeo can\ntravel across the water’s surface as if skating. It’s\nskilled at using kicking moves in battle.
+Sung using a special vocalization technique,\nMeloetta’s songs can manipulate the emotions\nof those who hear them.
+This bug Pokémon of the Paleozoic era was\nrevived by a certain organization, which also\nupgraded the cannon on Genesect’s back.
 The quills on its head are usually soft. When it\nflexes them, the points become so hard and sharp\nthat they can pierce rock.
 They strengthen their lower bodies by running\ninto one another. They are very kind and won’t\nstart fights.
 Its tackle is forceful enough to flip a 50-ton tank.\nIt shields its allies from danger with its own body.
@@ -719,7 +719,7 @@ It’s said that when its life comes to an end, it\nabsorbs the life energy of e
 It’s hypothesized that it’s monitoring those who\ndestroy the ecosystem from deep in the cave\nwhere it lives.
 Diancie is a spontaneous mutation of Carbink. Its\npink, glimmering body is said to be the loveliest\nsight in the whole world.
 It uses loops to gather things it likes and take\nthem to its secret home. It also teleports through\na loop.
-It expels its internal steam from the arms on its\nback. It has enough power to blow away a\nmountain.
+It expels its internal steam from the arms\non its back. It has enough power to blow\naway a mountain.
 [~ 722]
 [~ 723]
 [~ 724]
@@ -737,8 +737,8 @@ It expels its internal steam from the arms on its\nback. It has enough power to 
 [~ 736]
 [~ 737]
 [~ 738]
-
-
+Its hard pincers are well-suited to both offense\nand defense. Fights between two Crabrawler are\nlike boxing matches.
+It punches things without pausing to think. There\nare even records of Crabominable forcing back an\navalanche with a flurry of punches.
 [~ 741]
 [~ 742]
 [~ 743]
@@ -765,10 +765,10 @@ It expels its internal steam from the arms on its\nback. It has enough power to 
 [~ 764]
 [~ 765]
 [~ 766]
-
-
-
-
+Its habitat includes everything from beaches to\nseabeds. It is happy to eat up even rotten scraps,\nproviding a sort of natural cleaning service.
+It has the skill to cleave even air or seawater in\ntwo with a flash of its giant, sharp claws.
+Grudges of the dead have possessed a mound of\nsand and become a Pokémon. Sandygast is fond\nof the shovel on its head.
+Heaps of bones lie buried beneath its castle. They\ncame from those whom Palossand drained of\nvitality and left all dried up.
 [~ 771]
 [~ 772]
 [~ 773]
@@ -776,7 +776,7 @@ It expels its internal steam from the arms on its\nback. It has enough power to 
 [~ 775]
 [~ 776]
 [~ 777]
-
+A lonely Pokémon, it conceals its terrifying\nappearance beneath an old rag so it can get closer\nto people and other Pokémon.
 [~ 779]
 It has a compassionate personality, but if it is\nangered, it completely destroys its surroundings\nwith its intense breath.
 [~ 781]
@@ -799,15 +799,15 @@ It has a compassionate personality, but if it is\nangered, it completely destroy
 [~ 798]
 [~ 799]
 [~ 800]
-
-
+This Pokémon was built by a scientist roughly\n500 years ago. The part called the Soul-Heart is\nthe actual life-form.
+It slips into others’ shadows and mimics their\nmovements and powers. With time, its prowess\nwill surpass that of those it originally imitated.
 [~ 803]
 [~ 804]
 [~ 805]
 [~ 806]
-
-
-
+Electricity sparks from the pads on its limbs.\nWherever Zeraora runs, lightning flashes and\nthunder echoes.
+Its body is made up of molten steel. It melts\nparticles of iron and other metals it finds in the\nground and absorbs them into itself.
+It was worshipped long ago for its capacity to\nproduce iron. For some reason, it has come back\nto life after 3,000 years.
 [~ 810]
 [~ 811]
 [~ 812]
@@ -819,14 +819,14 @@ It has a compassionate personality, but if it is\nangered, it completely destroy
 [~ 818]
 [~ 819]
 [~ 820]
-
-
-
+This valiant Pokémon will challenge any foe, no\nmatter how mighty. Even if that backfires and\nRookidee loses, it grows from the experience.
+Corvisquire are intelligent enough to use tools.\nThey’ll use their feet to pick up and fling pebbles\nor wrap their enemies in ropes.
+Its wings, now made of steel, are extremely\ntough. Even if it’s attacked mid-flight, Corviknight\nflies on mightily through the sky, unbothered.
 [~ 824]
 [~ 825]
 [~ 826]
-
-
+It filches food from people and Pokémon alike.\nWhile fleeing the scene, it wipes its tracks away\nwith its tail to throw off pursuers.
+This clever Pokémon marks potential targets with\nits scent, then follows its nose to locate their\nnests.
 [~ 829]
 [~ 830]
 [~ 831]
@@ -846,12 +846,12 @@ It has a compassionate personality, but if it is\nangered, it completely destroy
 [~ 845]
 [~ 846]
 [~ 847]
-
-
+It manipulates the chemical makeup of its poison\nto produce electricity. The wattage is weak, but it\ncan cause a tingling numbness.
+When Toxtricity claws at the protrusions on its\nchest to generate electricity, a sound like that of a\nguitar echoes through the air.
 [~ 850]
 [~ 851]
-
-
+The bulbous ends of its tentacles are perfect for\npummeling but next to useless for gripping.
+Grapploct pins opponents to the ground with its\nprized tentacles. Not even monstrously strong\nPokémon can wrestle free from its hold.
 [~ 854]
 [~ 855]
 [~ 856]
@@ -861,11 +861,11 @@ It has a compassionate personality, but if it is\nangered, it completely destroy
 [~ 860]
 [~ 861]
 [~ 862]
-
+In battle, Perrserker boasts unrivaled strength,\nand many epic sagas tell of its valor. But in its\nhome, it leaves garbage everywhere.
 [~ 864]
-
-
-
+Sirfetch’d has put its soul into nurturing its leek,\nwhich it treasures like life itself. It wields the leek\nsplendidly, performing great feats of combat.
+Its comical dancing is its calling card. When its\nenemies laugh, it seizes the chance to blast them\nwith frigid air of −328 degrees Fahrenheit.
+The scattered pieces of its clay slab have been\nreassembled, allowing the malicious power\ncontained within to be fully unleashed.
 [~ 868]
 [~ 869]
 Five of them are troopers, and one is the brass.\nThe brass’s orders are absolute.
@@ -874,8 +874,8 @@ Five of them are troopers, and one is the brass.\nThe brass’s orders are absol
 [~ 873]
 [~ 874]
 [~ 875]
-
-
+Through its horns, it can pick up on the emotions\nof creatures around it. Positive emotions are the\nsource of its strength.
+This Pokémon is always hungry. It generates\nelectricity by eating seeds it has stored up in its\npocket-like pouches.
 [~ 878]
 [~ 879]
 [~ 880]
@@ -897,8 +897,8 @@ Five of them are troopers, and one is the brass.\nThe brass’s orders are absol
 [~ 896]
 [~ 897]
 [~ 898]
-
-
+Its stone axes get chipped away here and there\nduring ferocious battles, but the process serves\nto make them sharper and sharper.
+Overqwil’s poisonous spikes—now thicker, longer,\nand stronger—will automatically strike toward\nanything that moves.
 [~ 901]
 [~ 902]
 [~ 903]
@@ -917,22 +917,22 @@ Five of them are troopers, and one is the brass.\nThe brass’s orders are absol
 [~ 916]
 [~ 917]
 [~ 918]
-
-
+This Pokémon loves to gambol and roughhouse.\nIt rubs its fur up against others and absorbs their\nlife force until they’re utterly drained.
+At some point during the many years it spent\nguarding the gravestone of its dearly departed\nmaster, it was reborn as a ghost Pokémon.
 [~ 921]
 [~ 922]
 [~ 923]
 [~ 924]
 [~ 925]
-
+Although it boasts fantastic strength and a huge\nbody that stirs up great waves when it thrashes,\nDondozo struggles at catching prey.
 [~ 927]
 [~ 928]
 [~ 929]
 [~ 930]
 [~ 931]
 [~ 932]
-
-
+Capsakid is prone to intense mood swings,\nperhaps influenced by the spicy chemicals inside\nit. It will bite anything it takes a disliking to.
+Its two heads have different temperaments and\nexcel at different fighting styles. Nevertheless,\nthey act in perfect harmony on the battlefield.
 [~ 935]
 [~ 936]
 [~ 937]
@@ -942,35 +942,35 @@ Five of them are troopers, and one is the brass.\nThe brass’s orders are absol
 [~ 941]
 [~ 942]
 [~ 943]
-
-
-
-
-
+Frigibax’s dorsal fin can convert heat from fiery\nmoves into Ice-type energy to freeze the air.
+Arctibax is armed with a bladed dorsal fin and a\nmask made of ice. It is agile in its movements,\nspringing upon foes to deliver slashing attacks.
+Baxcalibur exhales air cold enough to freeze lava.\nIt uses its breath to freeze foes, then pulverizes\nthem with a blow from its tail.
+Tatsugiri will battle furiously among themselves\nto determine which of them will get to partner\nwith a particular Dondozo.
+Cyclizar keeps energy stored in the folds of its\nthroat, allowing it to run nonstop over very long\ndistances while carrying someone.
 [~ 949]
 [~ 950]
 [~ 951]
 [~ 952]
 [~ 953]
 [~ 954]
-
-
+Squawkabilly form flocks based on the color of\ntheir plumage. Green ones are abundant because\ntheir coloration is more likely to be passed down.
+A flock of Flamigo can reach numbers of over\n10,000. The sight of one of these massive flocks\nmoving together in sync is incredible to behold.
 [~ 957]
-
-
-
-
-
-
-
-
-
-
-
+As Nacli treads along the ground, grains of rock\nsalt are left behind. These trails have been called\n“salt roads” since long ago.
+This absent-minded Pokémon tends to forget\nabout the prey it has salt-cured. It’s even prone to\nforgetting the orders its Trainer has given it.
+Rock salt obtained from Garganacl has many\nrestorative elements and is helpful for\nmaintaining one’s health.
+Glimmet clings to the ceilings of caves. It defends\nitself by striking enemies with its bud, which is\npacked with poisonous components.
+Glimmora blooms into a large flower made of\npoisonous components. It works together with\ngroups of Glimmet to repel enemies.
+Shroodle protects itself from foes using both its\npoisonous saliva and its front teeth, which are\ndisproportionately big and long for its small body.
+What Grafaiai eats affects the color of its saliva.\nWith this saliva, it paints patterns on rocks and\ntrees in order to protect its territory.
+This Pokémon cultivates yeast within its body. It\nhas lived with humans—and helped enrich their\ndiets—since ancient times.
+The appetizing scent of Dachsbun’s body sends\nopponents’ hunger into overdrive, wearing down\ntheir willpower and stamina.
+Packs of these Pokémon are incredibly close-knit.\nIn order to be taken seriously, Maschiff intimidate\nothers by wearing a grumpy expression.
+Contrary to appearances, Mabosstiff has a kind\nheart—but it will relentlessly chase down and put\nan end to any foe that dares threaten its family.
 [~ 969]
 [~ 970]
-
-
+It lurks inside a sturdy treasure chest and\npossesses solid defenses, but it’s so heavy that it\nhas difficulty moving around.
+This Pokémon likes lively places. Some wild\nGholdengo even live in cities.
 [~ 973]
 [~ 974]
 [~ 975]
@@ -993,17 +993,17 @@ Five of them are troopers, and one is the brass.\nThe brass’s orders are absol
 [~ 992]
 [~ 993]
 [~ 994]
-
-
-
-
-
-
+Tinkatink cobbles together a suitable hammer for\nitself using tools and metal fragments it finds in\nmines.
+Tinkatuff sometimes come to human settlements,\nwhere they rummage through factories and\nwarehouses to gather metal.
+A Tinkaton leader teaches the Tinkatink in its\ngroup the skills needed for pounding and shaping\nmetal.
+This Pokémon is skilled at manipulating flames.\nHumans have prized it highly since ancient times.
+Though Armarouge pledges loyalty to its Trainer,\nit repeatedly leaves to go train on its own to\nstrengthen its psychic energy.
+It swears loyalty to its Trainer. Should anyone\ndare to show that Trainer hostility, Ceruledge will\ncut the offender down without a second thought.
 [~ 1001]
 [~ 1002]
 [~ 1003]
 [~ 1004]
-
+Primeape evolved into Annihilape after repeatedly\nusing a move with enough force to burst the\nblood vessels in its head.
 In order to support its flower, which has\ngrown larger due to Mega Evolution, its\nback and legs have become stronger.
 [~ 1007]
 The overwhelming power that fills its entire body\ncauses it to turn black and creates intense blue\nflames.
@@ -1028,8 +1028,8 @@ With its muscular strength now greatly increased,\nit can fly continuously for t
 [~ 1027]
 [~ 1028]
 It uses psychokinesis to control electricity. It hops\naboard its own tail, using psychic power to lift\nthe tail and move about while riding it.
-
-
+It resembles an X as it flies through the air with\n50 million volts of electricity sparking from its\nears and forked tail.
+It fires bolts of electricity from the tip of its tail\nand from the spiky tufts of fur growing out of its\ntemples. This electricity forms the letter Y.
 [~ 1032]
 [~ 1033]
 It flies by using the power of moonlight to control\ngravity within a radius of over 32 feet around it.
@@ -1037,10 +1037,10 @@ It flies by using the power of moonlight to control\ngravity within a radius of 
 [~ 1036]
 [~ 1037]
 [~ 1038]
-
-
+It’s fickle, selfish, and easily bored. This species is\nvery popular with certain Trainers—ones who\nprefer fulfilling others’ needs over their own.
+Its unkempt beard is a vestige from living in cold\nclimes. It fights dauntlessly using its steel claws.
 [~ 1041]
-
+Its round face is a symbol of wealth. Persian that\nhave bigger, plumper faces are considered more\nbeautiful.
 Alakazam has traded away its muscles,\nunleashing its true power. With its psychic\npowers, it can foresee all things.
 [~ 1044]
 The volume of this Pokémon’s acid has increased\ndue to Mega Evolution, filling its mouth. If it’s\nnot careful, the acid will overflow and spill out.
@@ -1052,19 +1052,19 @@ The volume of this Pokémon’s acid has increased\ndue to Mega Evolution, filli
 Although this Pokémon is normally zoned out, its\nexpression abruptly sharpens on occasion. The\ncause for this seems to lie in Slowpoke’s diet.
 When bathed in the energy of Mega Evolution,\nShellder converts into impregnable armor. There\nis virtually no change in Slowpoke.
 A Shellder bite set off a chemical reaction with\nthe spices inside Slowbro’s body, causing\nSlowbro to become a Poison-type Pokémon.
-
+Wielding a thick, heavy leek has strengthened its\nbody. In battle, it bets everything on a single\ndestructive blow.
 [~ 1055]
 [~ 1056]
 It can pass through other dimensions and appear\nanywhere. It caused a stir one time when it stuck\njust one leg out of a wall.
 [~ 1058]
 [~ 1059]
 [~ 1060]
-
+It has transformed the spirit of its dear departed\nmother into flames, and tonight it will once again\ndance in mourning of others of its kind.
 [~ 1062]
 [~ 1063]
 Its child has grown rapidly, thanks to the\nenergy of Mega Evolution. Mother and child\nshow off their harmonious teamwork in battle.
 Its movements have become more humanlike.\nWhether it’s simply trying to communicate or\nwants to supplant humanity is unclear.
-
+It uses its tap-dancing steps to rapidly chill the\nsurrounding area and form a splendid stage made\nof ice.
 After Mega Evolution, it becomes able to fly.\nPerhaps because it’s so happy, it rarely touches\nthe ground.
 [~ 1068]
 [~ 1069]
@@ -1114,16 +1114,16 @@ A combination of toxins and the shock of evolving\nhas increased Shellder’s in
 [~ 1113]
 [~ 1114]
 To protect itself from opponents’ attacks, it uses\nmagnetism to control pieces of its hard outer\nshell that have flaked off.
-
+This Pokémon eats toxic minerals to build up\npoison within itself. Get jabbed by it, and you’ll\nface three days and three nights of misery.
 Due to the effects of Mega Evolution, its pincers\nhave taken on a more diabolical form, ripping\nanything they pinch to shreds.
 It can grip things with its two horns and\nlift 500 times its own body weight.
 [~ 1119]
 It flies faster than the speed of sound. After\nwhipping up shock waves to send enemies flying,\nit finishes them off with its talons.
 Houndoom’s entire body generates heat when it\nMega Evolves. Its intense, fiery breath turns its\nopponents to charcoal.
 The effects of Mega Evolution make it more\nferocious than ever. It’s unclear whether it can\neven hear its Trainer’s orders.
-
-
-
+The seeds on its back are filled with energy from\nMega Evolution. The Pokémon detonates these\nseeds to launch the tip of its tail.
+Boiling-hot blood courses through its entire body,\ndoubling the sharpness of its moves. It subdues\nopponents in the blink of an eye.
+The water within its body further strengthens its\nalready enlarged muscles, using the same\nprinciples as a hydraulic pump.
 [~ 1126]
 [~ 1127]
 When it opens the red plate on its chest and\nunleashes its heart, its strongest psychic power\nis released.
@@ -1139,21 +1139,21 @@ Its down is so soft, it seems as if a touch could\nmelt it. But it’s strong en
 [~ 1138]
 [~ 1139]
 Mega Evolution increases its vindictiveness, and\nthe cursing power that was held back by its zipper\ncomes spilling out.
-
+It vibrates its entire body to attack in all directions\nusing sound waves. Any who hear the vibrations\nget so confused, they forget who they are.
 When this Pokémon whips the winglike fur on its\nback as though beating its wings, it sends an\nintimidating aura flying at its opponents.
-
+Using fur that it has made into sharp, clawlike\nshapes, it cuts down foes with a single blow. This\nis an act of kindness to keep them from suffering.
 When it spews stupendously cold air from its\nbroken mouth, the entire area around it gets\nwhited out.
 To streamline itself for flight, it pulls its forelegs\ninto its shell. Salamence flies at high speeds even\nwhen faced with complex topographical features.
 This form results from\none Metagross, one Metang,\nand two Beldum linking up.
-
-
-
-
-
+Both its flying capabilities and its attack power\nhave increased. It scatters transparent down to\nconfuse its enemies.
+It flies at speeds exceeding Mach 4. It is among\nthe top tier of all Pokémon in terms of aerial\ncombat capability.
+Kyogre reverted to this state via the Blue Orb,\nwhich contains the energy of the primordial\nworld. Kyogre’s body resembles seawater.
+This is Groudon’s true form, restored using the\nRed Orb. Energy spills from its body in the form\nof magma.
+A shooting star streaking across the night sky\nmay, in fact, be Mega Rayquaza flying gracefully\nafter a meteoroid.
 [~ 1152]
 [~ 1153]
 [~ 1154]
-
+Mega Staraptor is a top-class flier. It can easily\nsoar through the sky while gripping a Steelix that\nweighs more than 880 lbs.
 [~ 1156]
 [~ 1157]
 [~ 1158]
@@ -1165,20 +1165,20 @@ This form results from\none Metagross, one Metang,\nand two Beldum linking up.
 [~ 1164]
 It swings its ears like whips and strikes its\nenemies with them. It has an intensely combative\ndisposition.
 Its disposition is more vicious than before its\nMega Evolution. Garchomp carves its opponents\nup with the scythes on both arms.
-
+Garchomp has gained a new Mega-Evolved form.\nIt flies around foes at Mach speed and cuts them\nto shreds with its sinister wing claws.
 Black streaks all over its body show where its\nauras and the energy of Mega Evolution\nintermingled and raced through it.
-
+By completely cloaking itself in its aura, Mega\nLucario Z can parry all manner of attacks, battling\nas if it were gracefully dancing.
 The buds on its back have sprouted into\nimpressive icicles that can whip up massive\nblizzards of −22 degrees Fahrenheit.
 It gets power from the bond it has with its Trainer.\nMega Evolution has given it plates to slice its\nenemies and a cape to protect its body.
 This Pokémon can use eerie cold air imbued with\nghost energy to freeze even insubstantial things,\nsuch as flames or the wind.
-
-
-
-
-
-
+This Rotom has possessed a convection\nmicrowave oven that uses a special motor. It has a\nflair for manipulating flames.
+This Rotom has possessed a washing machine\nthat uses a special motor. It blasts out water to\nintimidate opponents.
+This Rotom has possessed a refrigerator that uses\na special motor. It battles by spewing cold air.
+This Rotom has possessed an electric fan that\nuses a special motor. It sends its enemies flying\nwith gusts of wind.
+This Rotom has possessed a lawn mower that\nuses a special motor. As it mows down grass, it\nscatters the clippings everywhere.
+It’s said that if it goes all out, it can heat its body\nup to temperatures over 1.8 million degrees\nFahrenheit. This heat keeps enemies at bay.
 [~ 1179]
-
+Its dark power blocks out the sun, plunging the\nsurrounding area into darkness. There is no\nescaping its evil eye.
 [~ 1181]
 [~ 1182]
 [~ 1183]
@@ -1208,7 +1208,7 @@ Its deadly venom gives off a faint glow. The venom\naffects Scolipede’s mind, 
 [~ 1207]
 [~ 1208]
 Mega Evolution has caused Scrafty’s shed skin to\nturn white, growing tough and supple. Of course,\nthis Pokémon is still as feisty as ever.
-
+A cursed clay slab and a departed spirit have\nbecome bound together. This Pokémon swings its\nslab around with malicious intent.
 [~ 1211]
 [~ 1212]
 [~ 1213]
@@ -1221,18 +1221,18 @@ Mega Evolution has caused Scrafty’s shed skin to\nturn white, growing tough an
 It now generates 10 times the electricity it did\nbefore Mega Evolving. It discharges this electricity\nfrom its false Eelektrik, which are made of mucus.
 One of its eyes is a window linking our world with\nthe afterlife. This Pokémon draws in hatred and\nconverts it into power.
 Living in mud with a high iron content has given\nit a strong steel body.
-
+The energy within Golurk has been stimulated by\nMega Evolution. The Pokémon could explode at\nany moment.
 [~ 1224]
 [~ 1225]
 [~ 1226]
 [~ 1227]
 [~ 1228]
-
-
-
-
-
-
+Keldeo’s magnificent horn is proof of its resolve.\nIts allies provided guidance, and their hopes\nbecame Keldeo’s tricolored plume of feathers.
+Now that it has reclaimed a long-forgotten song,\nMeloetta captivates everyone with its enchanting\ndance steps.
+Genesect assumes its flight configuration to soar\nthrough the sky. Its current form is equipped with\na cassette loaded with water energy.
+Genesect fires off projectile energy blasts. Its\ncurrent form is equipped with a cassette loaded\nwith electric energy.
+Genesect possesses sharp steel claws. Its\ncurrent form is equipped with a cassette\nloaded with fire energy.
+Genesect is devoid of mercy. Its current form is\nequipped with a cassette loaded with ice energy.
 It has fortified armor and a will to defend at all\ncosts. Both are absurdly strong.
 It wields flaming branches to dazzle its opponents\nbefore incinerating them with a huge fireball.
 It creates throwing stars out of compressed\nwater. When it spins them and throws them at\nhigh speed, these stars can split metal in two.
@@ -1320,7 +1320,7 @@ Historically, in the Kalos region, these Pokémon\nwere the designated guardians
 Historically, in the Kalos region, these Pokémon\nwere the designated guardians of the king.
 Historically, in the Kalos region, these Pokémon\nwere the designated guardians of the king.
 Females are a bit more selfish and aggressive\nthan males. If they don’t get what they want, they\nwill torment you with their psychic abilities.
-
+Mega Meowstic can use its psychic power to\ncompress or expand anything. It overwhelms foes\nby contorting space itself.
 This stance is dedicated to offense. It can cleave\nany opponent with the strength and weight of its\nsteel blade.
 It uses its colorful lights to overwrite the\npersonalities and memories of others—and to\ncontrol them.
 It uses its many arms to toy with its opponents.\nThis keeps the head extremely busy.
@@ -1345,7 +1345,7 @@ This Pokémon is also known as the Royal\nPink Princess. The dazzling, sparkling
 This is Hoopa’s true form, in which it has\nregained its sealed powers. The hole in its chest is\nsaid to connect to another dimension.
 [~ 1345]
 [~ 1346]
-
+It can pulverize reinforced concrete with a light\nswing of one of its fists, each of which is covered\nin a thick layer of ice.
 [~ 1348]
 [~ 1349]
 [~ 1350]
@@ -1357,7 +1357,7 @@ This is Hoopa’s true form, in which it has\nregained its sealed powers. The ho
 [~ 1356]
 [~ 1357]
 [~ 1358]
-
+It uses four of its arms to fiercely assail its foes.\nOnce they’ve been pushed to the brink of defeat,\nit finishes them off with the arms it kept hidden.
 [~ 1360]
 [~ 1361]
 [~ 1362]
@@ -1389,7 +1389,7 @@ This is Hoopa’s true form, in which it has\nregained its sealed powers. The ho
 [~ 1388]
 [~ 1389]
 [~ 1390]
-
+Mimikyu is sad that it may be exposed for what it\nreally is. It will take revenge on whoever broke the\nneck of its disguise—no forgiveness.
 [~ 1392]
 [~ 1393]
 Drampa’s cells have been invigorated, allowing\nit to regain its youth. It manipulates the\natmosphere to summon storms.
@@ -1397,10 +1397,10 @@ Drampa’s cells have been invigorated, allowing\nit to regain its youth. It man
 [~ 1396]
 [~ 1397]
 [~ 1398]
-
-
-
-
+This Magearna looks as it did at the time of its\ninvention. Its magnificent ornamentation\ndelighted the king’s daughter.
+This is Magearna once a previously hidden mode\nactivates. The emotions Magearna had begun to\nfeel now hide away as it fells foe after foe.
+A mechanism to remove Magearna’s limitations\nhas lain secretly within Magearna for 500 years.\nThis mechanism is triggered by a Mega Stone.
+It stores up 10 lightning strikes’ worth of\nelectricity. When it stops limiting itself, it’s\nin the strongest class of electric Pokémon.
 [~ 1403]
 [~ 1404]
 [~ 1405]
@@ -1414,7 +1414,7 @@ Drampa’s cells have been invigorated, allowing\nit to regain its youth. It man
 [~ 1413]
 [~ 1414]
 [~ 1415]
-
+On its chest is an electricity-generating organ. A\nsound like that of a bass guitar echoes all around\nwhile this organ produces electricity.
 [~ 1417]
 [~ 1418]
 [~ 1419]
@@ -1432,8 +1432,8 @@ Drampa’s cells have been invigorated, allowing\nit to regain its youth. It man
 [~ 1431]
 Mega Falinks has taken on the ultimate battle\nformation, which can be achieved only if the\ntroopers and brass have the strongest of bonds.
 [~ 1433]
-
-
+These Pokémon are highly intelligent. They touch\nhorns with their fellow Indeedee to share\ninformation with one another.
+Intense hunger drives it to extremes of violence,\nand the electricity in its cheek sacs has converted\ninto a Dark-type energy.
 [~ 1436]
 [~ 1437]
 [~ 1438]
@@ -1449,18 +1449,18 @@ Mega Falinks has taken on the ultimate battle\nformation, which can be achieved 
 [~ 1448]
 [~ 1449]
 [~ 1450]
-
+Mega Evolution has dialed up this Pokémon’s\nspiciness. It swings its “necktie” around to wallop\nits foes.
 [~ 1452]
-
-
-
-
-
-
-
-
-
-
-
+Baxcalibur’s dorsal blade has grown even more\nmassive thanks to Mega Evolution. This Pokémon\nfires beams from the hilt at its solar plexus.
+Even if swallowed by a foe, Tatsugiri will try to\nmake its escape through various means, such as\nby inflating its throat sac.
+Tatsugiri assesses situations using its sharp\nintellect. If it determines there is no hope of\nwinning, it flees as fast as it can.
+Tatsugiri’s brain has been invigorated by Mega\nEvolution, making it even wilier. It can create and\ncommand copies of itself.
+It solidifies the energy of Mega Evolution,\nbuilding up an overflowing pile to launch as\nprojectiles. These projectiles explode on contact.
+Using the energy of Mega Evolution, it creates a\ndish to ride upon, allowing it to move with total\nfreedom—even through the air.
+Squawkabilly with blue plumage are the second\nmost populous variety after their green\ncounterparts, which they view as foes.
+Squawkabilly with yellow plumage grew\nincreasingly aggressive in order to be taken\nseriously by the more populous varieties.
+This is the least populous variety of Squawkabilly.\nThey don’t like conflict, but when they have to\nfight, they do so valiantly and resolutely.
+Glimmora’s petals—now larger and separated\nfrom its main body—rotate around it to provide\ndefense while scattering poisonous fragments.
+If it senses it’s about to be found by a human or a\nPokémon, Gimmighoul will turn invisible to\nprotect itself, leaving only its coin visible.
 [~ 1464]
 [~ 1465]

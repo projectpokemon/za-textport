@@ -105,3 +105,56 @@ TM104	Erupción
 TM105	Ventisca
 TM106	Trueno
 TM107	Cuerpo a Cuerpo
+TM108	Puño Cometa
+TM109	Fachada
+TM110	Agua Fría
+TM111	Canto
+TM112	Bomba Ácida
+TM113	Barredora
+TM114	Carga de Fuego
+TM115	Abrecaminos
+TM116	Día de Pago
+TM117	Viento Plateado
+TM118	Puño Sombra
+TM119	Viento Ominoso
+TM120	Poder Antiguo
+TM121	Tormento
+TM122	Falsa Bofetada
+TM123	Colmillo Veneno
+TM124	Psicocolmillo
+TM125	Mímica
+TM126	Magnetobomba
+TM127	Comesueños
+TM128	Bomba Semilla
+TM129	Llave Giro
+TM130	Rayo Carga
+TM131	Puño Drenador
+TM132	Doble Golpe
+TM133	Patada Ígnea
+TM134	Aletazo Doble
+TM135	Golpe Dual
+TM136	Arenas Ardientes
+TM137	Llave Tempestad
+TM138	Vaho Helado
+TM139	Fanfarronear
+TM140	Agua Lodosa
+TM141	Sorpresa
+TM142	Escaramuza
+TM143	Disparo Escamas
+TM144	Triple Axel
+TM145	Viento Cortante
+TM146	Cabezazo
+TM147	Triataque
+TM148	Escaldar
+TM149	Lanza de Hielo
+TM150	Onda de Vacío
+TM151	Danza de Pétalos
+TM152	Cuchillada Solar
+TM153	Ataque Celestial
+TM154	Fisura
+TM155	Frío Extremo
+TM156	Rayo Meteórico
+TM157	Metaláser
+TM158	Anillo de Fuego
+TM159	Hidrocañón
+TM160	Planta Feroz

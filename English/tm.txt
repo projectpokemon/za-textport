@@ -105,3 +105,56 @@ TM104	Flare Blitz
 TM105	Blizzard
 TM106	Thunder
 TM107	Close Combat
+TM108	Comet Punch
+TM109	Facade
+TM110	Chilling Water
+TM111	Sing
+TM112	Acid Spray
+TM113	Low Sweep
+TM114	Flame Charge
+TM115	Trailblaze
+TM116	Pay Day
+TM117	Silver Wind
+TM118	Shadow Punch
+TM119	Ominous Wind
+TM120	Ancient Power
+TM121	Torment
+TM122	False Swipe
+TM123	Poison Fang
+TM124	Psychic Fangs
+TM125	Mimic
+TM126	Magnet Bomb
+TM127	Dream Eater
+TM128	Seed Bomb
+TM129	Circle Throw
+TM130	Charge Beam
+TM131	Drain Punch
+TM132	Double Hit
+TM133	Blaze Kick
+TM134	Dual Wingbeat
+TM135	Dual Chop
+TM136	Scorching Sands
+TM137	Storm Throw
+TM138	Frost Breath
+TM139	Swagger
+TM140	Muddy Water
+TM141	Fake Out
+TM142	First Impression
+TM143	Scale Shot
+TM144	Triple Axel
+TM145	Razor Wind
+TM146	Skull Bash
+TM147	Tri Attack
+TM148	Scald
+TM149	Icicle Spear
+TM150	Vacuum Wave
+TM151	Petal Dance
+TM152	Solar Blade
+TM153	Sky Attack
+TM154	Fissure
+TM155	Sheer Cold
+TM156	Meteor Beam
+TM157	Steel Beam
+TM158	Blast Burn
+TM159	Hydro Cannon
+TM160	Frenzy Plant
