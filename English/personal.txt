@@ -1446,7 +1446,7 @@ Type: Electric / Psychic
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: Play Rough
+Alpha Move: Iron Tail
 Level Up Moves:
 - [EVO] Psychic {10}
 - [RELEARN] Draining Kiss {10}
