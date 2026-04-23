@@ -1446,7 +1446,7 @@ Type: Elektro / Psycho
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: Knuddler
+Alpha Move: Eisenschweif
 Level Up Moves:
 - [EVO] Psychokinese {10}
 - [RELEARN] Diebeskuss {10}
@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] Kalte Dusche
 - [TM112] Säurespeier
 - [TM143] Schuppenschuss
-Evolves into Myriador-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into Myriador-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - Scherox #177 (Stage: 2)

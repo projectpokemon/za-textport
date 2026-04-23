@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] Chilling Water
 - [TM112] Acid Spray
 - [TM143] Scale Shot
-Evolves into Overqwil-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into Overqwil-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - Scizor #177 (Stage: 2)

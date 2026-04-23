@@ -1446,7 +1446,7 @@ Type: Électrik / Psy
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: Câlinerie
+Alpha Move: Queue de Fer
 Level Up Moves:
 - [EVO] Psyko {10}
 - [RELEARN] Vampibaiser {10}
@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] Douche Froide
 - [TM112] Bombe Acide
 - [TM143] Rafale Écailles
-Evolves into Qwilpik-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into Qwilpik-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - Cizayox #177 (Stage: 2)

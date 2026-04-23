@@ -24343,7 +24343,7 @@
       "IconName": "item_2618",
       "Price": 0,
       "Pocket": 2,
-      "SlotMaxNum": 999,
+      "SlotMaxNum": 9999,
       "SortNum": 105,
       "PriceMegaShard": 0,
       "PriceColorfulScrew": 0,

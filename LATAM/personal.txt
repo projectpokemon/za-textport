@@ -1446,7 +1446,7 @@ Type: Eléctrico / Psíquico
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: Juego Rudo
+Alpha Move: Cola de Hierro
 Level Up Moves:
 - [EVO] Fuerza Psíquica {10}
 - [RELEARN] Beso Drenador {10}
@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] Agua Fría
 - [TM112] Bomba Ácida
 - [TM143] Disparo Escamas
-Evolves into Overqwil-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into Overqwil-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - Scizor #177 (Stage: 2)

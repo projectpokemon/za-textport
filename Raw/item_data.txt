@@ -467,7 +467,7 @@ Id	ItemType	InternalName	IconName	Price	Pocket	SlotMaxNum	SortNum	PriceMegaShard
 2611	ITEMTYPE_0	TAISETSUNATEGAMI	item_2611	0	4	1	46	0	0	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
 2612	ITEMTYPE_0	OMOIDENOYUBIWA2	item_2596	0	4	1	47	0	0	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
 2613	ITEMTYPE_0	YOGORETASUKAAHU	item_0251	0	4	1	48	0	0	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
-2618	ITEMTYPE_3	MEGAKAKERA	item_2618	0	2	999	105	0	0	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
+2618	ITEMTYPE_3	MEGAKAKERA	item_2618	0	2	9999	105	0	0	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
 2619	ITEMTYPE_3	OMAMORISOZAI	item_2619	0	2	999	106	0	0	True	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
 2620	ITEMTYPE_3	AKANOKANARYINUI1	item_2620	0	4	1	20	0	3	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0
 2621	ITEMTYPE_3	AKANOKANARYINUI2	item_2621	0	4	1	21	0	5	False	WAZA_NULL	-1	False	False	False	False	False	False	False	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	False	False	0	0	0	0	0	0	0	0	False	0

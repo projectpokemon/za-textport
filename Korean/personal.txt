@@ -1446,7 +1446,7 @@ Type: 전기 / 에스퍼
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: 치근거리기
+Alpha Move: 아이언테일
 Level Up Moves:
 - [EVO] 사이코키네시스 {10}
 - [RELEARN] 드레인키스 {10}
@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] 찬물끼얹기
 - [TM112] 애시드봄
 - [TM143] 스케일샷
-Evolves into 장침바루-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into 장침바루-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - 핫삼 #177 (Stage: 2)

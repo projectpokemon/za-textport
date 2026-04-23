@@ -1446,7 +1446,7 @@ Type: 电 / 超能力
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: 嬉闹
+Alpha Move: 铁尾
 Level Up Moves:
 - [EVO] 精神强念 {10}
 - [RELEARN] 吸取之吻 {10}
@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] 泼冷水
 - [TM112] 酸液炸弹
 - [TM143] 鳞射
-Evolves into 万针鱼-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into 万针鱼-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - 巨钳螳螂 #177 (Stage: 2)

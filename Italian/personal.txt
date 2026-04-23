@@ -1446,7 +1446,7 @@ Type: Elettro / Psico
 EXP Group: MediumFast
 Egg Group: Field / Fairy
 Height: 00.70m, Weight: 021.0kg, Color: Brown
-Alpha Move: Carineria
+Alpha Move: Codacciaio
 Level Up Moves:
 - [EVO] Psichico {10}
 - [RELEARN] Assorbibacio {10}
@@ -7866,7 +7866,7 @@ TM Learn:
 - [TM110] Doccia Fredda
 - [TM112] Acidobomba
 - [TM143] Squamacolpo
-Evolves into Overqwil-0 @ lv0 (UseMovePlusStyle) [20]
+Evolves into Overqwil-0 @ lv0 (UseMoveBarbBarrage) [20]
 
 ======
 212 - Scizor #177 (Stage: 2)
